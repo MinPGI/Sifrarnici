@@ -1,2 +1,2 @@
-# AdmTajnice
-REPO za App za uređivanje korisnika u AD po UJ
+# Sifrarnici
+Sifrarnici za internu upotrebu MPGI
