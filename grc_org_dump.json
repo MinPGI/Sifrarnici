@@ -1,0 +1,1773 @@
+[
+  {
+    "Oznaka": "1.",
+    "Naziv": "01. Kabinet ministra",
+    "Parent": "",
+    "Uprava": "1.",
+    "Razina": 1.0
+  },
+  {
+    "Oznaka": "2.",
+    "Naziv": "02. Samostalna služba za unutarnju reviziju",
+    "Parent": "",
+    "Uprava": "2.",
+    "Razina": 1.0
+  },
+  {
+    "Oznaka": "3.",
+    "Naziv": "03. Samostalni sektor za nadzor, žalbe i zastupanje",
+    "Parent": "",
+    "Uprava": "3.",
+    "Razina": 1.0
+  },
+  {
+    "Oznaka": "3.1.",
+    "Naziv": "03.1. Služba za nadzor tijela jedinice lokalne i područne (regionalne) samouprave",
+    "Parent": "3.",
+    "Uprava": "3.",
+    "Razina": 2.0
+  },
+  {
+    "Oznaka": "3.2.",
+    "Naziv": "03.2. Služba za nadzor javnopravnih tijela i kontrolu postupaka obnove",
+    "Parent": "3.",
+    "Uprava": "3.",
+    "Razina": 2.0
+  },
+  {
+    "Oznaka": "3.3.",
+    "Naziv": "03.3. Služba za štete",
+    "Parent": "3.",
+    "Uprava": "3.",
+    "Razina": 2.0
+  },
+  {
+    "Oznaka": "3.4.",
+    "Naziv": "03.4. Služba za žalbe i zastupanje iz područja graditeljstva",
+    "Parent": "3.",
+    "Uprava": "3.",
+    "Razina": 2.0
+  },
+  {
+    "Oznaka": "3.5.",
+    "Naziv": "03.5. Služba za žalbe i zastupanje iz područja prostornoga uređenja",
+    "Parent": "3.",
+    "Uprava": "3.",
+    "Razina": 2.0
+  },
+  {
+    "Oznaka": "3.6.",
+    "Naziv": "03.6. Služba za žalbe i zastupanje iz područja ozakonjenja, komunalnog gospodarstva i stanovanja",
+    "Parent": "3.",
+    "Uprava": "3.",
+    "Razina": 2.0
+  },
+  {
+    "Oznaka": "4.",
+    "Naziv": "04. Glavno tajništvo",
+    "Parent": "",
+    "Uprava": "4.",
+    "Razina": 1.0
+  },
+  {
+    "Oznaka": "4.1.",
+    "Naziv": "04.1. Sektor za pravne poslove",
+    "Parent": "4.",
+    "Uprava": "4.",
+    "Razina": 2.0
+  },
+  {
+    "Oznaka": "4.1.1.",
+    "Naziv": "04.1.1. Služba za opće pravne poslove",
+    "Parent": "4.1.",
+    "Uprava": "4.",
+    "Razina": 3.0
+  },
+  {
+    "Oznaka": "4.1.2.",
+    "Naziv": "04.1.2. Služba za normativne poslove",
+    "Parent": "4.1.",
+    "Uprava": "4.",
+    "Razina": 3.0
+  },
+  {
+    "Oznaka": "4.2.",
+    "Naziv": "04.2. Sektor za ljudske potencijale",
+    "Parent": "4.",
+    "Uprava": "4.",
+    "Razina": 2.0
+  },
+  {
+    "Oznaka": "4.2.1.",
+    "Naziv": "04.2.1. Služba za službeničke odnose",
+    "Parent": "4.2.",
+    "Uprava": "4.",
+    "Razina": 3.0
+  },
+  {
+    "Oznaka": "4.2.2.",
+    "Naziv": "04.2.2. Služba za razvoj ljudskih potencijala",
+    "Parent": "4.2.",
+    "Uprava": "4.",
+    "Razina": 3.0
+  },
+  {
+    "Oznaka": "5.2.1.",
+    "Naziv": "05.2.1. Služba za knjigovodstveno i financijsko izvještavanje i obračun plaće",
+    "Parent": "5.2.",
+    "Uprava": "5.",
+    "Razina": 3.0
+  },
+  {
+    "Oznaka": "5.2.2.",
+    "Naziv": "05.2.2. Služba za likvidaturu i plaćanje računa",
+    "Parent": "5.2.",
+    "Uprava": "5.",
+    "Razina": 3.0
+  },
+  {
+    "Oznaka": "5.2.2.1.",
+    "Naziv": "05.2.2.1. Odjel za formalnu i suštinsku kontrolu računa",
+    "Parent": "5.2.2.",
+    "Uprava": "5.",
+    "Razina": 4.0
+  },
+  {
+    "Oznaka": "5.2.2.2.",
+    "Naziv": "05.2.2.2. Odjel za likvidaturu i salda konti",
+    "Parent": "5.2.2.",
+    "Uprava": "5.",
+    "Razina": 4.0
+  },
+  {
+    "Oznaka": "5.3.",
+    "Naziv": "05.3. Sektor za imovinu oduzetu u kaznenim postupcima",
+    "Parent": "5.",
+    "Uprava": "5.",
+    "Razina": 2.0
+  },
+  {
+    "Oznaka": "5.3.1.",
+    "Naziv": "05.3.1. Služba za evidenciju i izvještavanje",
+    "Parent": "5.3.",
+    "Uprava": "5.",
+    "Razina": 3.0
+  },
+  {
+    "Oznaka": "5.3.2.",
+    "Naziv": "05.3.2. Služba za raspolaganje oduzetom imovinom",
+    "Parent": "5.3.",
+    "Uprava": "5.",
+    "Razina": 3.0
+  },
+  {
+    "Oznaka": "5.4.",
+    "Naziv": "05.4. Sektor za javnu nabavu",
+    "Parent": "5.",
+    "Uprava": "5.",
+    "Razina": 2.0
+  },
+  {
+    "Oznaka": "5.4.1.",
+    "Naziv": "05.4.1. Služba za planiranje i pripremu postupaka javne nabave",
+    "Parent": "5.4.",
+    "Uprava": "5.",
+    "Razina": 3.0
+  },
+  {
+    "Oznaka": "5.4.2.",
+    "Naziv": "05.4.2. Služba za provedbu postupaka javne nabave",
+    "Parent": "5.4.",
+    "Uprava": "5.",
+    "Razina": 3.0
+  },
+  {
+    "Oznaka": "5.5.",
+    "Naziv": "05.5. Sektor za provedbu postupaka nabave u obnovi",
+    "Parent": "5.",
+    "Uprava": "5.",
+    "Razina": 2.0
+  },
+  {
+    "Oznaka": "5.5.1.",
+    "Naziv": "05.5.1. Služba za pripremu dokumentacije za javnu nabavu u obnovi",
+    "Parent": "5.5.",
+    "Uprava": "5.",
+    "Razina": 3.0
+  },
+  {
+    "Oznaka": "5.5.2.",
+    "Naziv": "05.5.2. Služba za provođenje javne nabave u obnovi",
+    "Parent": "5.5.",
+    "Uprava": "5.",
+    "Razina": 3.0
+  },
+  {
+    "Oznaka": "5.5.3.",
+    "Naziv": "05.5.3. Služba za ugovaranje u postupcima obnove",
+    "Parent": "5.5.",
+    "Uprava": "5.",
+    "Razina": 3.0
+  },
+  {
+    "Oznaka": "6.",
+    "Naziv": "06. Uprava za prostorno uređenje",
+    "Parent": "",
+    "Uprava": "6.",
+    "Razina": 1.0
+  },
+  {
+    "Oznaka": "6.1.",
+    "Naziv": "06.1. Sektor za prostorno uređenje",
+    "Parent": "6.",
+    "Uprava": "6.",
+    "Razina": 2.0
+  },
+  {
+    "Oznaka": "6.1.1.",
+    "Naziv": "06.1.1. Služba za prostorne planove državne razine i dokumente prostornoga uređenja",
+    "Parent": "6.1.",
+    "Uprava": "6.",
+    "Razina": 3.0
+  },
+  {
+    "Oznaka": "6.1.2.",
+    "Naziv": "06.1.2. Služba za prostorne planove regionalne i lokalne razine",
+    "Parent": "6.1.",
+    "Uprava": "6.",
+    "Razina": 3.0
+  },
+  {
+    "Oznaka": "6.1.3.",
+    "Naziv": "06.1.3. Služba za digitalizaciju prostornih planova, primjenu i obnovu seizmičkih podataka",
+    "Parent": "6.1.",
+    "Uprava": "6.",
+    "Razina": 3.0
+  },
+  {
+    "Oznaka": "6.2.",
+    "Naziv": "06.2. Sektor lokacijskih dozvola i strateških projekata",
+    "Parent": "6.",
+    "Uprava": "6.",
+    "Razina": 2.0
+  },
+  {
+    "Oznaka": "6.2.1.",
+    "Naziv": "06.2.1. Služba lokacijskih dozvola",
+    "Parent": "6.2.",
+    "Uprava": "6.",
+    "Razina": 3.0
+  },
+  {
+    "Oznaka": "6.2.2.",
+    "Naziv": "06.2.2. Služba strateških projekata",
+    "Parent": "6.2.",
+    "Uprava": "6.",
+    "Razina": 3.0
+  },
+  {
+    "Oznaka": "6.3.",
+    "Naziv": "06.3. Sektor za investicije i digitalizaciju investicijskih procesa",
+    "Parent": "6.",
+    "Uprava": "6.",
+    "Razina": 2.0
+  },
+  {
+    "Oznaka": "6.3.1.",
+    "Naziv": "06.3.1. Služba za investicije",
+    "Parent": "6.3.",
+    "Uprava": "6.",
+    "Razina": 3.0
+  },
+  {
+    "Oznaka": "6.3.2.",
+    "Naziv": "06.3.2. Služba za digitalizaciju investicijskih procesa",
+    "Parent": "6.3.",
+    "Uprava": "6.",
+    "Razina": 3.0
+  },
+  {
+    "Oznaka": "7.",
+    "Naziv": "07. Uprava za graditeljstvo",
+    "Parent": "",
+    "Uprava": "7.",
+    "Razina": 1.0
+  },
+  {
+    "Oznaka": "7.1.",
+    "Naziv": "07.1. Sektor građevinskih i uporabnih dozvola",
+    "Parent": "7.",
+    "Uprava": "7.",
+    "Razina": 2.0
+  },
+  {
+    "Oznaka": "7.1.1.",
+    "Naziv": "07.1.1. Služba za izdavanje građevinskih dozvola",
+    "Parent": "7.1.",
+    "Uprava": "7.",
+    "Razina": 3.0
+  },
+  {
+    "Oznaka": "7.1.1.1.",
+    "Naziv": "07.1.1.1. Odjel za građevine državnog značaja",
+    "Parent": "7.1.1.",
+    "Uprava": "7.",
+    "Razina": 4.0
+  },
+  {
+    "Oznaka": "7.1.1.2.",
+    "Naziv": "07.1.1.2. Odjel za strateške i posebne projekte",
+    "Parent": "7.1.1.",
+    "Uprava": "7.",
+    "Razina": 4.0
+  },
+  {
+    "Oznaka": "7.1.2.",
+    "Naziv": "07.1.2. Služba za obnovu i nacionalne kritične infrastrukture",
+    "Parent": "7.1.",
+    "Uprava": "7.",
+    "Razina": 3.0
+  },
+  {
+    "Oznaka": "7.1.3.",
+    "Naziv": "07.1.3. Služba za tipske projekte i ostale akte",
+    "Parent": "7.1.",
+    "Uprava": "7.",
+    "Razina": 3.0
+  },
+  {
+    "Oznaka": "7.1.4.",
+    "Naziv": "07.1.4. Služba za izdavanje uporabnih dozvola",
+    "Parent": "7.1.",
+    "Uprava": "7.",
+    "Razina": 3.0
+  },
+  {
+    "Oznaka": "7.2.",
+    "Naziv": "07.2. Sektor za graditeljstvo",
+    "Parent": "7.",
+    "Uprava": "7.",
+    "Razina": 2.0
+  },
+  {
+    "Oznaka": "7.2.1.",
+    "Naziv": "07.2.1. Služba za građevno-tehničku regulativu",
+    "Parent": "7.2.",
+    "Uprava": "7.",
+    "Razina": 3.0
+  },
+  {
+    "Oznaka": "7.2.2.",
+    "Naziv": "07.2.2. Služba za građevne proizvode",
+    "Parent": "7.2.",
+    "Uprava": "7.",
+    "Razina": 3.0
+  },
+  {
+    "Oznaka": "8.",
+    "Naziv": "08. Zavod za prostorni razvoj",
+    "Parent": "",
+    "Uprava": "8.",
+    "Razina": 1.0
+  },
+  {
+    "Oznaka": "8.1.",
+    "Naziv": "08.1. Sektor za dokumente prostornoga uređenja državne razine",
+    "Parent": "8.",
+    "Uprava": "8.",
+    "Razina": 2.0
+  },
+  {
+    "Oznaka": "8.1.1.",
+    "Naziv": "08.1.1. Služba za strategiju prostornoga razvoja republike hrvatske i druge dokumente prostornoga uređenja državne razine",
+    "Parent": "8.1.",
+    "Uprava": "8.",
+    "Razina": 3.0
+  },
+  {
+    "Oznaka": "8.1.2.",
+    "Naziv": "08.1.2. Služba za prostorne planove zaštićenih područja posebnih obilježja državne razine",
+    "Parent": "8.1.",
+    "Uprava": "8.",
+    "Razina": 3.0
+  },
+  {
+    "Oznaka": "8.1.3.",
+    "Naziv": "08.1.3. Služba za urbanističke planove uređenja državnog značaja",
+    "Parent": "8.1.",
+    "Uprava": "8.",
+    "Razina": 3.0
+  },
+  {
+    "Oznaka": "8.2.",
+    "Naziv": "08.2. Sektor za prostorna istraživanja, održivi prostorni razvoj i praćenje stanja u prostoru",
+    "Parent": "8.",
+    "Uprava": "8.",
+    "Razina": 2.0
+  },
+  {
+    "Oznaka": "8.2.1.",
+    "Naziv": "08.2.1. Služba za održivi prostorni razvoj i međunarodnu suradnju",
+    "Parent": "8.2.",
+    "Uprava": "8.",
+    "Razina": 3.0
+  },
+  {
+    "Oznaka": "8.2.2.",
+    "Naziv": "08.2.2. Služba za prostorna istraživanja, praćenje stanja u prostoru i izvješćivanje",
+    "Parent": "8.2.",
+    "Uprava": "8.",
+    "Razina": 3.0
+  },
+  {
+    "Oznaka": "8.3.",
+    "Naziv": "08.3. Sektor za prostorne podatke, kartografiku i geoinformatičku podršku",
+    "Parent": "8.",
+    "Uprava": "8.",
+    "Razina": 2.0
+  },
+  {
+    "Oznaka": "8.3.1.",
+    "Naziv": "08.3.1. Služba za prostorne podatke",
+    "Parent": "8.3.",
+    "Uprava": "8.",
+    "Razina": 3.0
+  },
+  {
+    "Oznaka": "8.3.2.",
+    "Naziv": "08.3.2. Služba za kartografiku i geoinformatičku podršku",
+    "Parent": "8.3.",
+    "Uprava": "8.",
+    "Razina": 3.0
+  },
+  {
+    "Oznaka": "9.",
+    "Naziv": "09. Uprava za energetsku učinkovitost u zgradarstvu, projekte i programe europske unije",
+    "Parent": "",
+    "Uprava": "9.",
+    "Razina": 1.0
+  },
+  {
+    "Oznaka": "9.1.",
+    "Naziv": "09.1. Sektor za energetsku učinkovitost u zgradarstvu",
+    "Parent": "9.",
+    "Uprava": "9.",
+    "Razina": 2.0
+  },
+  {
+    "Oznaka": "9.1.1.",
+    "Naziv": "09.1.1. Služba za strateške dokumente i programe energetske obnove zgrada",
+    "Parent": "9.1.",
+    "Uprava": "9.",
+    "Razina": 3.0
+  },
+  {
+    "Oznaka": "9.1.1.1.",
+    "Naziv": "09.1.1.1. Odjel za pripremu i praćenje programa energetske obnove zgrada",
+    "Parent": "9.1.1.",
+    "Uprava": "9.",
+    "Razina": 4.0
+  },
+  {
+    "Oznaka": "9.1.1.2.",
+    "Naziv": "09.1.1.2. Odjel za izradu strateških dokumenata i projekte",
+    "Parent": "9.1.1.",
+    "Uprava": "9.",
+    "Razina": 4.0
+  },
+  {
+    "Oznaka": "9.1.2.",
+    "Naziv": "09.1.2. Služba za informacijski sustav i regulativu",
+    "Parent": "9.1.",
+    "Uprava": "9.",
+    "Razina": 3.0
+  },
+  {
+    "Oznaka": "9.1.2.1.",
+    "Naziv": "09.1.2.1. Odjel za iec, baze i registre",
+    "Parent": "9.1.2.",
+    "Uprava": "9.",
+    "Razina": 4.0
+  },
+  {
+    "Oznaka": "9.1.2.2.",
+    "Naziv": "09.1.2.2. Odjel za regulativu i usklađenje s eu",
+    "Parent": "9.1.2.",
+    "Uprava": "9.",
+    "Razina": 4.0
+  },
+  {
+    "Oznaka": "9.2.",
+    "Naziv": "09.2. Sektor za zelenu urbanu infrastrukturu i kružno gospodarenje prostorom i zgradama",
+    "Parent": "9.",
+    "Uprava": "9.",
+    "Razina": 2.0
+  },
+  {
+    "Oznaka": "9.2.1.",
+    "Naziv": "09.2.1. Služba za programiranje, zelenu urbanu infrastrukturu i kružno gospodarenje prostorom i zgradama",
+    "Parent": "9.2.",
+    "Uprava": "9.",
+    "Razina": 3.0
+  },
+  {
+    "Oznaka": "9.2.1.1.",
+    "Naziv": "09.2.1.1. Odjel za zelenu urbanu infrastrukturu, kružno gospodarenje prostorom i zgradama i horizontalne aktivnosti",
+    "Parent": "9.2.1.",
+    "Uprava": "9.",
+    "Razina": 4.0
+  },
+  {
+    "Oznaka": "9.2.1.2.",
+    "Naziv": "09.2.1.2. Odjel za programiranje i praćenje",
+    "Parent": "9.2.1.",
+    "Uprava": "9.",
+    "Razina": 4.0
+  },
+  {
+    "Oznaka": "9.2.2.",
+    "Naziv": "09.2.2. Služba za provođenje poziva i provedbu programa teritorijalne suradnje, komunikaciju i vidljivost",
+    "Parent": "9.2.",
+    "Uprava": "9.",
+    "Razina": 3.0
+  },
+  {
+    "Oznaka": "9.2.2.1.",
+    "Naziv": "09.2.2.1. Odjel za pripremu poziva, ugovaranje i provedbu programa teritorijalne suradnje",
+    "Parent": "9.2.2.",
+    "Uprava": "9.",
+    "Razina": 4.0
+  },
+  {
+    "Oznaka": "9.2.2.2.",
+    "Naziv": "09.2.2.2. Odjel za provođenje projekata, komunikaciju i vidljivost",
+    "Parent": "9.2.2.",
+    "Uprava": "9.",
+    "Razina": 4.0
+  },
+  {
+    "Oznaka": "9.3.",
+    "Naziv": "09.3. Sektor za projekte europske unije energetske obnove javnih i višestambenih zgrada",
+    "Parent": "9.",
+    "Uprava": "9.",
+    "Razina": 2.0
+  },
+  {
+    "Oznaka": "9.3.1.",
+    "Naziv": "09.3.1. Služba za projekte europske unije energetske obnove javnih zgrada",
+    "Parent": "9.3.",
+    "Uprava": "9.",
+    "Razina": 3.0
+  },
+  {
+    "Oznaka": "9.3.1.1.",
+    "Naziv": "09.3.1.1. Odjel za pripremu poziva i ugovaranje projekata europske unije energetske obnove javnih zgrada",
+    "Parent": "9.3.1.",
+    "Uprava": "9.",
+    "Razina": 4.0
+  },
+  {
+    "Oznaka": "9.3.1.2.",
+    "Naziv": "09.3.1.2. Odjel za provedbu projekata europske unije energetske obnove javnih zgrada",
+    "Parent": "9.3.1.",
+    "Uprava": "9.",
+    "Razina": 4.0
+  },
+  {
+    "Oznaka": "9.3.2.",
+    "Naziv": "09.3.2. Služba za projekte europske unije energetske obnove višestambenih zgrada",
+    "Parent": "9.3.",
+    "Uprava": "9.",
+    "Razina": 3.0
+  },
+  {
+    "Oznaka": "9.3.2.1.",
+    "Naziv": "09.3.2.1. Odjel za pripremu poziva i ugovaranje projekata europske unije energetske obnove višestambenih zgrada",
+    "Parent": "9.3.2.",
+    "Uprava": "9.",
+    "Razina": 4.0
+  },
+  {
+    "Oznaka": "9.3.2.2.",
+    "Naziv": "09.3.2.2. Odjel za provedbu projekata europske unije energetske obnove višestambenih zgrada",
+    "Parent": "9.3.2.",
+    "Uprava": "9.",
+    "Razina": 4.0
+  },
+  {
+    "Oznaka": "9.3.3.",
+    "Naziv": "09.3.3. Služba za prognoziranje, praćenje i horizontalne aktivnosti",
+    "Parent": "9.3.",
+    "Uprava": "9.",
+    "Razina": 3.0
+  },
+  {
+    "Oznaka": "9.4.",
+    "Naziv": "09.4. Sektor za koordinaciju nacionalnog plana oporavka i otpornosti i programa europske unije",
+    "Parent": "9.",
+    "Uprava": "9.",
+    "Razina": 2.0
+  },
+  {
+    "Oznaka": "9.4.1.",
+    "Naziv": "09.4.1. Služba za upravljanje i praćenje provedbe programa europske unije",
+    "Parent": "9.4.",
+    "Uprava": "9.",
+    "Razina": 3.0
+  },
+  {
+    "Oznaka": "9.4.2.",
+    "Naziv": "09.4.2. Služba za koordinaciju provedbe aktivnosti i vidljivost nacionalnog plana oporavka i otpornosti",
+    "Parent": "9.4.",
+    "Uprava": "9.",
+    "Razina": 3.0
+  },
+  {
+    "Oznaka": "9.4.2.1.",
+    "Naziv": "09.4.2.1. Odjel za koordinaciju i izvještavanje",
+    "Parent": "9.4.2.",
+    "Uprava": "9.",
+    "Razina": 4.0
+  },
+  {
+    "Oznaka": "9.4.2.2.",
+    "Naziv": "09.4.2.2. Odjel za informiranje, komunikaciju i vidljivost nacionalnog plana oporavka i otpornosti",
+    "Parent": "9.4.2.",
+    "Uprava": "9.",
+    "Razina": 4.0
+  },
+  {
+    "Oznaka": "9.4.3.",
+    "Naziv": "09.4.3. Služba za rješavanje prigovora i upravljanje nepravilnostima nacionalnog plana oporavka i otpornosti",
+    "Parent": "9.4.",
+    "Uprava": "9.",
+    "Razina": 3.0
+  },
+  {
+    "Oznaka": "9.4.4.",
+    "Naziv": "09.4.4. Služba za zastupanje i pravne poslove programa europske unije",
+    "Parent": "9.4.",
+    "Uprava": "9.",
+    "Razina": 3.0
+  },
+  {
+    "Oznaka": "10.",
+    "Naziv": "10. Uprava za razvoj informacijskih sustava i digitalizaciju",
+    "Parent": "",
+    "Uprava": "10.",
+    "Razina": 1.0
+  },
+  {
+    "Oznaka": "10.1.",
+    "Naziv": "10.1. Sektor za razvoj informacijskog sustava prostornoga uređenja i državne imovine",
+    "Parent": "10.",
+    "Uprava": "10.",
+    "Razina": 2.0
+  },
+  {
+    "Oznaka": "10.1.1.",
+    "Naziv": "10.1.1. Služba za razvoj aplikacija",
+    "Parent": "10.1.",
+    "Uprava": "10.",
+    "Razina": 3.0
+  },
+  {
+    "Oznaka": "10.1.2.",
+    "Naziv": "10.1.2. Služba za registre i digitalnu arhivu",
+    "Parent": "10.1.",
+    "Uprava": "10.",
+    "Razina": 3.0
+  },
+  {
+    "Oznaka": "10.1.3.",
+    "Naziv": "10.1.3. Služba za praćenje rada, edukaciju korisnika sustava i analitiku",
+    "Parent": "10.1.",
+    "Uprava": "10.",
+    "Razina": 3.0
+  },
+  {
+    "Oznaka": "10.1.4.",
+    "Naziv": "10.1.4. Služba za praćenje stanja u prostoru i upravljanje sustavom digitalnih režima",
+    "Parent": "10.1.",
+    "Uprava": "10.",
+    "Razina": 3.0
+  },
+  {
+    "Oznaka": "10.2.",
+    "Naziv": "10.2. Sektor za eu projekte digitalizacije",
+    "Parent": "10.",
+    "Uprava": "10.",
+    "Razina": 2.0
+  },
+  {
+    "Oznaka": "10.2.1.",
+    "Naziv": "10.2.1. Služba za pripremu eu projekata digitalizacije",
+    "Parent": "10.2.",
+    "Uprava": "10.",
+    "Razina": 3.0
+  },
+  {
+    "Oznaka": "10.2.2.",
+    "Naziv": "10.2.2. Služba za provedbu i ugovaranje eu projekata digitalizacije",
+    "Parent": "10.2.",
+    "Uprava": "10.",
+    "Razina": 3.0
+  },
+  {
+    "Oznaka": "10.2.3.",
+    "Naziv": "10.2.3. Služba za praćenje provedbe eu projekata digitalizacije i izvještavanje",
+    "Parent": "10.2.",
+    "Uprava": "10.",
+    "Razina": 3.0
+  },
+  {
+    "Oznaka": "11.",
+    "Naziv": "11. Uprava za pravne poslove u obnovi",
+    "Parent": "",
+    "Uprava": "11.",
+    "Razina": 1.0
+  },
+  {
+    "Oznaka": "11.1.",
+    "Naziv": "11.1. Sektor za obnovu i gradnju zgrada",
+    "Parent": "11.",
+    "Uprava": "11.",
+    "Razina": 2.0
+  },
+  {
+    "Oznaka": "11.1.1.",
+    "Naziv": "11.1.1. Služba za organiziranu obnovu",
+    "Parent": "11.1.",
+    "Uprava": "11.",
+    "Razina": 3.0
+  },
+  {
+    "Oznaka": "11.1.1.1.",
+    "Naziv": "11.1.1.1. Odjel za organiziranu obnovu obiteljskih kuća",
+    "Parent": "11.1.1.",
+    "Uprava": "11.",
+    "Razina": 4.0
+  },
+  {
+    "Oznaka": "11.1.1.2.",
+    "Naziv": "11.1.1.2. Odjel za organiziranu obnovu višestambenih i stambeno-poslovnih zgrada",
+    "Parent": "11.1.1.",
+    "Uprava": "11.",
+    "Razina": 4.0
+  },
+  {
+    "Oznaka": "11.1.1.3.",
+    "Naziv": "11.1.1.3. Odjel za organiziranu obnovu poslovnih zgrada",
+    "Parent": "11.1.1.",
+    "Uprava": "11.",
+    "Razina": 4.0
+  },
+  {
+    "Oznaka": "11.1.2.",
+    "Naziv": "11.1.2. Služba za novčanu pomoć umjesto gradnje zamjenske obiteljske kuće za kupnju kuće ili stana",
+    "Parent": "11.1.",
+    "Uprava": "11.",
+    "Razina": 3.0
+  },
+  {
+    "Oznaka": "11.1.3.1.",
+    "Naziv": "11.1.2.1. Odjel za organizirano uklanjanje i dodjelu novčane pomoći za uklanjanje",
+    "Parent": "11.1.3.",
+    "Uprava": "11.",
+    "Razina": 4.0
+  },
+  {
+    "Oznaka": "11.1.3.",
+    "Naziv": "11.1.3. Služba za uklanjanje zgrada i gradnju zamjenskih obiteljskih kuća",
+    "Parent": "11.1.",
+    "Uprava": "11.",
+    "Razina": 3.0
+  },
+  {
+    "Oznaka": "11.1.3.2.",
+    "Naziv": "11.1.3.2. Odjel za dodjelu novčane pomoći za uklanjanje i gradnju zamjenske obiteljske kuće",
+    "Parent": "11.1.3.",
+    "Uprava": "11.",
+    "Razina": 4.0
+  },
+  {
+    "Oznaka": "11.1.3.3.",
+    "Naziv": "11.1.3.3. Odjel za gradnju zamjenske obiteljske kuće",
+    "Parent": "11.1.3.",
+    "Uprava": "11.",
+    "Razina": 4.0
+  },
+  {
+    "Oznaka": "11.1.4.",
+    "Naziv": "11.1.4. Služba za koordinaciju operativnih aktivnosti",
+    "Parent": "11.1.",
+    "Uprava": "11.",
+    "Razina": 3.0
+  },
+  {
+    "Oznaka": "11.2.",
+    "Naziv": "11.2. Sektor za obnovu i dodjelu novčane pomoći zgrada oštećenih potresom",
+    "Parent": "11.",
+    "Uprava": "11.",
+    "Razina": 2.0
+  },
+  {
+    "Oznaka": "11.2.1.",
+    "Naziv": "11.2.1. Služba za dodjelu novčane pomoći za obnovu zgrada",
+    "Parent": "11.2.",
+    "Uprava": "11.",
+    "Razina": 3.0
+  },
+  {
+    "Oznaka": "11.2.1.1.",
+    "Naziv": "11.2.1.1. Odjel za dodjelu novčane pomoći za obnovu obiteljskih kuća",
+    "Parent": "11.2.1.",
+    "Uprava": "11.",
+    "Razina": 4.0
+  },
+  {
+    "Oznaka": "11.2.1.2.",
+    "Naziv": "11.2.1.2. Odjel za dodjelu novčane pomoći za obnovu višestambenih, stambeno-poslovnih i poslovnih zgrada",
+    "Parent": "11.2.1.",
+    "Uprava": "11.",
+    "Razina": 4.0
+  },
+  {
+    "Oznaka": "11.2.1.3.",
+    "Naziv": "11.2.1.3. Odjel za dodjelu novčane pomoći za projektnu dokumentaciju i druge novčane pomoći",
+    "Parent": "11.2.1.",
+    "Uprava": "11.",
+    "Razina": 4.0
+  },
+  {
+    "Oznaka": "11.2.2.",
+    "Naziv": "11.2.2. Služba za gradnju potresom uništenih zgrada na području katastrofe",
+    "Parent": "11.2.",
+    "Uprava": "11.",
+    "Razina": 3.0
+  },
+  {
+    "Oznaka": "11.2.3.",
+    "Naziv": "11.2.3. Služba za zastupanje i državne potpore",
+    "Parent": "11.2.",
+    "Uprava": "11.",
+    "Razina": 3.0
+  },
+  {
+    "Oznaka": "11.2.3.1.",
+    "Naziv": "11.2.3.1. Odjel za zastupanje",
+    "Parent": "11.2.3.",
+    "Uprava": "11.",
+    "Razina": 4.0
+  },
+  {
+    "Oznaka": "11.2.3.2.",
+    "Naziv": "11.2.3.2. Odjel za državne potpore",
+    "Parent": "11.2.3.",
+    "Uprava": "11.",
+    "Razina": 4.0
+  },
+  {
+    "Oznaka": "11.3.",
+    "Naziv": "11.3. Sektor za stambeno zbrinjavanje u obnovi",
+    "Parent": "11.",
+    "Uprava": "11.",
+    "Razina": 2.0
+  },
+  {
+    "Oznaka": "11.3.1.",
+    "Naziv": "11.3.1. Služba za trajno stambeno zbrinjavanje i zamjenu prava vlasništva umjesto obnove",
+    "Parent": "11.3.",
+    "Uprava": "11.",
+    "Razina": 3.0
+  },
+  {
+    "Oznaka": "11.3.1.1.",
+    "Naziv": "11.3.1.1. Odjel za trajno stambeno zbrinjavanje",
+    "Parent": "11.3.1.",
+    "Uprava": "11.",
+    "Razina": 4.0
+  },
+  {
+    "Oznaka": "11.3.1.2.",
+    "Naziv": "11.3.1.2. Odjel za zamjenu prava vlasništva umjesto obnove",
+    "Parent": "11.3.1.",
+    "Uprava": "11.",
+    "Razina": 4.0
+  },
+  {
+    "Oznaka": "11.3.2.",
+    "Naziv": "11.3.2. Služba za privremeno stambeno zbrinjavanje",
+    "Parent": "11.3.",
+    "Uprava": "11.",
+    "Razina": 3.0
+  },
+  {
+    "Oznaka": "12.",
+    "Naziv": "12. Uprava za provedbu obnove",
+    "Parent": "",
+    "Uprava": "12.",
+    "Razina": 1.0
+  },
+  {
+    "Oznaka": "12.1.",
+    "Naziv": "12.1. Sektor za pripremu i organizaciju obnove",
+    "Parent": "12.",
+    "Uprava": "12.",
+    "Razina": 2.0
+  },
+  {
+    "Oznaka": "12.1.1.",
+    "Naziv": "12.1.1. Služba za pripremu provedbe obnove",
+    "Parent": "12.1.",
+    "Uprava": "12.",
+    "Razina": 3.0
+  },
+  {
+    "Oznaka": "12.1.1.1.",
+    "Naziv": "12.1.1.1. Odjel za pripremu provedbe obnove obiteljskih kuća",
+    "Parent": "12.1.1.",
+    "Uprava": "12.",
+    "Razina": 4.0
+  },
+  {
+    "Oznaka": "12.1.1.2.",
+    "Naziv": "12.1.1.2. Odjel za pripremu provedbe obnove višestambenih, stambeno-poslovnih i poslovnih zgrada",
+    "Parent": "12.1.1.",
+    "Uprava": "12.",
+    "Razina": 4.0
+  },
+  {
+    "Oznaka": "12.1.2.",
+    "Naziv": "12.1.2. Služba za pripremu dokumentacije za odabir sudionika u obnovi",
+    "Parent": "12.1.",
+    "Uprava": "12.",
+    "Razina": 3.0
+  },
+  {
+    "Oznaka": "12.1.3.",
+    "Naziv": "12.1.3. Služba za pravne poslove u obnovi",
+    "Parent": "12.1.",
+    "Uprava": "12.",
+    "Razina": 3.0
+  },
+  {
+    "Oznaka": "12.1.4.",
+    "Naziv": "12.1.4. Služba za upravljanje rizicima i ublažavanje posljedica od prirodnih prijetnji",
+    "Parent": "12.1.",
+    "Uprava": "12.",
+    "Razina": 3.0
+  },
+  {
+    "Oznaka": "12.2.",
+    "Naziv": "12.2. Sektor za kontrolu i praćenje izgradnje zgrada",
+    "Parent": "12.",
+    "Uprava": "12.",
+    "Razina": 2.0
+  },
+  {
+    "Oznaka": "12.2.1.",
+    "Naziv": "12.2.1. Služba za kontrolu i praćenje izgradnje obiteljskih kuća",
+    "Parent": "12.2.",
+    "Uprava": "12.",
+    "Razina": 3.0
+  },
+  {
+    "Oznaka": "12.2.1.1.",
+    "Naziv": "12.2.1.1. Odjel za kontrolu i praćenje izgradnje obiteljskih kuća",
+    "Parent": "12.2.1.",
+    "Uprava": "12.",
+    "Razina": 4.0
+  },
+  {
+    "Oznaka": "12.2.1.2.",
+    "Naziv": "12.2.1.2. Odjel za dodjelu novčane pomoći za opremanje, kupnju stambenih jedinica i izgradnju zamjenskih obiteljskih kuća",
+    "Parent": "12.2.1.",
+    "Uprava": "12.",
+    "Razina": 4.0
+  },
+  {
+    "Oznaka": "12.2.2.",
+    "Naziv": "12.2.2. Služba za kontrolu i praćenje izgradnje višestambenih i stambeno-poslovnih zgrada",
+    "Parent": "12.2.",
+    "Uprava": "12.",
+    "Razina": 3.0
+  },
+  {
+    "Oznaka": "12.3.",
+    "Naziv": "12.3. Sektor za kontrolu i praćenje obnove konstrukcije zgrada",
+    "Parent": "12.",
+    "Uprava": "12.",
+    "Razina": 2.0
+  },
+  {
+    "Oznaka": "12.3.1.",
+    "Naziv": "12.3.1. Služba za kontrolu i praćenje obnove konstrukcije obiteljskih kuća",
+    "Parent": "12.3.",
+    "Uprava": "12.",
+    "Razina": 3.0
+  },
+  {
+    "Oznaka": "12.3.1.1.",
+    "Naziv": "12.3.1.1. Odjel za kontrolu i praćenje organizirane obnove konstrukcije obiteljskih kuća",
+    "Parent": "12.3.1.",
+    "Uprava": "12.",
+    "Razina": 4.0
+  },
+  {
+    "Oznaka": "12.3.1.2.",
+    "Naziv": "12.3.1.2. Odjel za dodjelu novčane pomoći za obnovu konstrukcije obiteljskih kuća",
+    "Parent": "12.3.1.",
+    "Uprava": "12.",
+    "Razina": 4.0
+  },
+  {
+    "Oznaka": "12.3.2.",
+    "Naziv": "12.3.2. Služba za kontrolu i praćenje obnove konstrukcije višestambenih, stambeno-poslovnih i poslovnih zgrada",
+    "Parent": "12.3.",
+    "Uprava": "12.",
+    "Razina": 3.0
+  },
+  {
+    "Oznaka": "12.3.2.1.",
+    "Naziv": "12.3.2.1. Odjel za kontrolu i praćenje organizirane obnove konstrukcije višestambenih, stambeno-poslovnih i poslovnih zgrada",
+    "Parent": "12.3.2.",
+    "Uprava": "12.",
+    "Razina": 4.0
+  },
+  {
+    "Oznaka": "12.3.2.2.",
+    "Naziv": "12.3.2.2. Odjel za dodjelu novčane pomoći za obnovu konstrukcije višestambenih, stambeno-poslovnih i poslovnih zgrada",
+    "Parent": "12.3.2.",
+    "Uprava": "12.",
+    "Razina": 4.0
+  },
+  {
+    "Oznaka": "12.4.",
+    "Naziv": "12.4. Sektor za kontrolu i praćenje nekonstrukcijske obnove zgrada",
+    "Parent": "12.",
+    "Uprava": "12.",
+    "Razina": 2.0
+  },
+  {
+    "Oznaka": "12.4.1.",
+    "Naziv": "12.4.1. Služba za kontrolu i praćenje organizirane nekonstrukcijske obnove višestambenih, stambeno-poslovnih i poslovnih zgrada",
+    "Parent": "12.4.",
+    "Uprava": "12.",
+    "Razina": 3.0
+  },
+  {
+    "Oznaka": "12.4.1.1.",
+    "Naziv": "12.4.1.1. Odjel za kontrolu i praćenje usluga u postupcima organizirane nekonstrukcijske obnove višestambenih, stambeno-poslovnih i poslovnih zgrada",
+    "Parent": "12.4.1.",
+    "Uprava": "12.",
+    "Razina": 4.0
+  },
+  {
+    "Oznaka": "12.4.1.2.",
+    "Naziv": "12.4.1.2. Odjel za kontrolu i praćenje radova u postupcima organizirane nekonstrukcijske obnove višestambenih, stambeno-poslovnih i poslovnih zgrada",
+    "Parent": "12.4.1.",
+    "Uprava": "12.",
+    "Razina": 4.0
+  },
+  {
+    "Oznaka": "12.4.2.",
+    "Naziv": "12.4.2. Služba za kontrolu i praćenje organizirane nekonstrukcijske obnove obiteljskih kuća",
+    "Parent": "12.4.",
+    "Uprava": "12.",
+    "Razina": 3.0
+  },
+  {
+    "Oznaka": "12.4.3.",
+    "Naziv": "12.4.3. Služba za novčanu pomoć za nekonstrukcijsku obnovu",
+    "Parent": "12.4.",
+    "Uprava": "12.",
+    "Razina": 3.0
+  },
+  {
+    "Oznaka": "12.4.3.1.",
+    "Naziv": "12.4.3.1. Odjel za dodjelu novčane pomoći za nekonstrukcijsku obnovu obiteljskih kuća",
+    "Parent": "12.4.3.",
+    "Uprava": "12.",
+    "Razina": 4.0
+  },
+  {
+    "Oznaka": "12.4.3.2.",
+    "Naziv": "12.4.3.2. Odjel za dodjelu novčane pomoći za nekonstrukcijsku obnovu višestambenih, stambeno-poslovnih i poslovnih zgrada",
+    "Parent": "12.4.3.",
+    "Uprava": "12.",
+    "Razina": 4.0
+  },
+  {
+    "Oznaka": "12.5.",
+    "Naziv": "12.5. Sektor za podršku i privremeni smještaj",
+    "Parent": "12.",
+    "Uprava": "12.",
+    "Razina": 2.0
+  },
+  {
+    "Oznaka": "12.5.1.",
+    "Naziv": "12.5.1. Služba za podršku potresom pogođenih područja",
+    "Parent": "12.5.",
+    "Uprava": "12.",
+    "Razina": 3.0
+  },
+  {
+    "Oznaka": "12.5.2.",
+    "Naziv": "12.5.2. Služba za koordinaciju aktivnosti privremenoga smještaja",
+    "Parent": "12.5.",
+    "Uprava": "12.",
+    "Razina": 3.0
+  },
+  {
+    "Oznaka": "12.5.2.1.",
+    "Naziv": "12.5.2.1. Odjel za stambene jedinice",
+    "Parent": "12.5.2.",
+    "Uprava": "12.",
+    "Razina": 4.0
+  },
+  {
+    "Oznaka": "12.5.2.2.",
+    "Naziv": "12.5.2.2. Odjel za mobilne jedinice",
+    "Parent": "12.5.2.",
+    "Uprava": "12.",
+    "Razina": 4.0
+  },
+  {
+    "Oznaka": "12.6.",
+    "Naziv": "12.6. Sektor za razvoj informacijskog sustava i izvještavanje o provedbi obnove",
+    "Parent": "12.",
+    "Uprava": "12.",
+    "Razina": 2.0
+  },
+  {
+    "Oznaka": "12.6.1.",
+    "Naziv": "12.6.1. Služba za razvoj mrežne aplikacije",
+    "Parent": "12.6.",
+    "Uprava": "12.",
+    "Razina": 3.0
+  },
+  {
+    "Oznaka": "12.6.2.",
+    "Naziv": "12.6.2. Služba za izvještavanje o provedbi obnove",
+    "Parent": "12.6.",
+    "Uprava": "12.",
+    "Razina": 3.0
+  },
+  {
+    "Oznaka": "13.",
+    "Naziv": "13. Uprava za stambeno zbrinjavanje",
+    "Parent": "",
+    "Uprava": "13.",
+    "Razina": 1.0
+  },
+  {
+    "Oznaka": "13.1.",
+    "Naziv": "13.1. Sektor za upravljanje nekretninama i provedbu programa stambenog zbrinjavanja",
+    "Parent": "13.",
+    "Uprava": "13.",
+    "Razina": 2.0
+  },
+  {
+    "Oznaka": "13.1.1.",
+    "Naziv": "13.1.1. Služba za upravljanje nekretninama",
+    "Parent": "13.1.",
+    "Uprava": "13.",
+    "Razina": 3.0
+  },
+  {
+    "Oznaka": "13.1.2.",
+    "Naziv": "13.1.2. Služba za najam i praćenje prihoda državnog proračuna",
+    "Parent": "13.1.",
+    "Uprava": "13.",
+    "Razina": 3.0
+  },
+  {
+    "Oznaka": "13.1.3.",
+    "Naziv": "13.1.3. Služba za provedbu programa za stambeno zbrinjavanje",
+    "Parent": "13.1.",
+    "Uprava": "13.",
+    "Razina": 3.0
+  },
+  {
+    "Oznaka": "13.1.4.",
+    "Naziv": "13.1.4. Služba za obnovu i izgradnju stambenih jedinica",
+    "Parent": "13.1.",
+    "Uprava": "13.",
+    "Razina": 3.0
+  },
+  {
+    "Oznaka": "13.1.4.1.",
+    "Naziv": "13.1.4.1. Odjel za obnovu",
+    "Parent": "13.1.4.",
+    "Uprava": "13.",
+    "Razina": 4.0
+  },
+  {
+    "Oznaka": "13.1.4.2.",
+    "Naziv": "13.1.4.2. Odjel za izgradnju",
+    "Parent": "13.1.4.",
+    "Uprava": "13.",
+    "Razina": 4.0
+  },
+  {
+    "Oznaka": "13.2.",
+    "Naziv": "13.2. Sektor za imovinsko-pravne poslove stambenog zbrinjavanja",
+    "Parent": "13.",
+    "Uprava": "13.",
+    "Razina": 2.0
+  },
+  {
+    "Oznaka": "13.2.1.",
+    "Naziv": "13.2.1. Služba za raskide upravnih ugovora i neupravna postupanja",
+    "Parent": "13.2.",
+    "Uprava": "13.",
+    "Razina": 3.0
+  },
+  {
+    "Oznaka": "13.2.2.",
+    "Naziv": "13.2.2. Služba za imovinsko-pravne poslove",
+    "Parent": "13.2.",
+    "Uprava": "13.",
+    "Razina": 3.0
+  },
+  {
+    "Oznaka": "13.2.2.1.",
+    "Naziv": "13.2.2.1. Odjel za vlasničko-pravno uređenje",
+    "Parent": "13.2.2.",
+    "Uprava": "13.",
+    "Razina": 4.0
+  },
+  {
+    "Oznaka": "13.2.2.2.",
+    "Naziv": "13.2.2.2. Odjel za prodaju i darovanje",
+    "Parent": "13.2.2.",
+    "Uprava": "13.",
+    "Razina": 4.0
+  },
+  {
+    "Oznaka": "13.3.",
+    "Naziv": "13.3. Sektor za provedbu međunarodnih programa",
+    "Parent": "13.",
+    "Uprava": "13.",
+    "Razina": 2.0
+  },
+  {
+    "Oznaka": "13.3.1.",
+    "Naziv": "13.3.1. Služba za međunarodne programe",
+    "Parent": "13.3.",
+    "Uprava": "13.",
+    "Razina": 3.0
+  },
+  {
+    "Oznaka": "13.3.1.1.",
+    "Naziv": "13.3.1.1. Odjel za pripremu i provedbu projekata za financiranje iz fondova europske unije",
+    "Parent": "13.3.1.",
+    "Uprava": "13.",
+    "Razina": 4.0
+  },
+  {
+    "Oznaka": "13.3.1.2.",
+    "Naziv": "13.3.1.2. Odjel za smještaj osoba s odobrenom međunarodnom zaštitom",
+    "Parent": "13.3.1.",
+    "Uprava": "13.",
+    "Razina": 4.0
+  },
+  {
+    "Oznaka": "13.3.2.",
+    "Naziv": "13.3.2. Služba za projekte i programe suzbijanja energetskog siromaštva",
+    "Parent": "13.3.",
+    "Uprava": "13.",
+    "Razina": 3.0
+  },
+  {
+    "Oznaka": "13.3.2.1.",
+    "Naziv": "13.3.2.1. Odjel za pripremu projekata i programa",
+    "Parent": "13.3.2.",
+    "Uprava": "13.",
+    "Razina": 4.0
+  },
+  {
+    "Oznaka": "13.3.2.2.",
+    "Naziv": "13.3.2.2. Odjel za provedbu projekata i programa",
+    "Parent": "13.3.2.",
+    "Uprava": "13.",
+    "Razina": 4.0
+  },
+  {
+    "Oznaka": "13.4.",
+    "Naziv": "13.4. Područna služba Petrinja",
+    "Parent": "13.",
+    "Uprava": "13.",
+    "Razina": 2.0
+  },
+  {
+    "Oznaka": "13.5.",
+    "Naziv": "13.5. Područna služba Vukovar",
+    "Parent": "13.",
+    "Uprava": "13.",
+    "Razina": 2.0
+  },
+  {
+    "Oznaka": "13.5.1.",
+    "Naziv": "13.5.1. Odjel I",
+    "Parent": "13.5.",
+    "Uprava": "13.",
+    "Razina": 3.0
+  },
+  {
+    "Oznaka": "13.5.2.",
+    "Naziv": "13.5.2. Odjel II",
+    "Parent": "13.5.",
+    "Uprava": "13.",
+    "Razina": 3.0
+  },
+  {
+    "Oznaka": "13.5.3.",
+    "Naziv": "13.5.3. Ispostava Osijek",
+    "Parent": "13.5.",
+    "Uprava": "13.",
+    "Razina": 3.0
+  },
+  {
+    "Oznaka": "13.5.4.",
+    "Naziv": "13.5.4. Ispostava Slavonski Brod",
+    "Parent": "13.5.",
+    "Uprava": "13.",
+    "Razina": 3.0
+  },
+  {
+    "Oznaka": "13.6.",
+    "Naziv": "13.6. Područna služba Gospić",
+    "Parent": "13.",
+    "Uprava": "13.",
+    "Razina": 2.0
+  },
+  {
+    "Oznaka": "13.7.",
+    "Naziv": "13.7. Područna služba Knin",
+    "Parent": "13.",
+    "Uprava": "13.",
+    "Razina": 2.0
+  },
+  {
+    "Oznaka": "13.8.",
+    "Naziv": "13.8. Područna služba Zadar",
+    "Parent": "13.",
+    "Uprava": "13.",
+    "Razina": 2.0
+  },
+  {
+    "Oznaka": "13.9.",
+    "Naziv": "13.9. Područna služba Karlovac",
+    "Parent": "13.",
+    "Uprava": "13.",
+    "Razina": 2.0
+  },
+  {
+    "Oznaka": "13.9.1.",
+    "Naziv": "13.9.1. Ispostava Zagreb",
+    "Parent": "13.9.",
+    "Uprava": "13.",
+    "Razina": 3.0
+  },
+  {
+    "Oznaka": "14.",
+    "Naziv": "14. Uprava za provedbu stambene politike, kvalitetu stanovanja i komunalno gospodarstvo",
+    "Parent": "",
+    "Uprava": "14.",
+    "Razina": 1.0
+  },
+  {
+    "Oznaka": "14.1.",
+    "Naziv": "14.1. Sektor za provedbu stambene politike",
+    "Parent": "14.",
+    "Uprava": "14.",
+    "Razina": 2.0
+  },
+  {
+    "Oznaka": "14.1.1.",
+    "Naziv": "14.1.1. Služba za provedbu programa i mjera stambene politike",
+    "Parent": "14.1.",
+    "Uprava": "14.",
+    "Razina": 3.0
+  },
+  {
+    "Oznaka": "14.1.2.",
+    "Naziv": "14.1.2. Služba za praćenje provedbe i revalorizaciju mjera stambene politike",
+    "Parent": "14.1.",
+    "Uprava": "14.",
+    "Razina": 3.0
+  },
+  {
+    "Oznaka": "14.2.",
+    "Naziv": "14.2. Sektor za kvalitetu stanovanja, procjenu vrijednosti nekretnina i komunalno gospodarstvo",
+    "Parent": "14.",
+    "Uprava": "14.",
+    "Razina": 2.0
+  },
+  {
+    "Oznaka": "14.2.1.",
+    "Naziv": "14.2.1. Služba za kvalitetu stanovanja i međuvlasničke odnose u stambenim zgradama",
+    "Parent": "14.2.",
+    "Uprava": "14.",
+    "Razina": 3.0
+  },
+  {
+    "Oznaka": "14.2.2.",
+    "Naziv": "14.2.2. Služba za procjenu vrijednosti nekretnina",
+    "Parent": "14.2.",
+    "Uprava": "14.",
+    "Razina": 3.0
+  },
+  {
+    "Oznaka": "14.2.2.1.",
+    "Naziv": "14.2.2.1. Odjel za analizu procjena vrijednosti nekretnina",
+    "Parent": "14.2.2.",
+    "Uprava": "14.",
+    "Razina": 4.0
+  },
+  {
+    "Oznaka": "14.2.2.2.",
+    "Naziv": "14.2.2.2. Odjel za regulativu procjena vrijednosti nekretnina",
+    "Parent": "14.2.2.",
+    "Uprava": "14.",
+    "Razina": 4.0
+  },
+  {
+    "Oznaka": "14.2.3.",
+    "Naziv": "14.2.3. Služba za komunalno gospodarstvo",
+    "Parent": "14.2.",
+    "Uprava": "14.",
+    "Razina": 3.0
+  },
+  {
+    "Oznaka": "14.3.",
+    "Naziv": "14.3. Sektor za zaštićene najmoprimce",
+    "Parent": "14.",
+    "Uprava": "14.",
+    "Razina": 2.0
+  },
+  {
+    "Oznaka": "14.3.1.",
+    "Naziv": "14.3.1. Služba za uređenje statusa zaštićenih najmoprimaca u stanovima u privatnom vlasništvu",
+    "Parent": "14.3.",
+    "Uprava": "14.",
+    "Razina": 3.0
+  },
+  {
+    "Oznaka": "14.3.2.",
+    "Naziv": "14.3.2. Služba za uređenje statusa zaštićenih najmoprimaca u stanovima u javnom vlasništvu",
+    "Parent": "14.3.",
+    "Uprava": "14.",
+    "Razina": 3.0
+  },
+  {
+    "Oznaka": "15.",
+    "Naziv": "15. Uprava za upravljanje i raspolaganje nekretninama",
+    "Parent": "",
+    "Uprava": "15.",
+    "Razina": 1.0
+  },
+  {
+    "Oznaka": "15.1.",
+    "Naziv": "15.1. Sektor za interni registar nekretnina, zemljišta, poslovne prostore i stanove",
+    "Parent": "15.",
+    "Uprava": "15.",
+    "Razina": 2.0
+  },
+  {
+    "Oznaka": "15.1.1.",
+    "Naziv": "15.1.1. Služba za vođenje internog registra nekretnina i evidenciju nekretnina",
+    "Parent": "15.1.",
+    "Uprava": "15.",
+    "Razina": 3.0
+  },
+  {
+    "Oznaka": "15.1.1.1.",
+    "Naziv": "15.1.1.1. Područni odjel Rijeka",
+    "Parent": "15.1.1.",
+    "Uprava": "15.",
+    "Razina": 4.0
+  },
+  {
+    "Oznaka": "15.1.1.2.",
+    "Naziv": "15.1.1.2. Područni odjel Split",
+    "Parent": "15.1.1.",
+    "Uprava": "15.",
+    "Razina": 4.0
+  },
+  {
+    "Oznaka": "15.1.1.3.",
+    "Naziv": "15.1.1.3. Područni odjel Osijek",
+    "Parent": "15.1.1.",
+    "Uprava": "15.",
+    "Razina": 4.0
+  },
+  {
+    "Oznaka": "15.1.2.",
+    "Naziv": "15.1.2. Služba za zemljišta i planinarske objekte",
+    "Parent": "15.1.",
+    "Uprava": "15.",
+    "Razina": 3.0
+  },
+  {
+    "Oznaka": "15.1.3.",
+    "Naziv": "15.1.3. Služba za poslovne prostore, stanove i nekretnine pod posebnim načinom upravljanja",
+    "Parent": "15.1.",
+    "Uprava": "15.",
+    "Razina": 3.0
+  },
+  {
+    "Oznaka": "15.2.",
+    "Naziv": "15.2. Sektor za neprocijenjeno građevinsko zemljište, investicijske projekte, jedinice lokalne i područne (regionalne) samouprave, tehničke poslove i imovinsko-pravne poslove",
+    "Parent": "15.",
+    "Uprava": "15.",
+    "Razina": 2.0
+  },
+  {
+    "Oznaka": "15.2.1.",
+    "Naziv": "15.2.1. Služba za neprocijenjeno građevinsko zemljište",
+    "Parent": "15.2.",
+    "Uprava": "15.",
+    "Razina": 3.0
+  },
+  {
+    "Oznaka": "15.2.2.",
+    "Naziv": "15.2.2. Služba za investicijske projekte",
+    "Parent": "15.2.",
+    "Uprava": "15.",
+    "Razina": 3.0
+  },
+  {
+    "Oznaka": "15.2.3.",
+    "Naziv": "15.2.3. Služba za jedinice lokalne i područne (regionalne) samouprave",
+    "Parent": "15.2.",
+    "Uprava": "15.",
+    "Razina": 3.0
+  },
+  {
+    "Oznaka": "15.2.4.",
+    "Naziv": "15.2.4. Služba za tehničke poslove",
+    "Parent": "15.2.",
+    "Uprava": "15.",
+    "Razina": 3.0
+  },
+  {
+    "Oznaka": "15.2.5.",
+    "Naziv": "15.2.5. Služba za imovinsko-pravne poslove",
+    "Parent": "15.2.",
+    "Uprava": "15.",
+    "Razina": 3.0
+  },
+  {
+    "Oznaka": "15.3.",
+    "Naziv": "15.3. Sektor za strateško planiranje, eu projekte, regulativu i izvještavanje",
+    "Parent": "15.",
+    "Uprava": "15.",
+    "Razina": 2.0
+  },
+  {
+    "Oznaka": "15.3.1.",
+    "Naziv": "15.3.1. Služba za strateško planiranje i eu projekte",
+    "Parent": "15.3.",
+    "Uprava": "15.",
+    "Razina": 3.0
+  },
+  {
+    "Oznaka": "15.3.2.",
+    "Naziv": "15.3.2. Služba za koordinaciju i regulativu",
+    "Parent": "15.3.",
+    "Uprava": "15.",
+    "Razina": 3.0
+  },
+  {
+    "Oznaka": "15.3.3.",
+    "Naziv": "15.3.3. Služba za analizu i izvještavanje",
+    "Parent": "15.3.",
+    "Uprava": "15.",
+    "Razina": 3.0
+  },
+  {
+    "Oznaka": "4.3.",
+    "Naziv": "04.3. Sektor za opće poslove i uredsko poslovanje",
+    "Parent": "4.",
+    "Uprava": "4.",
+    "Razina": 2.0
+  },
+  {
+    "Oznaka": "4.3.1.",
+    "Naziv": "04.3.1. Služba za opće i tehničke poslove",
+    "Parent": "4.3.",
+    "Uprava": "4.",
+    "Razina": 3.0
+  },
+  {
+    "Oznaka": "4.3.1.1.",
+    "Naziv": "04.3.1.1. Odjel za vozni park",
+    "Parent": "4.3.1.",
+    "Uprava": "4.",
+    "Razina": 4.0
+  },
+  {
+    "Oznaka": "4.3.1.2.",
+    "Naziv": "04.3.1.2. Odjel za opće poslove i održavanje nekretnina",
+    "Parent": "4.3.1.",
+    "Uprava": "4.",
+    "Razina": 4.0
+  },
+  {
+    "Oznaka": "4.3.2.",
+    "Naziv": "04.3.2. Služba za uredsko poslovanje",
+    "Parent": "4.3.",
+    "Uprava": "4.",
+    "Razina": 3.0
+  },
+  {
+    "Oznaka": "4.3.2.1.",
+    "Naziv": "04.3.2.1. Odjel pisarnice",
+    "Parent": "4.3.2.",
+    "Uprava": "4.",
+    "Razina": 4.0
+  },
+  {
+    "Oznaka": "4.3.2.2.",
+    "Naziv": "04.3.2.2. Odjel pismohrane",
+    "Parent": "4.3.2.",
+    "Uprava": "4.",
+    "Razina": 4.0
+  },
+  {
+    "Oznaka": "4.4.",
+    "Naziv": "04.4. Sektor za informatiku i telekomunikacije",
+    "Parent": "4.",
+    "Uprava": "4.",
+    "Razina": 2.0
+  },
+  {
+    "Oznaka": "4.4.1.",
+    "Naziv": "04.4.1. Služba za aplikativnu podršku",
+    "Parent": "4.4.",
+    "Uprava": "4.",
+    "Razina": 3.0
+  },
+  {
+    "Oznaka": "4.4.2.",
+    "Naziv": "04.4.2. Služba za ikt infrastrukturu i podršku korisnicima",
+    "Parent": "4.4.",
+    "Uprava": "4.",
+    "Razina": 3.0
+  },
+  {
+    "Oznaka": "4.5.",
+    "Naziv": "04.5. Sektor za odnose s javnošću, informiranje i protokol",
+    "Parent": "4.",
+    "Uprava": "4.",
+    "Razina": 2.0
+  },
+  {
+    "Oznaka": "4.5.1.",
+    "Naziv": "04.5.1. Služba za odnose s javnošću i informiranje",
+    "Parent": "4.5.",
+    "Uprava": "4.",
+    "Razina": 3.0
+  },
+  {
+    "Oznaka": "4.5.1.1.",
+    "Naziv": "04.5.1.1. Odjel za odnose s medijima i internetsko informiranje",
+    "Parent": "4.5.1.",
+    "Uprava": "4.",
+    "Razina": 4.0
+  },
+  {
+    "Oznaka": "4.5.1.2.",
+    "Naziv": "04.5.1.2. Odjel za pitanja građana",
+    "Parent": "4.5.1.",
+    "Uprava": "4.",
+    "Razina": 4.0
+  },
+  {
+    "Oznaka": "4.5.2.",
+    "Naziv": "04.5.2. Služba za protokol",
+    "Parent": "4.5.",
+    "Uprava": "4.",
+    "Razina": 3.0
+  },
+  {
+    "Oznaka": "5.",
+    "Naziv": "05. Uprava za financije, javnu nabavu i imovinu oduzetu u kaznenim postupcima",
+    "Parent": "",
+    "Uprava": "5.",
+    "Razina": 1.0
+  },
+  {
+    "Oznaka": "5.1.",
+    "Naziv": "05.1. Sektor za financije i proračun",
+    "Parent": "5.",
+    "Uprava": "5.",
+    "Razina": 2.0
+  },
+  {
+    "Oznaka": "5.1.1.",
+    "Naziv": "05.1.1. Služba za pripremu i izvršenje proračuna",
+    "Parent": "5.1.",
+    "Uprava": "5.",
+    "Razina": 3.0
+  },
+  {
+    "Oznaka": "5.1.1.1.",
+    "Naziv": "05.1.1.1. Odjel za praćenje proračunskih prihoda i naplatu potraživanja",
+    "Parent": "5.1.1.",
+    "Uprava": "5.",
+    "Razina": 4.0
+  },
+  {
+    "Oznaka": "5.1.1.2.",
+    "Naziv": "05.1.1.2. Odjel za planiranje i analizu proračuna",
+    "Parent": "5.1.1.",
+    "Uprava": "5.",
+    "Razina": 4.0
+  },
+  {
+    "Oznaka": "5.1.1.3.",
+    "Naziv": "05.1.1.3. Odjel za izvršavanje proračuna i izvještavanje",
+    "Parent": "5.1.1.",
+    "Uprava": "5.",
+    "Razina": 4.0
+  },
+  {
+    "Oznaka": "5.1.2.",
+    "Naziv": "05.1.2. Služba za isplate sudionika u građevinarstvu",
+    "Parent": "5.1.",
+    "Uprava": "5.",
+    "Razina": 3.0
+  },
+  {
+    "Oznaka": "5.1.2.1.",
+    "Naziv": "05.1.2.1. Odjel za plaćanja prema ugovorima u građevinarstvu",
+    "Parent": "5.1.2.",
+    "Uprava": "5.",
+    "Razina": 4.0
+  },
+  {
+    "Oznaka": "5.1.2.2.",
+    "Naziv": "05.1.2.2. Odjel za isplate novčanih pomoći",
+    "Parent": "5.1.2.",
+    "Uprava": "5.",
+    "Razina": 4.0
+  },
+  {
+    "Oznaka": "5.1.3.",
+    "Naziv": "05.1.3. Služba za financijsko upravljanje i kontrole",
+    "Parent": "5.1.",
+    "Uprava": "5.",
+    "Razina": 3.0
+  },
+  {
+    "Oznaka": "5.2.",
+    "Naziv": "05.2. Sektor za računovodstvene poslove",
+    "Parent": "5.",
+    "Uprava": "5.",
+    "Razina": 2.0
+  }
+]

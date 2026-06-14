@@ -1,0 +1,1807 @@
+{
+  "opis": "Obrnuto mapiranje ISO/IEC 27001:2022 i 27002:2022 -> ZSIS kontrole (Prilog C)",
+  "iso_27002_annex_a_pokrivenost": [
+    {
+      "iso_kontrola": "5.1",
+      "naslov": "Policies for information security",
+      "pokrivena": false,
+      "broj_zsis_kontrola": 0,
+      "zsis_kontrole": [],
+      "izvor_veze": []
+    },
+    {
+      "iso_kontrola": "5.2",
+      "naslov": "Information security roles and responsibilities",
+      "pokrivena": true,
+      "broj_zsis_kontrola": 1,
+      "zsis_kontrole": [
+        "EDU-006"
+      ],
+      "izvor_veze": [
+        "27001 Annex A"
+      ]
+    },
+    {
+      "iso_kontrola": "5.3",
+      "naslov": "Segregation of duties",
+      "pokrivena": true,
+      "broj_zsis_kontrola": 7,
+      "zsis_kontrole": [
+        "POL-002",
+        "POL-006",
+        "ORG-001",
+        "ORG-002",
+        "ORG-003",
+        "UPR-001",
+        "UPR-007"
+      ],
+      "izvor_veze": [
+        "27001 Annex A"
+      ]
+    },
+    {
+      "iso_kontrola": "5.4",
+      "naslov": "Management responsibilities",
+      "pokrivena": true,
+      "broj_zsis_kontrola": 8,
+      "zsis_kontrole": [
+        "POL-006",
+        "POL-012",
+        "ORG-001",
+        "ORG-002",
+        "ORG-003",
+        "EDU-001",
+        "EDU-003",
+        "UPR-001"
+      ],
+      "izvor_veze": [
+        "27001 Annex A"
+      ]
+    },
+    {
+      "iso_kontrola": "5.5",
+      "naslov": "Contact with authorities",
+      "pokrivena": false,
+      "broj_zsis_kontrola": 0,
+      "zsis_kontrole": [],
+      "izvor_veze": []
+    },
+    {
+      "iso_kontrola": "5.6",
+      "naslov": "Contact with special interest groups",
+      "pokrivena": false,
+      "broj_zsis_kontrola": 0,
+      "zsis_kontrole": [],
+      "izvor_veze": []
+    },
+    {
+      "iso_kontrola": "5.7",
+      "naslov": "Threat intelligence",
+      "pokrivena": false,
+      "broj_zsis_kontrola": 0,
+      "zsis_kontrole": [],
+      "izvor_veze": []
+    },
+    {
+      "iso_kontrola": "5.8",
+      "naslov": "Information security in project management",
+      "pokrivena": true,
+      "broj_zsis_kontrola": 1,
+      "zsis_kontrole": [
+        "RIZ-012"
+      ],
+      "izvor_veze": [
+        "27001 Annex A"
+      ]
+    },
+    {
+      "iso_kontrola": "5.9",
+      "naslov": "Inventory of information and other associated assets",
+      "pokrivena": true,
+      "broj_zsis_kontrola": 7,
+      "zsis_kontrole": [
+        "INV-001",
+        "INV-003",
+        "INV-004",
+        "INV-005",
+        "INV-006",
+        "INV-007",
+        "INV-008"
+      ],
+      "izvor_veze": [
+        "27001 Annex A",
+        "27002"
+      ]
+    },
+    {
+      "iso_kontrola": "5.10",
+      "naslov": "Acceptable use of information and other associated assets",
+      "pokrivena": true,
+      "broj_zsis_kontrola": 4,
+      "zsis_kontrole": [
+        "POL-008",
+        "INV-001",
+        "INV-002",
+        "INV-005"
+      ],
+      "izvor_veze": [
+        "27001 Annex A",
+        "27002"
+      ]
+    },
+    {
+      "iso_kontrola": "5.11",
+      "naslov": "Return of assets",
+      "pokrivena": true,
+      "broj_zsis_kontrola": 1,
+      "zsis_kontrole": [
+        "INV-006"
+      ],
+      "izvor_veze": [
+        "27001 Annex A",
+        "27002"
+      ]
+    },
+    {
+      "iso_kontrola": "5.12",
+      "naslov": "Classification of information",
+      "pokrivena": true,
+      "broj_zsis_kontrola": 6,
+      "zsis_kontrole": [
+        "INV-002",
+        "INV-003",
+        "INV-004",
+        "INV-005",
+        "INV-007",
+        "POD-001"
+      ],
+      "izvor_veze": [
+        "27001 Annex A",
+        "27002"
+      ]
+    },
+    {
+      "iso_kontrola": "5.13",
+      "naslov": "Labelling of information",
+      "pokrivena": true,
+      "broj_zsis_kontrola": 3,
+      "zsis_kontrole": [
+        "INV-002",
+        "INV-004",
+        "INV-005"
+      ],
+      "izvor_veze": [
+        "27001 Annex A",
+        "27002"
+      ]
+    },
+    {
+      "iso_kontrola": "5.14",
+      "naslov": "Information transfer",
+      "pokrivena": false,
+      "broj_zsis_kontrola": 0,
+      "zsis_kontrole": [],
+      "izvor_veze": []
+    },
+    {
+      "iso_kontrola": "5.15",
+      "naslov": "Access control",
+      "pokrivena": true,
+      "broj_zsis_kontrola": 3,
+      "zsis_kontrole": [
+        "POL-004",
+        "ORG-005",
+        "DID-011"
+      ],
+      "izvor_veze": [
+        "27001 Annex A"
+      ]
+    },
+    {
+      "iso_kontrola": "5.16",
+      "naslov": "Identity management",
+      "pokrivena": true,
+      "broj_zsis_kontrola": 4,
+      "zsis_kontrole": [
+        "POL-004",
+        "DID-001",
+        "DID-003",
+        "DID-004"
+      ],
+      "izvor_veze": [
+        "27001 Annex A",
+        "27002"
+      ]
+    },
+    {
+      "iso_kontrola": "5.17",
+      "naslov": "Authentication information",
+      "pokrivena": true,
+      "broj_zsis_kontrola": 2,
+      "zsis_kontrole": [
+        "POL-004",
+        "DID-002"
+      ],
+      "izvor_veze": [
+        "27001 Annex A",
+        "27002"
+      ]
+    },
+    {
+      "iso_kontrola": "5.18",
+      "naslov": "Access rights",
+      "pokrivena": true,
+      "broj_zsis_kontrola": 4,
+      "zsis_kontrole": [
+        "POL-005",
+        "ORG-005",
+        "DID-003",
+        "DID-011"
+      ],
+      "izvor_veze": [
+        "27001 Annex A",
+        "27002"
+      ]
+    },
+    {
+      "iso_kontrola": "5.19",
+      "naslov": "Information security in supplier relationships",
+      "pokrivena": true,
+      "broj_zsis_kontrola": 8,
+      "zsis_kontrole": [
+        "POL-009",
+        "EDU-002",
+        "RIZ-003",
+        "RIZ-014",
+        "RIZ-015",
+        "RIZ-016",
+        "RIZ-017",
+        "RIZ-018"
+      ],
+      "izvor_veze": [
+        "27001 Annex A",
+        "27002"
+      ]
+    },
+    {
+      "iso_kontrola": "5.20",
+      "naslov": "Addressing information security within supplier agreements",
+      "pokrivena": true,
+      "broj_zsis_kontrola": 8,
+      "zsis_kontrole": [
+        "EDU-002",
+        "INV-006",
+        "RIZ-003",
+        "RIZ-014",
+        "RIZ-015",
+        "RIZ-016",
+        "RIZ-018",
+        "DID-005"
+      ],
+      "izvor_veze": [
+        "27001 Annex A",
+        "27002"
+      ]
+    },
+    {
+      "iso_kontrola": "5.21",
+      "naslov": "Managing information security in the ICT supply chain",
+      "pokrivena": true,
+      "broj_zsis_kontrola": 6,
+      "zsis_kontrole": [
+        "EDU-002",
+        "RIZ-012",
+        "RIZ-014",
+        "RIZ-015",
+        "RIZ-016",
+        "RIZ-017"
+      ],
+      "izvor_veze": [
+        "27001 Annex A",
+        "27002"
+      ]
+    },
+    {
+      "iso_kontrola": "5.22",
+      "naslov": "Monitoring, review and change management of supplier services",
+      "pokrivena": true,
+      "broj_zsis_kontrola": 2,
+      "zsis_kontrole": [
+        "RIZ-015",
+        "RIZ-017"
+      ],
+      "izvor_veze": [
+        "27001 Annex A",
+        "27002"
+      ]
+    },
+    {
+      "iso_kontrola": "5.23",
+      "naslov": "Information security for use of cloud services",
+      "pokrivena": false,
+      "broj_zsis_kontrola": 0,
+      "zsis_kontrole": [],
+      "izvor_veze": []
+    },
+    {
+      "iso_kontrola": "5.24",
+      "naslov": "Information security incident management planning and preparation",
+      "pokrivena": true,
+      "broj_zsis_kontrola": 8,
+      "zsis_kontrole": [
+        "POL-009",
+        "POL-010",
+        "EDU-005",
+        "EDU-008",
+        "UPR-003",
+        "UPR-006",
+        "UPR-009",
+        "UPR-011"
+      ],
+      "izvor_veze": [
+        "27001 Annex A"
+      ]
+    },
+    {
+      "iso_kontrola": "5.25",
+      "naslov": "Assessment and decision on information security events",
+      "pokrivena": true,
+      "broj_zsis_kontrola": 3,
+      "zsis_kontrole": [
+        "POL-010",
+        "UPR-004",
+        "UPR-011"
+      ],
+      "izvor_veze": [
+        "27001 Annex A"
+      ]
+    },
+    {
+      "iso_kontrola": "5.26",
+      "naslov": "Response to information security incidents",
+      "pokrivena": true,
+      "broj_zsis_kontrola": 9,
+      "zsis_kontrole": [
+        "POL-009",
+        "EDU-008",
+        "UPR-003",
+        "UPR-005",
+        "UPR-006",
+        "UPR-007",
+        "UPR-008",
+        "UPR-010",
+        "UPR-014"
+      ],
+      "izvor_veze": [
+        "27001 Annex A"
+      ]
+    },
+    {
+      "iso_kontrola": "5.27",
+      "naslov": "Learning from information security incidents",
+      "pokrivena": true,
+      "broj_zsis_kontrola": 4,
+      "zsis_kontrole": [
+        "EDU-005",
+        "EDU-007",
+        "EDU-008",
+        "UPR-012"
+      ],
+      "izvor_veze": [
+        "27001 Annex A"
+      ]
+    },
+    {
+      "iso_kontrola": "5.28",
+      "naslov": "Collection of evidence",
+      "pokrivena": true,
+      "broj_zsis_kontrola": 2,
+      "zsis_kontrole": [
+        "EDU-005",
+        "DID-006"
+      ],
+      "izvor_veze": [
+        "27001 Annex A",
+        "27002"
+      ]
+    },
+    {
+      "iso_kontrola": "5.29",
+      "naslov": "Information security during disruption",
+      "pokrivena": true,
+      "broj_zsis_kontrola": 10,
+      "zsis_kontrole": [
+        "POL-011",
+        "ORG-006",
+        "ORG-007",
+        "RES-008",
+        "RES-009",
+        "UPR-005",
+        "UPR-008",
+        "UPR-013",
+        "UPR-015",
+        "UPR-016"
+      ],
+      "izvor_veze": [
+        "27001 Annex A"
+      ]
+    },
+    {
+      "iso_kontrola": "5.30",
+      "naslov": "ICT readiness for business continuity",
+      "pokrivena": true,
+      "broj_zsis_kontrola": 12,
+      "zsis_kontrole": [
+        "POL-009",
+        "POL-011",
+        "RES-005",
+        "RES-006",
+        "RES-008",
+        "RES-009",
+        "UPR-002",
+        "UPR-004",
+        "UPR-005",
+        "UPR-013",
+        "UPR-015",
+        "UPR-016"
+      ],
+      "izvor_veze": [
+        "27001 Annex A",
+        "27002"
+      ]
+    },
+    {
+      "iso_kontrola": "5.31",
+      "naslov": "Legal, statutory, regulatory and contractual requirements",
+      "pokrivena": true,
+      "broj_zsis_kontrola": 2,
+      "zsis_kontrole": [
+        "UPR-010",
+        "UPR-014"
+      ],
+      "izvor_veze": [
+        "27001 Annex A"
+      ]
+    },
+    {
+      "iso_kontrola": "5.32",
+      "naslov": "Intellectual property rights",
+      "pokrivena": false,
+      "broj_zsis_kontrola": 0,
+      "zsis_kontrole": [],
+      "izvor_veze": []
+    },
+    {
+      "iso_kontrola": "5.33",
+      "naslov": "Protection of records",
+      "pokrivena": false,
+      "broj_zsis_kontrola": 0,
+      "zsis_kontrole": [],
+      "izvor_veze": []
+    },
+    {
+      "iso_kontrola": "5.34",
+      "naslov": "Privacy and protection of PII",
+      "pokrivena": false,
+      "broj_zsis_kontrola": 0,
+      "zsis_kontrole": [],
+      "izvor_veze": []
+    },
+    {
+      "iso_kontrola": "5.35",
+      "naslov": "Independent review of information security",
+      "pokrivena": false,
+      "broj_zsis_kontrola": 0,
+      "zsis_kontrole": [],
+      "izvor_veze": []
+    },
+    {
+      "iso_kontrola": "5.36",
+      "naslov": "Compliance with policies, rules and standards for information security",
+      "pokrivena": false,
+      "broj_zsis_kontrola": 0,
+      "zsis_kontrole": [],
+      "izvor_veze": []
+    },
+    {
+      "iso_kontrola": "5.37",
+      "naslov": "Documented operating procedures",
+      "pokrivena": true,
+      "broj_zsis_kontrola": 3,
+      "zsis_kontrole": [
+        "POL-008",
+        "POL-010",
+        "POL-011"
+      ],
+      "izvor_veze": [
+        "27001 Annex A"
+      ]
+    },
+    {
+      "iso_kontrola": "6.1",
+      "naslov": "Screening",
+      "pokrivena": true,
+      "broj_zsis_kontrola": 1,
+      "zsis_kontrole": [
+        "RES-004"
+      ],
+      "izvor_veze": [
+        "27001 Annex A"
+      ]
+    },
+    {
+      "iso_kontrola": "6.2",
+      "naslov": "Terms and conditions of employment",
+      "pokrivena": true,
+      "broj_zsis_kontrola": 1,
+      "zsis_kontrole": [
+        "RES-004"
+      ],
+      "izvor_veze": [
+        "27001 Annex A"
+      ]
+    },
+    {
+      "iso_kontrola": "6.3",
+      "naslov": "Information security awareness, education and training",
+      "pokrivena": true,
+      "broj_zsis_kontrola": 13,
+      "zsis_kontrole": [
+        "POL-008",
+        "EDU-001",
+        "EDU-003",
+        "EDU-005",
+        "EDU-006",
+        "EDU-007",
+        "EDU-008",
+        "EDU-009",
+        "EDU-010",
+        "RES-003",
+        "UPR-007",
+        "UPR-012",
+        "SKM-007"
+      ],
+      "izvor_veze": [
+        "27001 Annex A"
+      ]
+    },
+    {
+      "iso_kontrola": "6.4",
+      "naslov": "Disciplinary process",
+      "pokrivena": true,
+      "broj_zsis_kontrola": 1,
+      "zsis_kontrole": [
+        "ORG-004"
+      ],
+      "izvor_veze": [
+        "27001 Annex A"
+      ]
+    },
+    {
+      "iso_kontrola": "6.5",
+      "naslov": "Responsibilities after termination or change of employment",
+      "pokrivena": false,
+      "broj_zsis_kontrola": 0,
+      "zsis_kontrole": [],
+      "izvor_veze": []
+    },
+    {
+      "iso_kontrola": "6.6",
+      "naslov": "Confidentiality or non-disclosure agreements",
+      "pokrivena": false,
+      "broj_zsis_kontrola": 0,
+      "zsis_kontrole": [],
+      "izvor_veze": []
+    },
+    {
+      "iso_kontrola": "6.7",
+      "naslov": "Remote working",
+      "pokrivena": false,
+      "broj_zsis_kontrola": 0,
+      "zsis_kontrole": [],
+      "izvor_veze": []
+    },
+    {
+      "iso_kontrola": "6.8",
+      "naslov": "Information security event reporting",
+      "pokrivena": true,
+      "broj_zsis_kontrola": 1,
+      "zsis_kontrole": [
+        "EDU-008"
+      ],
+      "izvor_veze": [
+        "27001 Annex A"
+      ]
+    },
+    {
+      "iso_kontrola": "7.1",
+      "naslov": "Physical security perimeters",
+      "pokrivena": true,
+      "broj_zsis_kontrola": 2,
+      "zsis_kontrole": [
+        "DID-008",
+        "FIZ-001"
+      ],
+      "izvor_veze": [
+        "27001 Annex A",
+        "27002"
+      ]
+    },
+    {
+      "iso_kontrola": "7.2",
+      "naslov": "Physical entry",
+      "pokrivena": true,
+      "broj_zsis_kontrola": 2,
+      "zsis_kontrole": [
+        "FIZ-001",
+        "FIZ-003"
+      ],
+      "izvor_veze": [
+        "27001 Annex A",
+        "27002"
+      ]
+    },
+    {
+      "iso_kontrola": "7.3",
+      "naslov": "Securing offices, rooms and facilities",
+      "pokrivena": true,
+      "broj_zsis_kontrola": 1,
+      "zsis_kontrole": [
+        "FIZ-004"
+      ],
+      "izvor_veze": [
+        "27001 Annex A",
+        "27002"
+      ]
+    },
+    {
+      "iso_kontrola": "7.4",
+      "naslov": "Physical security monitoring",
+      "pokrivena": true,
+      "broj_zsis_kontrola": 4,
+      "zsis_kontrole": [
+        "POL-003",
+        "FIZ-001",
+        "FIZ-003",
+        "FIZ-004"
+      ],
+      "izvor_veze": [
+        "27001 Annex A",
+        "27002"
+      ]
+    },
+    {
+      "iso_kontrola": "7.5",
+      "naslov": "Protecting against physical and environmental threats",
+      "pokrivena": true,
+      "broj_zsis_kontrola": 2,
+      "zsis_kontrole": [
+        "POL-003",
+        "RIZ-019"
+      ],
+      "izvor_veze": [
+        "27001 Annex A",
+        "27002"
+      ]
+    },
+    {
+      "iso_kontrola": "7.6",
+      "naslov": "Working in secure areas",
+      "pokrivena": true,
+      "broj_zsis_kontrola": 1,
+      "zsis_kontrole": [
+        "POL-003"
+      ],
+      "izvor_veze": [
+        "27001 Annex A"
+      ]
+    },
+    {
+      "iso_kontrola": "7.7",
+      "naslov": "Clear desk and clear screen",
+      "pokrivena": false,
+      "broj_zsis_kontrola": 0,
+      "zsis_kontrole": [],
+      "izvor_veze": []
+    },
+    {
+      "iso_kontrola": "7.8",
+      "naslov": "Equipment siting and protection",
+      "pokrivena": false,
+      "broj_zsis_kontrola": 0,
+      "zsis_kontrole": [],
+      "izvor_veze": []
+    },
+    {
+      "iso_kontrola": "7.9",
+      "naslov": "Security of assets off-premises",
+      "pokrivena": false,
+      "broj_zsis_kontrola": 0,
+      "zsis_kontrole": [],
+      "izvor_veze": []
+    },
+    {
+      "iso_kontrola": "7.10",
+      "naslov": "Storage media",
+      "pokrivena": true,
+      "broj_zsis_kontrola": 3,
+      "zsis_kontrole": [
+        "POD-003",
+        "POD-006",
+        "POD-007"
+      ],
+      "izvor_veze": [
+        "27001 Annex A",
+        "27002"
+      ]
+    },
+    {
+      "iso_kontrola": "7.11",
+      "naslov": "Supporting utilities",
+      "pokrivena": false,
+      "broj_zsis_kontrola": 0,
+      "zsis_kontrole": [],
+      "izvor_veze": []
+    },
+    {
+      "iso_kontrola": "7.12",
+      "naslov": "Cabling security",
+      "pokrivena": false,
+      "broj_zsis_kontrola": 0,
+      "zsis_kontrole": [],
+      "izvor_veze": []
+    },
+    {
+      "iso_kontrola": "7.13",
+      "naslov": "Equipment maintenance",
+      "pokrivena": false,
+      "broj_zsis_kontrola": 0,
+      "zsis_kontrole": [],
+      "izvor_veze": []
+    },
+    {
+      "iso_kontrola": "7.14",
+      "naslov": "Secure disposal or re-use of equipment",
+      "pokrivena": false,
+      "broj_zsis_kontrola": 0,
+      "zsis_kontrole": [],
+      "izvor_veze": []
+    },
+    {
+      "iso_kontrola": "8.1",
+      "naslov": "User endpoint devices",
+      "pokrivena": false,
+      "broj_zsis_kontrola": 0,
+      "zsis_kontrole": [],
+      "izvor_veze": []
+    },
+    {
+      "iso_kontrola": "8.2",
+      "naslov": "Privileged access rights",
+      "pokrivena": true,
+      "broj_zsis_kontrola": 8,
+      "zsis_kontrole": [
+        "POL-005",
+        "ORG-005",
+        "NAD-007",
+        "DID-005",
+        "DID-008",
+        "DID-009",
+        "DID-010",
+        "SKM-007"
+      ],
+      "izvor_veze": [
+        "27001 Annex A",
+        "27002"
+      ]
+    },
+    {
+      "iso_kontrola": "8.3",
+      "naslov": "Information access restriction",
+      "pokrivena": true,
+      "broj_zsis_kontrola": 3,
+      "zsis_kontrole": [
+        "POL-004",
+        "DID-005",
+        "DID-008"
+      ],
+      "izvor_veze": [
+        "27001 Annex A",
+        "27002"
+      ]
+    },
+    {
+      "iso_kontrola": "8.4",
+      "naslov": "Access to source code",
+      "pokrivena": true,
+      "broj_zsis_kontrola": 1,
+      "zsis_kontrole": [
+        "POL-004"
+      ],
+      "izvor_veze": [
+        "27001 Annex A"
+      ]
+    },
+    {
+      "iso_kontrola": "8.5",
+      "naslov": "Secure authentication",
+      "pokrivena": true,
+      "broj_zsis_kontrola": 2,
+      "zsis_kontrole": [
+        "DID-005",
+        "DID-007"
+      ],
+      "izvor_veze": [
+        "27001 Annex A",
+        "27002"
+      ]
+    },
+    {
+      "iso_kontrola": "8.6",
+      "naslov": "Capacity management",
+      "pokrivena": false,
+      "broj_zsis_kontrola": 0,
+      "zsis_kontrole": [],
+      "izvor_veze": []
+    },
+    {
+      "iso_kontrola": "8.7",
+      "naslov": "Protection against malware",
+      "pokrivena": true,
+      "broj_zsis_kontrola": 1,
+      "zsis_kontrole": [
+        "POD-004"
+      ],
+      "izvor_veze": [
+        "27001 Annex A",
+        "27002"
+      ]
+    },
+    {
+      "iso_kontrola": "8.8",
+      "naslov": "Management of technical vulnerabilities",
+      "pokrivena": true,
+      "broj_zsis_kontrola": 4,
+      "zsis_kontrole": [
+        "RIZ-013",
+        "SKM-003",
+        "SKM-004",
+        "SKM-005"
+      ],
+      "izvor_veze": [
+        "27001 Annex A",
+        "27002"
+      ]
+    },
+    {
+      "iso_kontrola": "8.9",
+      "naslov": "Configuration management",
+      "pokrivena": true,
+      "broj_zsis_kontrola": 2,
+      "zsis_kontrole": [
+        "NAD-002",
+        "SKM-006"
+      ],
+      "izvor_veze": [
+        "27001 Annex A",
+        "27002"
+      ]
+    },
+    {
+      "iso_kontrola": "8.10",
+      "naslov": "Information deletion",
+      "pokrivena": true,
+      "broj_zsis_kontrola": 2,
+      "zsis_kontrole": [
+        "POD-003",
+        "POD-005"
+      ],
+      "izvor_veze": [
+        "27001 Annex A",
+        "27002"
+      ]
+    },
+    {
+      "iso_kontrola": "8.11",
+      "naslov": "Data masking",
+      "pokrivena": false,
+      "broj_zsis_kontrola": 0,
+      "zsis_kontrole": [],
+      "izvor_veze": []
+    },
+    {
+      "iso_kontrola": "8.12",
+      "naslov": "Data leakage prevention",
+      "pokrivena": true,
+      "broj_zsis_kontrola": 5,
+      "zsis_kontrole": [
+        "NAD-006",
+        "NAD-008",
+        "POD-003",
+        "POD-004",
+        "POD-005"
+      ],
+      "izvor_veze": [
+        "27001 Annex A",
+        "27002"
+      ]
+    },
+    {
+      "iso_kontrola": "8.13",
+      "naslov": "Information backup",
+      "pokrivena": true,
+      "broj_zsis_kontrola": 2,
+      "zsis_kontrole": [
+        "NAD-015",
+        "POD-002"
+      ],
+      "izvor_veze": [
+        "27001 Annex A",
+        "27002"
+      ]
+    },
+    {
+      "iso_kontrola": "8.14",
+      "naslov": "Redundancy of information processing facilities",
+      "pokrivena": false,
+      "broj_zsis_kontrola": 0,
+      "zsis_kontrole": [],
+      "izvor_veze": []
+    },
+    {
+      "iso_kontrola": "8.15",
+      "naslov": "Logging",
+      "pokrivena": true,
+      "broj_zsis_kontrola": 7,
+      "zsis_kontrole": [
+        "RES-002",
+        "NAD-002",
+        "NAD-012",
+        "NAD-015",
+        "NAD-016",
+        "DID-006",
+        "FIZ-003"
+      ],
+      "izvor_veze": [
+        "27001 Annex A",
+        "27002"
+      ]
+    },
+    {
+      "iso_kontrola": "8.16",
+      "naslov": "Monitoring activities",
+      "pokrivena": true,
+      "broj_zsis_kontrola": 12,
+      "zsis_kontrole": [
+        "RES-002",
+        "NAD-002",
+        "NAD-005",
+        "NAD-006",
+        "NAD-010",
+        "NAD-011",
+        "NAD-014",
+        "RIZ-011",
+        "DID-006",
+        "SKM-001",
+        "SKM-002",
+        "SKM-008"
+      ],
+      "izvor_veze": [
+        "27001 Annex A",
+        "27002"
+      ]
+    },
+    {
+      "iso_kontrola": "8.17",
+      "naslov": "Clock synchronization",
+      "pokrivena": true,
+      "broj_zsis_kontrola": 1,
+      "zsis_kontrole": [
+        "NAD-013"
+      ],
+      "izvor_veze": [
+        "27001 Annex A",
+        "27002"
+      ]
+    },
+    {
+      "iso_kontrola": "8.18",
+      "naslov": "Use of privileged utility programs",
+      "pokrivena": false,
+      "broj_zsis_kontrola": 0,
+      "zsis_kontrole": [],
+      "izvor_veze": []
+    },
+    {
+      "iso_kontrola": "8.19",
+      "naslov": "Installation of software on operational systems",
+      "pokrivena": true,
+      "broj_zsis_kontrola": 1,
+      "zsis_kontrole": [
+        "SKM-003"
+      ],
+      "izvor_veze": [
+        "27001 Annex A",
+        "27002"
+      ]
+    },
+    {
+      "iso_kontrola": "8.20",
+      "naslov": "Networks security",
+      "pokrivena": true,
+      "broj_zsis_kontrola": 1,
+      "zsis_kontrole": [
+        "POL-007"
+      ],
+      "izvor_veze": [
+        "27001 Annex A",
+        "27002"
+      ]
+    },
+    {
+      "iso_kontrola": "8.21",
+      "naslov": "Security of network services",
+      "pokrivena": true,
+      "broj_zsis_kontrola": 2,
+      "zsis_kontrole": [
+        "POL-007",
+        "NAD-009"
+      ],
+      "izvor_veze": [
+        "27001 Annex A",
+        "27002"
+      ]
+    },
+    {
+      "iso_kontrola": "8.22",
+      "naslov": "Segregation of networks",
+      "pokrivena": true,
+      "broj_zsis_kontrola": 1,
+      "zsis_kontrole": [
+        "POL-007"
+      ],
+      "izvor_veze": [
+        "27001 Annex A",
+        "27002"
+      ]
+    },
+    {
+      "iso_kontrola": "8.23",
+      "naslov": "Web filtering",
+      "pokrivena": true,
+      "broj_zsis_kontrola": 2,
+      "zsis_kontrole": [
+        "NAD-005",
+        "NAD-009"
+      ],
+      "izvor_veze": [
+        "27001 Annex A",
+        "27002"
+      ]
+    },
+    {
+      "iso_kontrola": "8.24",
+      "naslov": "Use of cryptography",
+      "pokrivena": true,
+      "broj_zsis_kontrola": 5,
+      "zsis_kontrole": [
+        "KRIP-001",
+        "KRIP-002",
+        "KRIP-003",
+        "KRIP-004",
+        "KRIP-005"
+      ],
+      "izvor_veze": [
+        "27001 Annex A",
+        "27002"
+      ]
+    },
+    {
+      "iso_kontrola": "8.25",
+      "naslov": "Secure development life cycle",
+      "pokrivena": true,
+      "broj_zsis_kontrola": 3,
+      "zsis_kontrole": [
+        "SRZ-001",
+        "SRZ-002",
+        "SRZ-003"
+      ],
+      "izvor_veze": [
+        "27001 Annex A",
+        "27002"
+      ]
+    },
+    {
+      "iso_kontrola": "8.26",
+      "naslov": "Application security requirements",
+      "pokrivena": true,
+      "broj_zsis_kontrola": 3,
+      "zsis_kontrole": [
+        "SRZ-001",
+        "SRZ-002",
+        "SRZ-003"
+      ],
+      "izvor_veze": [
+        "27001 Annex A",
+        "27002"
+      ]
+    },
+    {
+      "iso_kontrola": "8.27",
+      "naslov": "Secure system architecture and engineering principles",
+      "pokrivena": true,
+      "broj_zsis_kontrola": 2,
+      "zsis_kontrole": [
+        "SRZ-001",
+        "SRZ-003"
+      ],
+      "izvor_veze": [
+        "27001 Annex A",
+        "27002"
+      ]
+    },
+    {
+      "iso_kontrola": "8.28",
+      "naslov": "Secure coding",
+      "pokrivena": true,
+      "broj_zsis_kontrola": 1,
+      "zsis_kontrole": [
+        "SRZ-003"
+      ],
+      "izvor_veze": [
+        "27001 Annex A",
+        "27002"
+      ]
+    },
+    {
+      "iso_kontrola": "8.29",
+      "naslov": "Security testing in development and acceptance",
+      "pokrivena": true,
+      "broj_zsis_kontrola": 2,
+      "zsis_kontrole": [
+        "SRZ-001",
+        "SRZ-003"
+      ],
+      "izvor_veze": [
+        "27001 Annex A",
+        "27002"
+      ]
+    },
+    {
+      "iso_kontrola": "8.30",
+      "naslov": "Outsourced development",
+      "pokrivena": false,
+      "broj_zsis_kontrola": 0,
+      "zsis_kontrole": [],
+      "izvor_veze": []
+    },
+    {
+      "iso_kontrola": "8.31",
+      "naslov": "Separation of development, test and production environments",
+      "pokrivena": false,
+      "broj_zsis_kontrola": 0,
+      "zsis_kontrole": [],
+      "izvor_veze": []
+    },
+    {
+      "iso_kontrola": "8.32",
+      "naslov": "Change management",
+      "pokrivena": true,
+      "broj_zsis_kontrola": 2,
+      "zsis_kontrole": [
+        "SKM-007",
+        "SRZ-002"
+      ],
+      "izvor_veze": [
+        "27001 Annex A",
+        "27002"
+      ]
+    },
+    {
+      "iso_kontrola": "8.33",
+      "naslov": "Test information",
+      "pokrivena": false,
+      "broj_zsis_kontrola": 0,
+      "zsis_kontrole": [],
+      "izvor_veze": []
+    },
+    {
+      "iso_kontrola": "8.34",
+      "naslov": "Protection of information systems during audit testing",
+      "pokrivena": false,
+      "broj_zsis_kontrola": 0,
+      "zsis_kontrole": [],
+      "izvor_veze": []
+    }
+  ],
+  "iso_27001_klauzule_pokrivenost": [
+    {
+      "iso_klauzula": "4",
+      "naslov": "Context of the organization",
+      "pokrivena": false,
+      "zsis_izravno": [],
+      "zsis_preko_roditelja": [],
+      "zsis_preko_podklauzule": []
+    },
+    {
+      "iso_klauzula": "4.1",
+      "naslov": "Understanding the organization and its context",
+      "pokrivena": false,
+      "zsis_izravno": [],
+      "zsis_preko_roditelja": [],
+      "zsis_preko_podklauzule": []
+    },
+    {
+      "iso_klauzula": "4.2",
+      "naslov": "Understanding the needs and expectations of interested parties",
+      "pokrivena": false,
+      "zsis_izravno": [],
+      "zsis_preko_roditelja": [],
+      "zsis_preko_podklauzule": []
+    },
+    {
+      "iso_klauzula": "4.3",
+      "naslov": "Determining the scope of the information security management system",
+      "pokrivena": false,
+      "zsis_izravno": [],
+      "zsis_preko_roditelja": [],
+      "zsis_preko_podklauzule": []
+    },
+    {
+      "iso_klauzula": "4.4",
+      "naslov": "Information security management system",
+      "pokrivena": false,
+      "zsis_izravno": [],
+      "zsis_preko_roditelja": [],
+      "zsis_preko_podklauzule": []
+    },
+    {
+      "iso_klauzula": "5",
+      "naslov": ". 2 P o l i c y",
+      "pokrivena": true,
+      "zsis_izravno": [],
+      "zsis_preko_roditelja": [],
+      "zsis_preko_podklauzule": [
+        "POL-001",
+        "POL-002",
+        "POL-006",
+        "ORG-001",
+        "ORG-002",
+        "ORG-003",
+        "EDU-004",
+        "UPR-001",
+        "RIZ-003"
+      ]
+    },
+    {
+      "iso_klauzula": "5.1",
+      "naslov": "Leadership and commitment",
+      "pokrivena": false,
+      "zsis_izravno": [],
+      "zsis_preko_roditelja": [],
+      "zsis_preko_podklauzule": []
+    },
+    {
+      "iso_klauzula": "5.3",
+      "naslov": "Organizational roles, responsibilities and authorities",
+      "pokrivena": true,
+      "zsis_izravno": [
+        "POL-002",
+        "POL-006",
+        "ORG-001",
+        "ORG-002",
+        "ORG-003",
+        "EDU-004",
+        "UPR-001"
+      ],
+      "zsis_preko_roditelja": [],
+      "zsis_preko_podklauzule": []
+    },
+    {
+      "iso_klauzula": "6",
+      "naslov": "Planning",
+      "pokrivena": true,
+      "zsis_izravno": [
+        "RIZ-006",
+        "RIZ-007",
+        "RIZ-008",
+        "RIZ-009",
+        "RIZ-010",
+        "RIZ-012"
+      ],
+      "zsis_preko_roditelja": [],
+      "zsis_preko_podklauzule": [
+        "EDU-004",
+        "SRZ-002",
+        "RES-001",
+        "RIZ-004",
+        "RIZ-005",
+        "RIZ-001",
+        "RIZ-002",
+        "DID-011",
+        "FIZ-002"
+      ]
+    },
+    {
+      "iso_klauzula": "6.1",
+      "naslov": "Actions to address risks and opportunities",
+      "pokrivena": true,
+      "zsis_izravno": [
+        "RIZ-001",
+        "RIZ-002",
+        "RIZ-004",
+        "RIZ-005",
+        "DID-011",
+        "FIZ-002"
+      ],
+      "zsis_preko_roditelja": [
+        "RIZ-006",
+        "RIZ-007",
+        "RIZ-008",
+        "RIZ-009",
+        "RIZ-010",
+        "RIZ-012"
+      ],
+      "zsis_preko_podklauzule": []
+    },
+    {
+      "iso_klauzula": "6.1.1",
+      "naslov": "General",
+      "pokrivena": true,
+      "zsis_izravno": [],
+      "zsis_preko_roditelja": [
+        "RIZ-006",
+        "RIZ-007",
+        "RIZ-008",
+        "RIZ-009",
+        "RIZ-010",
+        "RIZ-012",
+        "RIZ-001",
+        "RIZ-002",
+        "RIZ-004",
+        "RIZ-005",
+        "DID-011",
+        "FIZ-002"
+      ],
+      "zsis_preko_podklauzule": []
+    },
+    {
+      "iso_klauzula": "6.1.2",
+      "naslov": "Information security risk assessment",
+      "pokrivena": true,
+      "zsis_izravno": [],
+      "zsis_preko_roditelja": [
+        "RIZ-006",
+        "RIZ-007",
+        "RIZ-008",
+        "RIZ-009",
+        "RIZ-010",
+        "RIZ-012",
+        "RIZ-001",
+        "RIZ-002",
+        "RIZ-004",
+        "RIZ-005",
+        "DID-011",
+        "FIZ-002"
+      ],
+      "zsis_preko_podklauzule": []
+    },
+    {
+      "iso_klauzula": "6.1.3",
+      "naslov": "Information security risk treatment",
+      "pokrivena": true,
+      "zsis_izravno": [],
+      "zsis_preko_roditelja": [
+        "RIZ-006",
+        "RIZ-007",
+        "RIZ-008",
+        "RIZ-009",
+        "RIZ-010",
+        "RIZ-012",
+        "RIZ-001",
+        "RIZ-002",
+        "RIZ-004",
+        "RIZ-005",
+        "DID-011",
+        "FIZ-002"
+      ],
+      "zsis_preko_podklauzule": []
+    },
+    {
+      "iso_klauzula": "6.2",
+      "naslov": "Information security objectives and planning to achieve them",
+      "pokrivena": true,
+      "zsis_izravno": [
+        "RES-001",
+        "RIZ-004",
+        "RIZ-005"
+      ],
+      "zsis_preko_roditelja": [
+        "RIZ-006",
+        "RIZ-007",
+        "RIZ-008",
+        "RIZ-009",
+        "RIZ-010",
+        "RIZ-012"
+      ],
+      "zsis_preko_podklauzule": []
+    },
+    {
+      "iso_klauzula": "7",
+      "naslov": "Support",
+      "pokrivena": true,
+      "zsis_izravno": [],
+      "zsis_preko_roditelja": [],
+      "zsis_preko_podklauzule": [
+        "POL-008",
+        "FIZ-002",
+        "FIZ-003",
+        "POL-011",
+        "EDU-009",
+        "RES-003",
+        "RES-001"
+      ]
+    },
+    {
+      "iso_klauzula": "7.1",
+      "naslov": "Resources",
+      "pokrivena": true,
+      "zsis_izravno": [
+        "RES-001"
+      ],
+      "zsis_preko_roditelja": [],
+      "zsis_preko_podklauzule": []
+    },
+    {
+      "iso_klauzula": "7.3",
+      "naslov": "Awareness",
+      "pokrivena": true,
+      "zsis_izravno": [
+        "RES-003"
+      ],
+      "zsis_preko_roditelja": [],
+      "zsis_preko_podklauzule": []
+    },
+    {
+      "iso_klauzula": "7.4",
+      "naslov": "Communication",
+      "pokrivena": true,
+      "zsis_izravno": [
+        "POL-011"
+      ],
+      "zsis_preko_roditelja": [],
+      "zsis_preko_podklauzule": []
+    },
+    {
+      "iso_klauzula": "7.5",
+      "naslov": "Documented information",
+      "pokrivena": true,
+      "zsis_izravno": [
+        "POL-008",
+        "FIZ-002",
+        "FIZ-003"
+      ],
+      "zsis_preko_roditelja": [],
+      "zsis_preko_podklauzule": []
+    },
+    {
+      "iso_klauzula": "7.5.1",
+      "naslov": "General",
+      "pokrivena": true,
+      "zsis_izravno": [],
+      "zsis_preko_roditelja": [
+        "POL-008",
+        "FIZ-002",
+        "FIZ-003"
+      ],
+      "zsis_preko_podklauzule": []
+    },
+    {
+      "iso_klauzula": "7.5.2",
+      "naslov": "Creating and updating",
+      "pokrivena": true,
+      "zsis_izravno": [],
+      "zsis_preko_roditelja": [
+        "POL-008",
+        "FIZ-002",
+        "FIZ-003"
+      ],
+      "zsis_preko_podklauzule": []
+    },
+    {
+      "iso_klauzula": "7.5.3",
+      "naslov": "Control of documented information",
+      "pokrivena": true,
+      "zsis_izravno": [],
+      "zsis_preko_roditelja": [
+        "POL-008",
+        "FIZ-002",
+        "FIZ-003"
+      ],
+      "zsis_preko_podklauzule": []
+    },
+    {
+      "iso_klauzula": "8",
+      "naslov": "Operation",
+      "pokrivena": true,
+      "zsis_izravno": [
+        "RIZ-006",
+        "RIZ-007",
+        "RIZ-008",
+        "RIZ-009",
+        "RIZ-010",
+        "RIZ-012"
+      ],
+      "zsis_preko_roditelja": [],
+      "zsis_preko_podklauzule": [
+        "RES-001",
+        "RIZ-004",
+        "RIZ-005"
+      ]
+    },
+    {
+      "iso_klauzula": "8.1",
+      "naslov": "Operational planning and control",
+      "pokrivena": true,
+      "zsis_izravno": [
+        "RIZ-004",
+        "RIZ-005"
+      ],
+      "zsis_preko_roditelja": [
+        "RIZ-006",
+        "RIZ-007",
+        "RIZ-008",
+        "RIZ-009",
+        "RIZ-010",
+        "RIZ-012"
+      ],
+      "zsis_preko_podklauzule": []
+    },
+    {
+      "iso_klauzula": "8.2",
+      "naslov": "Information security risk assessment",
+      "pokrivena": true,
+      "zsis_izravno": [
+        "RIZ-004",
+        "RIZ-005"
+      ],
+      "zsis_preko_roditelja": [
+        "RIZ-006",
+        "RIZ-007",
+        "RIZ-008",
+        "RIZ-009",
+        "RIZ-010",
+        "RIZ-012"
+      ],
+      "zsis_preko_podklauzule": []
+    },
+    {
+      "iso_klauzula": "8.3",
+      "naslov": "Information security risk treatment",
+      "pokrivena": true,
+      "zsis_izravno": [
+        "RES-001"
+      ],
+      "zsis_preko_roditelja": [
+        "RIZ-006",
+        "RIZ-007",
+        "RIZ-008",
+        "RIZ-009",
+        "RIZ-010",
+        "RIZ-012"
+      ],
+      "zsis_preko_podklauzule": []
+    },
+    {
+      "iso_klauzula": "9",
+      "naslov": "Performance evaluation",
+      "pokrivena": true,
+      "zsis_izravno": [
+        "NAD-014",
+        "RIZ-017"
+      ],
+      "zsis_preko_roditelja": [],
+      "zsis_preko_podklauzule": [
+        "POL-012",
+        "NAD-001",
+        "FIZ-002",
+        "RIZ-007"
+      ]
+    },
+    {
+      "iso_klauzula": "9.1",
+      "naslov": "Monitoring, measurement, analysis and evaluation",
+      "pokrivena": true,
+      "zsis_izravno": [
+        "POL-012",
+        "NAD-001",
+        "FIZ-002"
+      ],
+      "zsis_preko_roditelja": [
+        "NAD-014",
+        "RIZ-017"
+      ],
+      "zsis_preko_podklauzule": []
+    },
+    {
+      "iso_klauzula": "9.2",
+      "naslov": "Internal audit",
+      "pokrivena": true,
+      "zsis_izravno": [
+        "POL-012",
+        "NAD-001",
+        "FIZ-002"
+      ],
+      "zsis_preko_roditelja": [
+        "NAD-014",
+        "RIZ-017"
+      ],
+      "zsis_preko_podklauzule": []
+    },
+    {
+      "iso_klauzula": "9.2.1",
+      "naslov": "General",
+      "pokrivena": true,
+      "zsis_izravno": [],
+      "zsis_preko_roditelja": [
+        "NAD-014",
+        "RIZ-017",
+        "POL-012",
+        "NAD-001",
+        "FIZ-002"
+      ],
+      "zsis_preko_podklauzule": []
+    },
+    {
+      "iso_klauzula": "9.2.2",
+      "naslov": "Internal audit programme",
+      "pokrivena": true,
+      "zsis_izravno": [],
+      "zsis_preko_roditelja": [
+        "NAD-014",
+        "RIZ-017",
+        "POL-012",
+        "NAD-001",
+        "FIZ-002"
+      ],
+      "zsis_preko_podklauzule": []
+    },
+    {
+      "iso_klauzula": "9.3",
+      "naslov": "Management review",
+      "pokrivena": true,
+      "zsis_izravno": [
+        "POL-012",
+        "RIZ-007"
+      ],
+      "zsis_preko_roditelja": [
+        "NAD-014",
+        "RIZ-017"
+      ],
+      "zsis_preko_podklauzule": []
+    },
+    {
+      "iso_klauzula": "9.3.1",
+      "naslov": "General",
+      "pokrivena": true,
+      "zsis_izravno": [],
+      "zsis_preko_roditelja": [
+        "NAD-014",
+        "RIZ-017",
+        "POL-012",
+        "RIZ-007"
+      ],
+      "zsis_preko_podklauzule": []
+    },
+    {
+      "iso_klauzula": "9.3.2",
+      "naslov": "Management review inputs",
+      "pokrivena": true,
+      "zsis_izravno": [],
+      "zsis_preko_roditelja": [
+        "NAD-014",
+        "RIZ-017",
+        "POL-012",
+        "RIZ-007"
+      ],
+      "zsis_preko_podklauzule": []
+    },
+    {
+      "iso_klauzula": "9.3.3",
+      "naslov": "Management review results",
+      "pokrivena": true,
+      "zsis_izravno": [],
+      "zsis_preko_roditelja": [
+        "NAD-014",
+        "RIZ-017",
+        "POL-012",
+        "RIZ-007"
+      ],
+      "zsis_preko_podklauzule": []
+    },
+    {
+      "iso_klauzula": "10",
+      "naslov": "Improvement",
+      "pokrivena": true,
+      "zsis_izravno": [],
+      "zsis_preko_roditelja": [],
+      "zsis_preko_podklauzule": [
+        "POL-012"
+      ]
+    },
+    {
+      "iso_klauzula": "10.1",
+      "naslov": "Continual improvement",
+      "pokrivena": true,
+      "zsis_izravno": [
+        "POL-012"
+      ],
+      "zsis_preko_roditelja": [],
+      "zsis_preko_podklauzule": []
+    },
+    {
+      "iso_klauzula": "10.2",
+      "naslov": "Nonconformity and corrective action",
+      "pokrivena": true,
+      "zsis_izravno": [
+        "POL-012"
+      ],
+      "zsis_preko_roditelja": [],
+      "zsis_preko_podklauzule": []
+    }
+  ],
+  "zsis_kontrole_bez_iso_reference": [
+    "RES-007",
+    "UPR-017",
+    "UPR-018",
+    "NAD-003",
+    "NAD-004"
+  ],
+  "sazetak": {
+    "iso_27002_ukupno": 93,
+    "iso_27002_pokriveno": 63,
+    "iso_27002_nepokriveno": [
+      "5.1",
+      "5.5",
+      "5.6",
+      "5.7",
+      "5.14",
+      "5.23",
+      "5.32",
+      "5.33",
+      "5.34",
+      "5.35",
+      "5.36",
+      "6.5",
+      "6.6",
+      "6.7",
+      "7.7",
+      "7.8",
+      "7.9",
+      "7.11",
+      "7.12",
+      "7.13",
+      "7.14",
+      "8.1",
+      "8.6",
+      "8.11",
+      "8.14",
+      "8.18",
+      "8.30",
+      "8.31",
+      "8.33",
+      "8.34"
+    ],
+    "iso_27001_klauzula_ukupno": 38,
+    "iso_27001_pokriveno": 32,
+    "iso_27001_nepokriveno": [
+      "4",
+      "4.1",
+      "4.2",
+      "4.3",
+      "4.4",
+      "5.1"
+    ],
+    "zsis_bez_iso_reference": 5
+  }
+}

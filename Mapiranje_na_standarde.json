@@ -1,0 +1,6799 @@
+[
+ {
+  "SifraKontrole": "POL-001",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "5.2",
+  "Title": "POL-001 · ISO/IEC 27001:2022 · 5.2"
+ },
+ {
+  "SifraKontrole": "POL-001",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "PM-1",
+  "Title": "POL-001 · NIST SP 800-53 Rev. 5 · PM-1"
+ },
+ {
+  "SifraKontrole": "POL-001",
+  "Okvir": "NIST CSF v2.0",
+  "Standard": "NIST CSF v2.0",
+  "Referenca": "Kategorija GV",
+  "Title": "POL-001 · NIST CSF v2.0 · Kategorija GV"
+ },
+ {
+  "SifraKontrole": "POL-001",
+  "Okvir": "Ostalo",
+  "Standard": "ISO 22301:2019",
+  "Referenca": "6.2",
+  "Title": "POL-001 · ISO 22301:2019 · 6.2"
+ },
+ {
+  "SifraKontrole": "POL-002",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "5.3",
+  "Title": "POL-002 · ISO/IEC 27001:2022 · 5.3"
+ },
+ {
+  "SifraKontrole": "POL-002",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.5.3",
+  "Title": "POL-002 · ISO/IEC 27001:2022 · A.5.3"
+ },
+ {
+  "SifraKontrole": "POL-002",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "AC-5",
+  "Title": "POL-002 · NIST SP 800-53 Rev. 5 · AC-5"
+ },
+ {
+  "SifraKontrole": "POL-002",
+  "Okvir": "NIST CSF v2.0",
+  "Standard": "NIST CSF v2.0",
+  "Referenca": "Kategorija GV",
+  "Title": "POL-002 · NIST CSF v2.0 · Kategorija GV"
+ },
+ {
+  "SifraKontrole": "POL-002",
+  "Okvir": "Ostalo",
+  "Standard": "ISO 22301:2019",
+  "Referenca": "5.3",
+  "Title": "POL-002 · ISO 22301:2019 · 5.3"
+ },
+ {
+  "SifraKontrole": "POL-003",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.7.4",
+  "Title": "POL-003 · ISO/IEC 27001:2022 · A.7.4"
+ },
+ {
+  "SifraKontrole": "POL-003",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.7.5",
+  "Title": "POL-003 · ISO/IEC 27001:2022 · A.7.5"
+ },
+ {
+  "SifraKontrole": "POL-003",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.7.6",
+  "Title": "POL-003 · ISO/IEC 27001:2022 · A.7.6"
+ },
+ {
+  "SifraKontrole": "POL-003",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "PE-1",
+  "Title": "POL-003 · NIST SP 800-53 Rev. 5 · PE-1"
+ },
+ {
+  "SifraKontrole": "POL-003",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "PE-2",
+  "Title": "POL-003 · NIST SP 800-53 Rev. 5 · PE-2"
+ },
+ {
+  "SifraKontrole": "POL-003",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "PE-3",
+  "Title": "POL-003 · NIST SP 800-53 Rev. 5 · PE-3"
+ },
+ {
+  "SifraKontrole": "POL-003",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "PE-6",
+  "Title": "POL-003 · NIST SP 800-53 Rev. 5 · PE-6"
+ },
+ {
+  "SifraKontrole": "POL-003",
+  "Okvir": "NIST CSF v2.0",
+  "Standard": "NIST CSF v2.0",
+  "Referenca": "Kategorija PR",
+  "Title": "POL-003 · NIST CSF v2.0 · Kategorija PR"
+ },
+ {
+  "SifraKontrole": "POL-004",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.5.15",
+  "Title": "POL-004 · ISO/IEC 27001:2022 · A.5.15"
+ },
+ {
+  "SifraKontrole": "POL-004",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.5.16",
+  "Title": "POL-004 · ISO/IEC 27001:2022 · A.5.16"
+ },
+ {
+  "SifraKontrole": "POL-004",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.5.17",
+  "Title": "POL-004 · ISO/IEC 27001:2022 · A.5.17"
+ },
+ {
+  "SifraKontrole": "POL-004",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.8.3",
+  "Title": "POL-004 · ISO/IEC 27001:2022 · A.8.3"
+ },
+ {
+  "SifraKontrole": "POL-004",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.8.4",
+  "Title": "POL-004 · ISO/IEC 27001:2022 · A.8.4"
+ },
+ {
+  "SifraKontrole": "POL-004",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "IA-2",
+  "Title": "POL-004 · NIST SP 800-53 Rev. 5 · IA-2"
+ },
+ {
+  "SifraKontrole": "POL-004",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "IA-4",
+  "Title": "POL-004 · NIST SP 800-53 Rev. 5 · IA-4"
+ },
+ {
+  "SifraKontrole": "POL-004",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "IA-5",
+  "Title": "POL-004 · NIST SP 800-53 Rev. 5 · IA-5"
+ },
+ {
+  "SifraKontrole": "POL-004",
+  "Okvir": "Ostalo",
+  "Standard": "NIST SP 800-63B",
+  "Referenca": "",
+  "Title": "POL-004 · NIST SP 800-63B"
+ },
+ {
+  "SifraKontrole": "POL-005",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.5.18",
+  "Title": "POL-005 · ISO/IEC 27001:2022 · A.5.18"
+ },
+ {
+  "SifraKontrole": "POL-005",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.8.2",
+  "Title": "POL-005 · ISO/IEC 27001:2022 · A.8.2"
+ },
+ {
+  "SifraKontrole": "POL-005",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "AC-2",
+  "Title": "POL-005 · NIST SP 800-53 Rev. 5 · AC-2"
+ },
+ {
+  "SifraKontrole": "POL-005",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "AC-6",
+  "Title": "POL-005 · NIST SP 800-53 Rev. 5 · AC-6"
+ },
+ {
+  "SifraKontrole": "POL-005",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "AC-7",
+  "Title": "POL-005 · NIST SP 800-53 Rev. 5 · AC-7"
+ },
+ {
+  "SifraKontrole": "POL-005",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "IA-4",
+  "Title": "POL-005 · NIST SP 800-53 Rev. 5 · IA-4"
+ },
+ {
+  "SifraKontrole": "POL-005",
+  "Okvir": "NIST CSF v2.0",
+  "Standard": "NIST CSF v2.0",
+  "Referenca": "Kategorija PR",
+  "Title": "POL-005 · NIST CSF v2.0 · Kategorija PR"
+ },
+ {
+  "SifraKontrole": "POL-006",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "5.3",
+  "Title": "POL-006 · ISO/IEC 27001:2022 · 5.3"
+ },
+ {
+  "SifraKontrole": "POL-006",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "5.4",
+  "Title": "POL-006 · ISO/IEC 27001:2022 · 5.4"
+ },
+ {
+  "SifraKontrole": "POL-006",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.5.3",
+  "Title": "POL-006 · ISO/IEC 27001:2022 · A.5.3"
+ },
+ {
+  "SifraKontrole": "POL-006",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.5.4",
+  "Title": "POL-006 · ISO/IEC 27001:2022 · A.5.4"
+ },
+ {
+  "SifraKontrole": "POL-006",
+  "Okvir": "Ostalo",
+  "Standard": "ISO/IEC 27005:2022",
+  "Referenca": "",
+  "Title": "POL-006 · ISO/IEC 27005:2022"
+ },
+ {
+  "SifraKontrole": "POL-006",
+  "Okvir": "Ostalo",
+  "Standard": "ISO 22301:2019",
+  "Referenca": "5.3",
+  "Title": "POL-006 · ISO 22301:2019 · 5.3"
+ },
+ {
+  "SifraKontrole": "POL-006",
+  "Okvir": "Ostalo",
+  "Standard": "ENISA Interoperable Risk Framework",
+  "Referenca": "",
+  "Title": "POL-006 · ENISA Interoperable Risk Framework"
+ },
+ {
+  "SifraKontrole": "POL-006",
+  "Okvir": "Ostalo",
+  "Standard": "NIST SP 800-39",
+  "Referenca": "",
+  "Title": "POL-006 · NIST SP 800-39"
+ },
+ {
+  "SifraKontrole": "POL-006",
+  "Okvir": "Ostalo",
+  "Standard": "NIST SP 800-30 Rev. 1",
+  "Referenca": "",
+  "Title": "POL-006 · NIST SP 800-30 Rev. 1"
+ },
+ {
+  "SifraKontrole": "POL-007",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.8.20",
+  "Title": "POL-007 · ISO/IEC 27001:2022 · A.8.20"
+ },
+ {
+  "SifraKontrole": "POL-007",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.8.21",
+  "Title": "POL-007 · ISO/IEC 27001:2022 · A.8.21"
+ },
+ {
+  "SifraKontrole": "POL-007",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.8.22",
+  "Title": "POL-007 · ISO/IEC 27001:2022 · A.8.22"
+ },
+ {
+  "SifraKontrole": "POL-007",
+  "Okvir": "ISO/IEC 27002:2022",
+  "Standard": "ISO/IEC 27002:2022",
+  "Referenca": "8.20",
+  "Title": "POL-007 · ISO/IEC 27002:2022 · 8.20"
+ },
+ {
+  "SifraKontrole": "POL-007",
+  "Okvir": "ISO/IEC 27002:2022",
+  "Standard": "ISO/IEC 27002:2022",
+  "Referenca": "8.21",
+  "Title": "POL-007 · ISO/IEC 27002:2022 · 8.21"
+ },
+ {
+  "SifraKontrole": "POL-007",
+  "Okvir": "ISO/IEC 27002:2022",
+  "Standard": "ISO/IEC 27002:2022",
+  "Referenca": "8.22",
+  "Title": "POL-007 · ISO/IEC 27002:2022 · 8.22"
+ },
+ {
+  "SifraKontrole": "POL-008",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "7.5",
+  "Title": "POL-008 · ISO/IEC 27001:2022 · 7.5"
+ },
+ {
+  "SifraKontrole": "POL-008",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.5.10",
+  "Title": "POL-008 · ISO/IEC 27001:2022 · A.5.10"
+ },
+ {
+  "SifraKontrole": "POL-008",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.5.37",
+  "Title": "POL-008 · ISO/IEC 27001:2022 · A.5.37"
+ },
+ {
+  "SifraKontrole": "POL-008",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.6.3",
+  "Title": "POL-008 · ISO/IEC 27001:2022 · A.6.3"
+ },
+ {
+  "SifraKontrole": "POL-008",
+  "Okvir": "Ostalo",
+  "Standard": "ISO 22301:2019",
+  "Referenca": "7.5",
+  "Title": "POL-008 · ISO 22301:2019 · 7.5"
+ },
+ {
+  "SifraKontrole": "POL-009",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.5.19",
+  "Title": "POL-009 · ISO/IEC 27001:2022 · A.5.19"
+ },
+ {
+  "SifraKontrole": "POL-009",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.5.24",
+  "Title": "POL-009 · ISO/IEC 27001:2022 · A.5.24"
+ },
+ {
+  "SifraKontrole": "POL-009",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.5.26",
+  "Title": "POL-009 · ISO/IEC 27001:2022 · A.5.26"
+ },
+ {
+  "SifraKontrole": "POL-009",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.5.30",
+  "Title": "POL-009 · ISO/IEC 27001:2022 · A.5.30"
+ },
+ {
+  "SifraKontrole": "POL-009",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "IR-4",
+  "Title": "POL-009 · NIST SP 800-53 Rev. 5 · IR-4"
+ },
+ {
+  "SifraKontrole": "POL-009",
+  "Okvir": "NIST CSF v2.0",
+  "Standard": "NIST CSF v2.0",
+  "Referenca": "RS.CO-2",
+  "Title": "POL-009 · NIST CSF v2.0 · RS.CO-2"
+ },
+ {
+  "SifraKontrole": "POL-009",
+  "Okvir": "NIST CSF v2.0",
+  "Standard": "NIST CSF v2.0",
+  "Referenca": "RS.CO-3",
+  "Title": "POL-009 · NIST CSF v2.0 · RS.CO-3"
+ },
+ {
+  "SifraKontrole": "POL-009",
+  "Okvir": "Ostalo",
+  "Standard": "ISO 22301:2019",
+  "Referenca": "8.4.1, 8.4.2",
+  "Title": "POL-009 · ISO 22301:2019 · 8.4.1, 8.4.2"
+ },
+ {
+  "SifraKontrole": "POL-009",
+  "Okvir": "Ostalo",
+  "Standard": "NIST SP 800-61 Rev. 2",
+  "Referenca": "4.1",
+  "Title": "POL-009 · NIST SP 800-61 Rev. 2 · 4.1"
+ },
+ {
+  "SifraKontrole": "POL-010",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.5.24",
+  "Title": "POL-010 · ISO/IEC 27001:2022 · A.5.24"
+ },
+ {
+  "SifraKontrole": "POL-010",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.5.25",
+  "Title": "POL-010 · ISO/IEC 27001:2022 · A.5.25"
+ },
+ {
+  "SifraKontrole": "POL-010",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.5.37",
+  "Title": "POL-010 · ISO/IEC 27001:2022 · A.5.37"
+ },
+ {
+  "SifraKontrole": "POL-010",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "IR-1",
+  "Title": "POL-010 · NIST SP 800-53 Rev. 5 · IR-1"
+ },
+ {
+  "SifraKontrole": "POL-010",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "IR-4",
+  "Title": "POL-010 · NIST SP 800-53 Rev. 5 · IR-4"
+ },
+ {
+  "SifraKontrole": "POL-010",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "IR-6",
+  "Title": "POL-010 · NIST SP 800-53 Rev. 5 · IR-6"
+ },
+ {
+  "SifraKontrole": "POL-010",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "IR-8",
+  "Title": "POL-010 · NIST SP 800-53 Rev. 5 · IR-8"
+ },
+ {
+  "SifraKontrole": "POL-010",
+  "Okvir": "NIST CSF v2.0",
+  "Standard": "NIST CSF v2.0",
+  "Referenca": "RS.CO-2",
+  "Title": "POL-010 · NIST CSF v2.0 · RS.CO-2"
+ },
+ {
+  "SifraKontrole": "POL-010",
+  "Okvir": "Ostalo",
+  "Standard": "NIST SP 800-61 Rev. 2",
+  "Referenca": "",
+  "Title": "POL-010 · NIST SP 800-61 Rev. 2"
+ },
+ {
+  "SifraKontrole": "POL-011",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "7.4",
+  "Title": "POL-011 · ISO/IEC 27001:2022 · 7.4"
+ },
+ {
+  "SifraKontrole": "POL-011",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.5.29",
+  "Title": "POL-011 · ISO/IEC 27001:2022 · A.5.29"
+ },
+ {
+  "SifraKontrole": "POL-011",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.5.30",
+  "Title": "POL-011 · ISO/IEC 27001:2022 · A.5.30"
+ },
+ {
+  "SifraKontrole": "POL-011",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.5.37",
+  "Title": "POL-011 · ISO/IEC 27001:2022 · A.5.37"
+ },
+ {
+  "SifraKontrole": "POL-011",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "SC-8",
+  "Title": "POL-011 · NIST SP 800-53 Rev. 5 · SC-8"
+ },
+ {
+  "SifraKontrole": "POL-011",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "IR-4",
+  "Title": "POL-011 · NIST SP 800-53 Rev. 5 · IR-4"
+ },
+ {
+  "SifraKontrole": "POL-011",
+  "Okvir": "NIST CSF v2.0",
+  "Standard": "NIST CSF v2.0",
+  "Referenca": "PR.DS-2",
+  "Title": "POL-011 · NIST CSF v2.0 · PR.DS-2"
+ },
+ {
+  "SifraKontrole": "POL-012",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "9.1",
+  "Title": "POL-012 · ISO/IEC 27001:2022 · 9.1"
+ },
+ {
+  "SifraKontrole": "POL-012",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "9.2",
+  "Title": "POL-012 · ISO/IEC 27001:2022 · 9.2"
+ },
+ {
+  "SifraKontrole": "POL-012",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "9.3",
+  "Title": "POL-012 · ISO/IEC 27001:2022 · 9.3"
+ },
+ {
+  "SifraKontrole": "POL-012",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "10.1",
+  "Title": "POL-012 · ISO/IEC 27001:2022 · 10.1"
+ },
+ {
+  "SifraKontrole": "POL-012",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "10.2",
+  "Title": "POL-012 · ISO/IEC 27001:2022 · 10.2"
+ },
+ {
+  "SifraKontrole": "POL-012",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.5.4",
+  "Title": "POL-012 · ISO/IEC 27001:2022 · A.5.4"
+ },
+ {
+  "SifraKontrole": "POL-012",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "PM-6",
+  "Title": "POL-012 · NIST SP 800-53 Rev. 5 · PM-6"
+ },
+ {
+  "SifraKontrole": "POL-012",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "PM-9",
+  "Title": "POL-012 · NIST SP 800-53 Rev. 5 · PM-9"
+ },
+ {
+  "SifraKontrole": "POL-012",
+  "Okvir": "NIST CSF v2.0",
+  "Standard": "NIST CSF v2.0",
+  "Referenca": "GV.RM-03",
+  "Title": "POL-012 · NIST CSF v2.0 · GV.RM-03"
+ },
+ {
+  "SifraKontrole": "POL-012",
+  "Okvir": "NIST CSF v2.0",
+  "Standard": "NIST CSF v2.0",
+  "Referenca": "Kategorija GV.OV",
+  "Title": "POL-012 · NIST CSF v2.0 · Kategorija GV.OV"
+ },
+ {
+  "SifraKontrole": "POL-012",
+  "Okvir": "Ostalo",
+  "Standard": "ISO 22301:2019",
+  "Referenca": "9.1, 9.2, 9.3, 10.1, 10.2",
+  "Title": "POL-012 · ISO 22301:2019 · 9.1, 9.2, 9.3, 10.1, 10.2"
+ },
+ {
+  "SifraKontrole": "POL-012",
+  "Okvir": "Ostalo",
+  "Standard": "ISO/IEC 27005:2022",
+  "Referenca": "8.6",
+  "Title": "POL-012 · ISO/IEC 27005:2022 · 8.6"
+ },
+ {
+  "SifraKontrole": "ORG-001",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "5.3",
+  "Title": "ORG-001 · ISO/IEC 27001:2022 · 5.3"
+ },
+ {
+  "SifraKontrole": "ORG-001",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.5.3",
+  "Title": "ORG-001 · ISO/IEC 27001:2022 · A.5.3"
+ },
+ {
+  "SifraKontrole": "ORG-001",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.5.4",
+  "Title": "ORG-001 · ISO/IEC 27001:2022 · A.5.4"
+ },
+ {
+  "SifraKontrole": "ORG-001",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "PM-1",
+  "Title": "ORG-001 · NIST SP 800-53 Rev. 5 · PM-1"
+ },
+ {
+  "SifraKontrole": "ORG-001",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "PM-2",
+  "Title": "ORG-001 · NIST SP 800-53 Rev. 5 · PM-2"
+ },
+ {
+  "SifraKontrole": "ORG-001",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "RA-1",
+  "Title": "ORG-001 · NIST SP 800-53 Rev. 5 · RA-1"
+ },
+ {
+  "SifraKontrole": "ORG-001",
+  "Okvir": "Ostalo",
+  "Standard": "ISO 22301:2019",
+  "Referenca": "5.3",
+  "Title": "ORG-001 · ISO 22301:2019 · 5.3"
+ },
+ {
+  "SifraKontrole": "ORG-001",
+  "Okvir": "Ostalo",
+  "Standard": "ISO/IEC 27005:2022",
+  "Referenca": "",
+  "Title": "ORG-001 · ISO/IEC 27005:2022"
+ },
+ {
+  "SifraKontrole": "ORG-002",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "5.3",
+  "Title": "ORG-002 · ISO/IEC 27001:2022 · 5.3"
+ },
+ {
+  "SifraKontrole": "ORG-002",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.5.3",
+  "Title": "ORG-002 · ISO/IEC 27001:2022 · A.5.3"
+ },
+ {
+  "SifraKontrole": "ORG-002",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.5.4",
+  "Title": "ORG-002 · ISO/IEC 27001:2022 · A.5.4"
+ },
+ {
+  "SifraKontrole": "ORG-002",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "PM-1",
+  "Title": "ORG-002 · NIST SP 800-53 Rev. 5 · PM-1"
+ },
+ {
+  "SifraKontrole": "ORG-002",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "PM-2",
+  "Title": "ORG-002 · NIST SP 800-53 Rev. 5 · PM-2"
+ },
+ {
+  "SifraKontrole": "ORG-002",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "RA-1",
+  "Title": "ORG-002 · NIST SP 800-53 Rev. 5 · RA-1"
+ },
+ {
+  "SifraKontrole": "ORG-002",
+  "Okvir": "NIST CSF v2.0",
+  "Standard": "NIST CSF v2.0",
+  "Referenca": "PR.AT-2",
+  "Title": "ORG-002 · NIST CSF v2.0 · PR.AT-2"
+ },
+ {
+  "SifraKontrole": "ORG-002",
+  "Okvir": "Ostalo",
+  "Standard": "ISO 22301:2019",
+  "Referenca": "5.3",
+  "Title": "ORG-002 · ISO 22301:2019 · 5.3"
+ },
+ {
+  "SifraKontrole": "ORG-003",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "5.3",
+  "Title": "ORG-003 · ISO/IEC 27001:2022 · 5.3"
+ },
+ {
+  "SifraKontrole": "ORG-003",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.5.3",
+  "Title": "ORG-003 · ISO/IEC 27001:2022 · A.5.3"
+ },
+ {
+  "SifraKontrole": "ORG-003",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.5.4",
+  "Title": "ORG-003 · ISO/IEC 27001:2022 · A.5.4"
+ },
+ {
+  "SifraKontrole": "ORG-003",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "PM-1",
+  "Title": "ORG-003 · NIST SP 800-53 Rev. 5 · PM-1"
+ },
+ {
+  "SifraKontrole": "ORG-003",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "PM-2",
+  "Title": "ORG-003 · NIST SP 800-53 Rev. 5 · PM-2"
+ },
+ {
+  "SifraKontrole": "ORG-003",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "RA-1",
+  "Title": "ORG-003 · NIST SP 800-53 Rev. 5 · RA-1"
+ },
+ {
+  "SifraKontrole": "ORG-003",
+  "Okvir": "Ostalo",
+  "Standard": "ISO 22301:2019",
+  "Referenca": "5.3",
+  "Title": "ORG-003 · ISO 22301:2019 · 5.3"
+ },
+ {
+  "SifraKontrole": "ORG-004",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.6.4",
+  "Title": "ORG-004 · ISO/IEC 27001:2022 · A.6.4"
+ },
+ {
+  "SifraKontrole": "ORG-004",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "PS-8",
+  "Title": "ORG-004 · NIST SP 800-53 Rev. 5 · PS-8"
+ },
+ {
+  "SifraKontrole": "ORG-005",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.5.15",
+  "Title": "ORG-005 · ISO/IEC 27001:2022 · A.5.15"
+ },
+ {
+  "SifraKontrole": "ORG-005",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.5.18",
+  "Title": "ORG-005 · ISO/IEC 27001:2022 · A.5.18"
+ },
+ {
+  "SifraKontrole": "ORG-005",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.8.2",
+  "Title": "ORG-005 · ISO/IEC 27001:2022 · A.8.2"
+ },
+ {
+  "SifraKontrole": "ORG-005",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "AC-2",
+  "Title": "ORG-005 · NIST SP 800-53 Rev. 5 · AC-2"
+ },
+ {
+  "SifraKontrole": "ORG-005",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "AC-5",
+  "Title": "ORG-005 · NIST SP 800-53 Rev. 5 · AC-5"
+ },
+ {
+  "SifraKontrole": "ORG-005",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "AC-6",
+  "Title": "ORG-005 · NIST SP 800-53 Rev. 5 · AC-6"
+ },
+ {
+  "SifraKontrole": "ORG-005",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "AC-17",
+  "Title": "ORG-005 · NIST SP 800-53 Rev. 5 · AC-17"
+ },
+ {
+  "SifraKontrole": "ORG-006",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.5.29",
+  "Title": "ORG-006 · ISO/IEC 27001:2022 · A.5.29"
+ },
+ {
+  "SifraKontrole": "ORG-006",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "CP-2",
+  "Title": "ORG-006 · NIST SP 800-53 Rev. 5 · CP-2"
+ },
+ {
+  "SifraKontrole": "ORG-006",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "CP-9",
+  "Title": "ORG-006 · NIST SP 800-53 Rev. 5 · CP-9"
+ },
+ {
+  "SifraKontrole": "ORG-006",
+  "Okvir": "Ostalo",
+  "Standard": "ISO 22301:2019",
+  "Referenca": "8.2.2, 8.2.3, 8.3.2, 8.4.2, 8.4.4, 8.4.5",
+  "Title": "ORG-006 · ISO 22301:2019 · 8.2.2, 8.2.3, 8.3.2, 8.4.2, 8.4.4, 8.4.5"
+ },
+ {
+  "SifraKontrole": "ORG-006",
+  "Okvir": "Ostalo",
+  "Standard": "NIST SP 800-34 Rev. 1",
+  "Referenca": "3.4",
+  "Title": "ORG-006 · NIST SP 800-34 Rev. 1 · 3.4"
+ },
+ {
+  "SifraKontrole": "ORG-007",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.5.29",
+  "Title": "ORG-007 · ISO/IEC 27001:2022 · A.5.29"
+ },
+ {
+  "SifraKontrole": "ORG-007",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "CP-2",
+  "Title": "ORG-007 · NIST SP 800-53 Rev. 5 · CP-2"
+ },
+ {
+  "SifraKontrole": "ORG-007",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "CP-3",
+  "Title": "ORG-007 · NIST SP 800-53 Rev. 5 · CP-3"
+ },
+ {
+  "SifraKontrole": "ORG-007",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "CP-4",
+  "Title": "ORG-007 · NIST SP 800-53 Rev. 5 · CP-4"
+ },
+ {
+  "SifraKontrole": "ORG-007",
+  "Okvir": "Ostalo",
+  "Standard": "ISO 22301:2019",
+  "Referenca": "8.2.2, 8.2.3, 8.3.2, 8.4.2, 8.4.4, 8.4.5",
+  "Title": "ORG-007 · ISO 22301:2019 · 8.2.2, 8.2.3, 8.3.2, 8.4.2, 8.4.4, 8.4.5"
+ },
+ {
+  "SifraKontrole": "ORG-007",
+  "Okvir": "Ostalo",
+  "Standard": "NIST SP 800-34 Rev. 1",
+  "Referenca": "3.5, 3.6",
+  "Title": "ORG-007 · NIST SP 800-34 Rev. 1 · 3.5, 3.6"
+ },
+ {
+  "SifraKontrole": "EDU-001",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.5.4",
+  "Title": "EDU-001 · ISO/IEC 27001:2022 · A.5.4"
+ },
+ {
+  "SifraKontrole": "EDU-001",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.6.3",
+  "Title": "EDU-001 · ISO/IEC 27001:2022 · A.6.3"
+ },
+ {
+  "SifraKontrole": "EDU-001",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "AT-2",
+  "Title": "EDU-001 · NIST SP 800-53 Rev. 5 · AT-2"
+ },
+ {
+  "SifraKontrole": "EDU-001",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "AT-3",
+  "Title": "EDU-001 · NIST SP 800-53 Rev. 5 · AT-3"
+ },
+ {
+  "SifraKontrole": "EDU-001",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "PM-13",
+  "Title": "EDU-001 · NIST SP 800-53 Rev. 5 · PM-13"
+ },
+ {
+  "SifraKontrole": "EDU-001",
+  "Okvir": "NIST CSF v2.0",
+  "Standard": "NIST CSF v2.0",
+  "Referenca": "PR.AT-1",
+  "Title": "EDU-001 · NIST CSF v2.0 · PR.AT-1"
+ },
+ {
+  "SifraKontrole": "EDU-001",
+  "Okvir": "Ostalo",
+  "Standard": "ISO 22301:2019",
+  "Referenca": "7.3",
+  "Title": "EDU-001 · ISO 22301:2019 · 7.3"
+ },
+ {
+  "SifraKontrole": "EDU-002",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.5.19",
+  "Title": "EDU-002 · ISO/IEC 27001:2022 · A.5.19"
+ },
+ {
+  "SifraKontrole": "EDU-002",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.5.20",
+  "Title": "EDU-002 · ISO/IEC 27001:2022 · A.5.20"
+ },
+ {
+  "SifraKontrole": "EDU-002",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.5.21",
+  "Title": "EDU-002 · ISO/IEC 27001:2022 · A.5.21"
+ },
+ {
+  "SifraKontrole": "EDU-002",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "SA-9",
+  "Title": "EDU-002 · NIST SP 800-53 Rev. 5 · SA-9"
+ },
+ {
+  "SifraKontrole": "EDU-002",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "SR-3",
+  "Title": "EDU-002 · NIST SP 800-53 Rev. 5 · SR-3"
+ },
+ {
+  "SifraKontrole": "EDU-002",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "PS-7",
+  "Title": "EDU-002 · NIST SP 800-53 Rev. 5 · PS-7"
+ },
+ {
+  "SifraKontrole": "EDU-002",
+  "Okvir": "Ostalo",
+  "Standard": "ISO 22301:2019",
+  "Referenca": "7.3",
+  "Title": "EDU-002 · ISO 22301:2019 · 7.3"
+ },
+ {
+  "SifraKontrole": "EDU-003",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.5.4",
+  "Title": "EDU-003 · ISO/IEC 27001:2022 · A.5.4"
+ },
+ {
+  "SifraKontrole": "EDU-003",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.6.3",
+  "Title": "EDU-003 · ISO/IEC 27001:2022 · A.6.3"
+ },
+ {
+  "SifraKontrole": "EDU-003",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "AT-2",
+  "Title": "EDU-003 · NIST SP 800-53 Rev. 5 · AT-2"
+ },
+ {
+  "SifraKontrole": "EDU-003",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "AT-3",
+  "Title": "EDU-003 · NIST SP 800-53 Rev. 5 · AT-3"
+ },
+ {
+  "SifraKontrole": "EDU-003",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "AT-6",
+  "Title": "EDU-003 · NIST SP 800-53 Rev. 5 · AT-6"
+ },
+ {
+  "SifraKontrole": "EDU-003",
+  "Okvir": "NIST CSF v2.0",
+  "Standard": "NIST CSF v2.0",
+  "Referenca": "PR.AT-1",
+  "Title": "EDU-003 · NIST CSF v2.0 · PR.AT-1"
+ },
+ {
+  "SifraKontrole": "EDU-003",
+  "Okvir": "Ostalo",
+  "Standard": "ISO 22301:2019",
+  "Referenca": "7.3",
+  "Title": "EDU-003 · ISO 22301:2019 · 7.3"
+ },
+ {
+  "SifraKontrole": "EDU-003",
+  "Okvir": "Ostalo",
+  "Standard": "ENISA Interoperable Risk Management Framework",
+  "Referenca": "",
+  "Title": "EDU-003 · ENISA Interoperable Risk Management Framework"
+ },
+ {
+  "SifraKontrole": "EDU-004",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "5.3",
+  "Title": "EDU-004 · ISO/IEC 27001:2022 · 5.3"
+ },
+ {
+  "SifraKontrole": "EDU-004",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "6.3",
+  "Title": "EDU-004 · ISO/IEC 27001:2022 · 6.3"
+ },
+ {
+  "SifraKontrole": "EDU-004",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "PM-3",
+  "Title": "EDU-004 · NIST SP 800-53 Rev. 5 · PM-3"
+ },
+ {
+  "SifraKontrole": "EDU-004",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "PM-16",
+  "Title": "EDU-004 · NIST SP 800-53 Rev. 5 · PM-16"
+ },
+ {
+  "SifraKontrole": "EDU-004",
+  "Okvir": "Ostalo",
+  "Standard": "ISO 22301:2019",
+  "Referenca": "5.3, 6.2",
+  "Title": "EDU-004 · ISO 22301:2019 · 5.3, 6.2"
+ },
+ {
+  "SifraKontrole": "EDU-004",
+  "Okvir": "Ostalo",
+  "Standard": "ENISA Interoperable Risk Management Framework",
+  "Referenca": "",
+  "Title": "EDU-004 · ENISA Interoperable Risk Management Framework"
+ },
+ {
+  "SifraKontrole": "EDU-005",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.5.24",
+  "Title": "EDU-005 · ISO/IEC 27001:2022 · A.5.24"
+ },
+ {
+  "SifraKontrole": "EDU-005",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.5.27",
+  "Title": "EDU-005 · ISO/IEC 27001:2022 · A.5.27"
+ },
+ {
+  "SifraKontrole": "EDU-005",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.5.28",
+  "Title": "EDU-005 · ISO/IEC 27001:2022 · A.5.28"
+ },
+ {
+  "SifraKontrole": "EDU-005",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.6.3",
+  "Title": "EDU-005 · ISO/IEC 27001:2022 · A.6.3"
+ },
+ {
+  "SifraKontrole": "EDU-005",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "AU-2",
+  "Title": "EDU-005 · NIST SP 800-53 Rev. 5 · AU-2"
+ },
+ {
+  "SifraKontrole": "EDU-005",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "AU-6",
+  "Title": "EDU-005 · NIST SP 800-53 Rev. 5 · AU-6"
+ },
+ {
+  "SifraKontrole": "EDU-005",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "AU-12",
+  "Title": "EDU-005 · NIST SP 800-53 Rev. 5 · AU-12"
+ },
+ {
+  "SifraKontrole": "EDU-005",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "IR-4",
+  "Title": "EDU-005 · NIST SP 800-53 Rev. 5 · IR-4"
+ },
+ {
+  "SifraKontrole": "EDU-005",
+  "Okvir": "NIST CSF v2.0",
+  "Standard": "NIST CSF v2.0",
+  "Referenca": "DE.AE-2",
+  "Title": "EDU-005 · NIST CSF v2.0 · DE.AE-2"
+ },
+ {
+  "SifraKontrole": "EDU-005",
+  "Okvir": "NIST CSF v2.0",
+  "Standard": "NIST CSF v2.0",
+  "Referenca": "Kategorija RS.AN",
+  "Title": "EDU-005 · NIST CSF v2.0 · Kategorija RS.AN"
+ },
+ {
+  "SifraKontrole": "EDU-006",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.5.2",
+  "Title": "EDU-006 · ISO/IEC 27001:2022 · A.5.2"
+ },
+ {
+  "SifraKontrole": "EDU-006",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.6.3",
+  "Title": "EDU-006 · ISO/IEC 27001:2022 · A.6.3"
+ },
+ {
+  "SifraKontrole": "EDU-006",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "AT-3",
+  "Title": "EDU-006 · NIST SP 800-53 Rev. 5 · AT-3"
+ },
+ {
+  "SifraKontrole": "EDU-006",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "AT-6",
+  "Title": "EDU-006 · NIST SP 800-53 Rev. 5 · AT-6"
+ },
+ {
+  "SifraKontrole": "EDU-006",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "IR-2",
+  "Title": "EDU-006 · NIST SP 800-53 Rev. 5 · IR-2"
+ },
+ {
+  "SifraKontrole": "EDU-006",
+  "Okvir": "NIST CSF v2.0",
+  "Standard": "NIST CSF v2.0",
+  "Referenca": "PR.AT-1",
+  "Title": "EDU-006 · NIST CSF v2.0 · PR.AT-1"
+ },
+ {
+  "SifraKontrole": "EDU-006",
+  "Okvir": "NIST CSF v2.0",
+  "Standard": "NIST CSF v2.0",
+  "Referenca": "PR.AT-2",
+  "Title": "EDU-006 · NIST CSF v2.0 · PR.AT-2"
+ },
+ {
+  "SifraKontrole": "EDU-006",
+  "Okvir": "Ostalo",
+  "Standard": "ISO 22301:2019",
+  "Referenca": "6.2, 7.3, 8.4",
+  "Title": "EDU-006 · ISO 22301:2019 · 6.2, 7.3, 8.4"
+ },
+ {
+  "SifraKontrole": "EDU-007",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.5.27",
+  "Title": "EDU-007 · ISO/IEC 27001:2022 · A.5.27"
+ },
+ {
+  "SifraKontrole": "EDU-007",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.6.3",
+  "Title": "EDU-007 · ISO/IEC 27001:2022 · A.6.3"
+ },
+ {
+  "SifraKontrole": "EDU-007",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "AT-2",
+  "Title": "EDU-007 · NIST SP 800-53 Rev. 5 · AT-2"
+ },
+ {
+  "SifraKontrole": "EDU-007",
+  "Okvir": "NIST CSF v2.0",
+  "Standard": "NIST CSF v2.0",
+  "Referenca": "PR.AT-1",
+  "Title": "EDU-007 · NIST CSF v2.0 · PR.AT-1"
+ },
+ {
+  "SifraKontrole": "EDU-007",
+  "Okvir": "NIST CSF v2.0",
+  "Standard": "NIST CSF v2.0",
+  "Referenca": "PR.AT-2",
+  "Title": "EDU-007 · NIST CSF v2.0 · PR.AT-2"
+ },
+ {
+  "SifraKontrole": "EDU-007",
+  "Okvir": "Ostalo",
+  "Standard": "ISO 22301:2019",
+  "Referenca": "7.3, 8.4",
+  "Title": "EDU-007 · ISO 22301:2019 · 7.3, 8.4"
+ },
+ {
+  "SifraKontrole": "EDU-008",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.5.24",
+  "Title": "EDU-008 · ISO/IEC 27001:2022 · A.5.24"
+ },
+ {
+  "SifraKontrole": "EDU-008",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.5.26",
+  "Title": "EDU-008 · ISO/IEC 27001:2022 · A.5.26"
+ },
+ {
+  "SifraKontrole": "EDU-008",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.5.27",
+  "Title": "EDU-008 · ISO/IEC 27001:2022 · A.5.27"
+ },
+ {
+  "SifraKontrole": "EDU-008",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.6.3",
+  "Title": "EDU-008 · ISO/IEC 27001:2022 · A.6.3"
+ },
+ {
+  "SifraKontrole": "EDU-008",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.6.8",
+  "Title": "EDU-008 · ISO/IEC 27001:2022 · A.6.8"
+ },
+ {
+  "SifraKontrole": "EDU-008",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "IR-2",
+  "Title": "EDU-008 · NIST SP 800-53 Rev. 5 · IR-2"
+ },
+ {
+  "SifraKontrole": "EDU-008",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "AT-3",
+  "Title": "EDU-008 · NIST SP 800-53 Rev. 5 · AT-3"
+ },
+ {
+  "SifraKontrole": "EDU-008",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "CP-4",
+  "Title": "EDU-008 · NIST SP 800-53 Rev. 5 · CP-4"
+ },
+ {
+  "SifraKontrole": "EDU-008",
+  "Okvir": "NIST CSF v2.0",
+  "Standard": "NIST CSF v2.0",
+  "Referenca": "Kategorija RS.MA",
+  "Title": "EDU-008 · NIST CSF v2.0 · Kategorija RS.MA"
+ },
+ {
+  "SifraKontrole": "EDU-008",
+  "Okvir": "Ostalo",
+  "Standard": "ISO 22301:2019",
+  "Referenca": "8.4, 8.5, 8.6",
+  "Title": "EDU-008 · ISO 22301:2019 · 8.4, 8.5, 8.6"
+ },
+ {
+  "SifraKontrole": "EDU-009",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "7.2",
+  "Title": "EDU-009 · ISO/IEC 27001:2022 · 7.2"
+ },
+ {
+  "SifraKontrole": "EDU-009",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.6.3",
+  "Title": "EDU-009 · ISO/IEC 27001:2022 · A.6.3"
+ },
+ {
+  "SifraKontrole": "EDU-009",
+  "Okvir": "NIST CSF v2.0",
+  "Standard": "NIST CSF v2.0",
+  "Referenca": "PR.AT-1",
+  "Title": "EDU-009 · NIST CSF v2.0 · PR.AT-1"
+ },
+ {
+  "SifraKontrole": "EDU-009",
+  "Okvir": "Ostalo",
+  "Standard": "ISO 22301:2019",
+  "Referenca": "7.2",
+  "Title": "EDU-009 · ISO 22301:2019 · 7.2"
+ },
+ {
+  "SifraKontrole": "EDU-010",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.6.3",
+  "Title": "EDU-010 · ISO/IEC 27001:2022 · A.6.3"
+ },
+ {
+  "SifraKontrole": "EDU-010",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "AT-2",
+  "Title": "EDU-010 · NIST SP 800-53 Rev. 5 · AT-2"
+ },
+ {
+  "SifraKontrole": "EDU-010",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "CA-8",
+  "Title": "EDU-010 · NIST SP 800-53 Rev. 5 · CA-8"
+ },
+ {
+  "SifraKontrole": "EDU-010",
+  "Okvir": "Ostalo",
+  "Standard": "ISO 22301:2019",
+  "Referenca": "8.5",
+  "Title": "EDU-010 · ISO 22301:2019 · 8.5"
+ },
+ {
+  "SifraKontrole": "RES-001",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "6.2",
+  "Title": "RES-001 · ISO/IEC 27001:2022 · 6.2"
+ },
+ {
+  "SifraKontrole": "RES-001",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "7.1",
+  "Title": "RES-001 · ISO/IEC 27001:2022 · 7.1"
+ },
+ {
+  "SifraKontrole": "RES-001",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "8.3",
+  "Title": "RES-001 · ISO/IEC 27001:2022 · 8.3"
+ },
+ {
+  "SifraKontrole": "RES-001",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "PM-3",
+  "Title": "RES-001 · NIST SP 800-53 Rev. 5 · PM-3"
+ },
+ {
+  "SifraKontrole": "RES-001",
+  "Okvir": "Ostalo",
+  "Standard": "ISO 22301:2019",
+  "Referenca": "6.2, 7.1, 8.3",
+  "Title": "RES-001 · ISO 22301:2019 · 6.2, 7.1, 8.3"
+ },
+ {
+  "SifraKontrole": "RES-001",
+  "Okvir": "Ostalo",
+  "Standard": "ISO/IEC 27005:2022",
+  "Referenca": "",
+  "Title": "RES-001 · ISO/IEC 27005:2022"
+ },
+ {
+  "SifraKontrole": "RES-002",
+  "Okvir": "ISO/IEC 27002:2022",
+  "Standard": "ISO/IEC 27002:2022",
+  "Referenca": "A.8.15",
+  "Title": "RES-002 · ISO/IEC 27002:2022 · A.8.15"
+ },
+ {
+  "SifraKontrole": "RES-002",
+  "Okvir": "ISO/IEC 27002:2022",
+  "Standard": "ISO/IEC 27002:2022",
+  "Referenca": "A.8.16",
+  "Title": "RES-002 · ISO/IEC 27002:2022 · A.8.16"
+ },
+ {
+  "SifraKontrole": "RES-002",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "SI-3",
+  "Title": "RES-002 · NIST SP 800-53 Rev. 5 · SI-3"
+ },
+ {
+  "SifraKontrole": "RES-002",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "SI-4",
+  "Title": "RES-002 · NIST SP 800-53 Rev. 5 · SI-4"
+ },
+ {
+  "SifraKontrole": "RES-002",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "RA-5",
+  "Title": "RES-002 · NIST SP 800-53 Rev. 5 · RA-5"
+ },
+ {
+  "SifraKontrole": "RES-002",
+  "Okvir": "NIST CSF v2.0",
+  "Standard": "NIST CSF v2.0",
+  "Referenca": "Kategorija DE.CM",
+  "Title": "RES-002 · NIST CSF v2.0 · Kategorija DE.CM"
+ },
+ {
+  "SifraKontrole": "RES-003",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "7.2",
+  "Title": "RES-003 · ISO/IEC 27001:2022 · 7.2"
+ },
+ {
+  "SifraKontrole": "RES-003",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "7.3",
+  "Title": "RES-003 · ISO/IEC 27001:2022 · 7.3"
+ },
+ {
+  "SifraKontrole": "RES-003",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.6.3",
+  "Title": "RES-003 · ISO/IEC 27001:2022 · A.6.3"
+ },
+ {
+  "SifraKontrole": "RES-003",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "AT-3",
+  "Title": "RES-003 · NIST SP 800-53 Rev. 5 · AT-3"
+ },
+ {
+  "SifraKontrole": "RES-003",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "PM-14",
+  "Title": "RES-003 · NIST SP 800-53 Rev. 5 · PM-14"
+ },
+ {
+  "SifraKontrole": "RES-003",
+  "Okvir": "NIST CSF v2.0",
+  "Standard": "NIST CSF v2.0",
+  "Referenca": "Kategorija PR.AT",
+  "Title": "RES-003 · NIST CSF v2.0 · Kategorija PR.AT"
+ },
+ {
+  "SifraKontrole": "RES-003",
+  "Okvir": "Ostalo",
+  "Standard": "ISO 22301:2019",
+  "Referenca": "7.2, 7.3",
+  "Title": "RES-003 · ISO 22301:2019 · 7.2, 7.3"
+ },
+ {
+  "SifraKontrole": "RES-004",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.6.1",
+  "Title": "RES-004 · ISO/IEC 27001:2022 · A.6.1"
+ },
+ {
+  "SifraKontrole": "RES-004",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.6.2",
+  "Title": "RES-004 · ISO/IEC 27001:2022 · A.6.2"
+ },
+ {
+  "SifraKontrole": "RES-004",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "PS-3",
+  "Title": "RES-004 · NIST SP 800-53 Rev. 5 · PS-3"
+ },
+ {
+  "SifraKontrole": "RES-005",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.5.30",
+  "Title": "RES-005 · ISO/IEC 27001:2022 · A.5.30"
+ },
+ {
+  "SifraKontrole": "RES-005",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "CP-6",
+  "Title": "RES-005 · NIST SP 800-53 Rev. 5 · CP-6"
+ },
+ {
+  "SifraKontrole": "RES-005",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "CP-7",
+  "Title": "RES-005 · NIST SP 800-53 Rev. 5 · CP-7"
+ },
+ {
+  "SifraKontrole": "RES-005",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "SC-36",
+  "Title": "RES-005 · NIST SP 800-53 Rev. 5 · SC-36"
+ },
+ {
+  "SifraKontrole": "RES-006",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.5.30",
+  "Title": "RES-006 · ISO/IEC 27001:2022 · A.5.30"
+ },
+ {
+  "SifraKontrole": "RES-006",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "RA-9",
+  "Title": "RES-006 · NIST SP 800-53 Rev. 5 · RA-9"
+ },
+ {
+  "SifraKontrole": "RES-007",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "AT-3",
+  "Title": "RES-007 · NIST SP 800-53 Rev. 5 · AT-3"
+ },
+ {
+  "SifraKontrole": "RES-007",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "CP-2",
+  "Title": "RES-007 · NIST SP 800-53 Rev. 5 · CP-2"
+ },
+ {
+  "SifraKontrole": "RES-007",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "PM-13",
+  "Title": "RES-007 · NIST SP 800-53 Rev. 5 · PM-13"
+ },
+ {
+  "SifraKontrole": "RES-007",
+  "Okvir": "Ostalo",
+  "Standard": "ISO 22301:2019",
+  "Referenca": "7.2, 8.4.2",
+  "Title": "RES-007 · ISO 22301:2019 · 7.2, 8.4.2"
+ },
+ {
+  "SifraKontrole": "RES-008",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.5.29",
+  "Title": "RES-008 · ISO/IEC 27001:2022 · A.5.29"
+ },
+ {
+  "SifraKontrole": "RES-008",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.5.30",
+  "Title": "RES-008 · ISO/IEC 27001:2022 · A.5.30"
+ },
+ {
+  "SifraKontrole": "RES-008",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "CP-8",
+  "Title": "RES-008 · NIST SP 800-53 Rev. 5 · CP-8"
+ },
+ {
+  "SifraKontrole": "RES-008",
+  "Okvir": "Ostalo",
+  "Standard": "ISO 22301:2019",
+  "Referenca": "8.4.3",
+  "Title": "RES-008 · ISO 22301:2019 · 8.4.3"
+ },
+ {
+  "SifraKontrole": "RES-009",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.5.29",
+  "Title": "RES-009 · ISO/IEC 27001:2022 · A.5.29"
+ },
+ {
+  "SifraKontrole": "RES-009",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.5.30",
+  "Title": "RES-009 · ISO/IEC 27001:2022 · A.5.30"
+ },
+ {
+  "SifraKontrole": "RES-009",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "CP-8",
+  "Title": "RES-009 · NIST SP 800-53 Rev. 5 · CP-8"
+ },
+ {
+  "SifraKontrole": "RES-009",
+  "Okvir": "Ostalo",
+  "Standard": "ISO 22301:2019",
+  "Referenca": "8.3.4",
+  "Title": "RES-009 · ISO 22301:2019 · 8.3.4"
+ },
+ {
+  "SifraKontrole": "RES-009",
+  "Okvir": "Ostalo",
+  "Standard": "CIS v8",
+  "Referenca": "15.4",
+  "Title": "RES-009 · CIS v8 · 15.4"
+ },
+ {
+  "SifraKontrole": "UPR-001",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "5.3",
+  "Title": "UPR-001 · ISO/IEC 27001:2022 · 5.3"
+ },
+ {
+  "SifraKontrole": "UPR-001",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.5.3",
+  "Title": "UPR-001 · ISO/IEC 27001:2022 · A.5.3"
+ },
+ {
+  "SifraKontrole": "UPR-001",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.5.4",
+  "Title": "UPR-001 · ISO/IEC 27001:2022 · A.5.4"
+ },
+ {
+  "SifraKontrole": "UPR-001",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "PM-3",
+  "Title": "UPR-001 · NIST SP 800-53 Rev. 5 · PM-3"
+ },
+ {
+  "SifraKontrole": "UPR-001",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "PM-12",
+  "Title": "UPR-001 · NIST SP 800-53 Rev. 5 · PM-12"
+ },
+ {
+  "SifraKontrole": "UPR-001",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "RA-3",
+  "Title": "UPR-001 · NIST SP 800-53 Rev. 5 · RA-3"
+ },
+ {
+  "SifraKontrole": "UPR-001",
+  "Okvir": "Ostalo",
+  "Standard": "ISO 22301:2019",
+  "Referenca": "6.1",
+  "Title": "UPR-001 · ISO 22301:2019 · 6.1"
+ },
+ {
+  "SifraKontrole": "UPR-002",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.5.30",
+  "Title": "UPR-002 · ISO/IEC 27001:2022 · A.5.30"
+ },
+ {
+  "SifraKontrole": "UPR-002",
+  "Okvir": "ISO/IEC 27002:2022",
+  "Standard": "ISO/IEC 27002:2022",
+  "Referenca": "5.30",
+  "Title": "UPR-002 · ISO/IEC 27002:2022 · 5.30"
+ },
+ {
+  "SifraKontrole": "UPR-002",
+  "Okvir": "Ostalo",
+  "Standard": "ISO/IEC 22301:2019",
+  "Referenca": "8.2, 8.4, 9.1",
+  "Title": "UPR-002 · ISO/IEC 22301:2019 · 8.2, 8.4, 9.1"
+ },
+ {
+  "SifraKontrole": "UPR-003",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.5.24",
+  "Title": "UPR-003 · ISO/IEC 27001:2022 · A.5.24"
+ },
+ {
+  "SifraKontrole": "UPR-003",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.5.26",
+  "Title": "UPR-003 · ISO/IEC 27001:2022 · A.5.26"
+ },
+ {
+  "SifraKontrole": "UPR-003",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "IR-6",
+  "Title": "UPR-003 · NIST SP 800-53 Rev. 5 · IR-6"
+ },
+ {
+  "SifraKontrole": "UPR-003",
+  "Okvir": "NIST CSF v2.0",
+  "Standard": "NIST CSF v2.0",
+  "Referenca": "DE.AE-2",
+  "Title": "UPR-003 · NIST CSF v2.0 · DE.AE-2"
+ },
+ {
+  "SifraKontrole": "UPR-003",
+  "Okvir": "NIST CSF v2.0",
+  "Standard": "NIST CSF v2.0",
+  "Referenca": "RS.MA-2",
+  "Title": "UPR-003 · NIST CSF v2.0 · RS.MA-2"
+ },
+ {
+  "SifraKontrole": "UPR-003",
+  "Okvir": "Ostalo",
+  "Standard": "ISO 22301:2019",
+  "Referenca": "8.4",
+  "Title": "UPR-003 · ISO 22301:2019 · 8.4"
+ },
+ {
+  "SifraKontrole": "UPR-003",
+  "Okvir": "Ostalo",
+  "Standard": "CIS v8",
+  "Referenca": "17.2, 17.3",
+  "Title": "UPR-003 · CIS v8 · 17.2, 17.3"
+ },
+ {
+  "SifraKontrole": "UPR-004",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.5.25",
+  "Title": "UPR-004 · ISO/IEC 27001:2022 · A.5.25"
+ },
+ {
+  "SifraKontrole": "UPR-004",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.5.30",
+  "Title": "UPR-004 · ISO/IEC 27001:2022 · A.5.30"
+ },
+ {
+  "SifraKontrole": "UPR-004",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "CP-2",
+  "Title": "UPR-004 · NIST SP 800-53 Rev. 5 · CP-2"
+ },
+ {
+  "SifraKontrole": "UPR-004",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "CP-10",
+  "Title": "UPR-004 · NIST SP 800-53 Rev. 5 · CP-10"
+ },
+ {
+  "SifraKontrole": "UPR-004",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "IR-4",
+  "Title": "UPR-004 · NIST SP 800-53 Rev. 5 · IR-4"
+ },
+ {
+  "SifraKontrole": "UPR-004",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "RA-3",
+  "Title": "UPR-004 · NIST SP 800-53 Rev. 5 · RA-3"
+ },
+ {
+  "SifraKontrole": "UPR-004",
+  "Okvir": "Ostalo",
+  "Standard": "ISO 22301:2019",
+  "Referenca": "8.2, 8.3, 8.4",
+  "Title": "UPR-004 · ISO 22301:2019 · 8.2, 8.3, 8.4"
+ },
+ {
+  "SifraKontrole": "UPR-005",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.5.26",
+  "Title": "UPR-005 · ISO/IEC 27001:2022 · A.5.26"
+ },
+ {
+  "SifraKontrole": "UPR-005",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.5.29",
+  "Title": "UPR-005 · ISO/IEC 27001:2022 · A.5.29"
+ },
+ {
+  "SifraKontrole": "UPR-005",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.5.30",
+  "Title": "UPR-005 · ISO/IEC 27001:2022 · A.5.30"
+ },
+ {
+  "SifraKontrole": "UPR-005",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "CP-2",
+  "Title": "UPR-005 · NIST SP 800-53 Rev. 5 · CP-2"
+ },
+ {
+  "SifraKontrole": "UPR-005",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "CP-4",
+  "Title": "UPR-005 · NIST SP 800-53 Rev. 5 · CP-4"
+ },
+ {
+  "SifraKontrole": "UPR-005",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "CP-10",
+  "Title": "UPR-005 · NIST SP 800-53 Rev. 5 · CP-10"
+ },
+ {
+  "SifraKontrole": "UPR-005",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "IR-4",
+  "Title": "UPR-005 · NIST SP 800-53 Rev. 5 · IR-4"
+ },
+ {
+  "SifraKontrole": "UPR-005",
+  "Okvir": "NIST CSF v2.0",
+  "Standard": "NIST CSF v2.0",
+  "Referenca": "ID.BE-5",
+  "Title": "UPR-005 · NIST CSF v2.0 · ID.BE-5"
+ },
+ {
+  "SifraKontrole": "UPR-005",
+  "Okvir": "NIST CSF v2.0",
+  "Standard": "NIST CSF v2.0",
+  "Referenca": "RS.RP-1",
+  "Title": "UPR-005 · NIST CSF v2.0 · RS.RP-1"
+ },
+ {
+  "SifraKontrole": "UPR-005",
+  "Okvir": "NIST CSF v2.0",
+  "Standard": "NIST CSF v2.0",
+  "Referenca": "RS.CO-3",
+  "Title": "UPR-005 · NIST CSF v2.0 · RS.CO-3"
+ },
+ {
+  "SifraKontrole": "UPR-005",
+  "Okvir": "Ostalo",
+  "Standard": "ISO 22301:2019",
+  "Referenca": "8.2, 8.3, 8.4",
+  "Title": "UPR-005 · ISO 22301:2019 · 8.2, 8.3, 8.4"
+ },
+ {
+  "SifraKontrole": "UPR-006",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.5.24",
+  "Title": "UPR-006 · ISO/IEC 27001:2022 · A.5.24"
+ },
+ {
+  "SifraKontrole": "UPR-006",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.5.26",
+  "Title": "UPR-006 · ISO/IEC 27001:2022 · A.5.26"
+ },
+ {
+  "SifraKontrole": "UPR-006",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "IR-4",
+  "Title": "UPR-006 · NIST SP 800-53 Rev. 5 · IR-4"
+ },
+ {
+  "SifraKontrole": "UPR-006",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "IR-6",
+  "Title": "UPR-006 · NIST SP 800-53 Rev. 5 · IR-6"
+ },
+ {
+  "SifraKontrole": "UPR-006",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "IR-8",
+  "Title": "UPR-006 · NIST SP 800-53 Rev. 5 · IR-8"
+ },
+ {
+  "SifraKontrole": "UPR-006",
+  "Okvir": "NIST CSF v2.0",
+  "Standard": "NIST CSF v2.0",
+  "Referenca": "RC.RP-06",
+  "Title": "UPR-006 · NIST CSF v2.0 · RC.RP-06"
+ },
+ {
+  "SifraKontrole": "UPR-006",
+  "Okvir": "Ostalo",
+  "Standard": "ISO 22301:2019",
+  "Referenca": "8.2, 8.3, 8.4, 8.5, 8.6",
+  "Title": "UPR-006 · ISO 22301:2019 · 8.2, 8.3, 8.4, 8.5, 8.6"
+ },
+ {
+  "SifraKontrole": "UPR-006",
+  "Okvir": "Ostalo",
+  "Standard": "CIS v8",
+  "Referenca": "17.8",
+  "Title": "UPR-006 · CIS v8 · 17.8"
+ },
+ {
+  "SifraKontrole": "UPR-007",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.5.26",
+  "Title": "UPR-007 · ISO/IEC 27001:2022 · A.5.26"
+ },
+ {
+  "SifraKontrole": "UPR-007",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.5.3",
+  "Title": "UPR-007 · ISO/IEC 27001:2022 · A.5.3"
+ },
+ {
+  "SifraKontrole": "UPR-007",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.6.3",
+  "Title": "UPR-007 · ISO/IEC 27001:2022 · A.6.3"
+ },
+ {
+  "SifraKontrole": "UPR-007",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "AT-3",
+  "Title": "UPR-007 · NIST SP 800-53 Rev. 5 · AT-3"
+ },
+ {
+  "SifraKontrole": "UPR-007",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "IR-1",
+  "Title": "UPR-007 · NIST SP 800-53 Rev. 5 · IR-1"
+ },
+ {
+  "SifraKontrole": "UPR-007",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "IR-4",
+  "Title": "UPR-007 · NIST SP 800-53 Rev. 5 · IR-4"
+ },
+ {
+  "SifraKontrole": "UPR-007",
+  "Okvir": "Ostalo",
+  "Standard": "ISO 22301:2019",
+  "Referenca": "8.2, 8.3, 8.4",
+  "Title": "UPR-007 · ISO 22301:2019 · 8.2, 8.3, 8.4"
+ },
+ {
+  "SifraKontrole": "UPR-007",
+  "Okvir": "Ostalo",
+  "Standard": "CIS v8",
+  "Referenca": "17.1, 17.4",
+  "Title": "UPR-007 · CIS v8 · 17.1, 17.4"
+ },
+ {
+  "SifraKontrole": "UPR-008",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.5.26",
+  "Title": "UPR-008 · ISO/IEC 27001:2022 · A.5.26"
+ },
+ {
+  "SifraKontrole": "UPR-008",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.5.29",
+  "Title": "UPR-008 · ISO/IEC 27001:2022 · A.5.29"
+ },
+ {
+  "SifraKontrole": "UPR-008",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "IR-4",
+  "Title": "UPR-008 · NIST SP 800-53 Rev. 5 · IR-4"
+ },
+ {
+  "SifraKontrole": "UPR-008",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "IR-6",
+  "Title": "UPR-008 · NIST SP 800-53 Rev. 5 · IR-6"
+ },
+ {
+  "SifraKontrole": "UPR-008",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "IR-7",
+  "Title": "UPR-008 · NIST SP 800-53 Rev. 5 · IR-7"
+ },
+ {
+  "SifraKontrole": "UPR-008",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "IR-8",
+  "Title": "UPR-008 · NIST SP 800-53 Rev. 5 · IR-8"
+ },
+ {
+  "SifraKontrole": "UPR-008",
+  "Okvir": "NIST CSF v2.0",
+  "Standard": "NIST CSF v2.0",
+  "Referenca": "RS.CO-1",
+  "Title": "UPR-008 · NIST CSF v2.0 · RS.CO-1"
+ },
+ {
+  "SifraKontrole": "UPR-008",
+  "Okvir": "NIST CSF v2.0",
+  "Standard": "NIST CSF v2.0",
+  "Referenca": "RS.CO-2",
+  "Title": "UPR-008 · NIST CSF v2.0 · RS.CO-2"
+ },
+ {
+  "SifraKontrole": "UPR-008",
+  "Okvir": "Ostalo",
+  "Standard": "ISO 22301:2019",
+  "Referenca": "8.2, 8.3, 8.4, 8.5, 8.6",
+  "Title": "UPR-008 · ISO 22301:2019 · 8.2, 8.3, 8.4, 8.5, 8.6"
+ },
+ {
+  "SifraKontrole": "UPR-008",
+  "Okvir": "Ostalo",
+  "Standard": "CIS v8",
+  "Referenca": "17.2, 17.3, 17.6",
+  "Title": "UPR-008 · CIS v8 · 17.2, 17.3, 17.6"
+ },
+ {
+  "SifraKontrole": "UPR-009",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.5.24",
+  "Title": "UPR-009 · ISO/IEC 27001:2022 · A.5.24"
+ },
+ {
+  "SifraKontrole": "UPR-009",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "IR-4",
+  "Title": "UPR-009 · NIST SP 800-53 Rev. 5 · IR-4"
+ },
+ {
+  "SifraKontrole": "UPR-009",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "IR-5",
+  "Title": "UPR-009 · NIST SP 800-53 Rev. 5 · IR-5"
+ },
+ {
+  "SifraKontrole": "UPR-009",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "AU-6",
+  "Title": "UPR-009 · NIST SP 800-53 Rev. 5 · AU-6"
+ },
+ {
+  "SifraKontrole": "UPR-009",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "AU-7",
+  "Title": "UPR-009 · NIST SP 800-53 Rev. 5 · AU-7"
+ },
+ {
+  "SifraKontrole": "UPR-009",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "AU-11",
+  "Title": "UPR-009 · NIST SP 800-53 Rev. 5 · AU-11"
+ },
+ {
+  "SifraKontrole": "UPR-009",
+  "Okvir": "NIST CSF v2.0",
+  "Standard": "NIST CSF v2.0",
+  "Referenca": "Kategorija DE.AE",
+  "Title": "UPR-009 · NIST CSF v2.0 · Kategorija DE.AE"
+ },
+ {
+  "SifraKontrole": "UPR-009",
+  "Okvir": "Ostalo",
+  "Standard": "ISO 22301:2019",
+  "Referenca": "7.5, 8.3, 8.4, 8.6",
+  "Title": "UPR-009 · ISO 22301:2019 · 7.5, 8.3, 8.4, 8.6"
+ },
+ {
+  "SifraKontrole": "UPR-009",
+  "Okvir": "Ostalo",
+  "Standard": "CIS v8",
+  "Referenca": "17.4",
+  "Title": "UPR-009 · CIS v8 · 17.4"
+ },
+ {
+  "SifraKontrole": "UPR-010",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.5.26",
+  "Title": "UPR-010 · ISO/IEC 27001:2022 · A.5.26"
+ },
+ {
+  "SifraKontrole": "UPR-010",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.5.31",
+  "Title": "UPR-010 · ISO/IEC 27001:2022 · A.5.31"
+ },
+ {
+  "SifraKontrole": "UPR-010",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "IR-6",
+  "Title": "UPR-010 · NIST SP 800-53 Rev. 5 · IR-6"
+ },
+ {
+  "SifraKontrole": "UPR-010",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "IR-7",
+  "Title": "UPR-010 · NIST SP 800-53 Rev. 5 · IR-7"
+ },
+ {
+  "SifraKontrole": "UPR-010",
+  "Okvir": "NIST CSF v2.0",
+  "Standard": "NIST CSF v2.0",
+  "Referenca": "RS.CO-2",
+  "Title": "UPR-010 · NIST CSF v2.0 · RS.CO-2"
+ },
+ {
+  "SifraKontrole": "UPR-010",
+  "Okvir": "NIST CSF v2.0",
+  "Standard": "NIST CSF v2.0",
+  "Referenca": "RS.CO-3",
+  "Title": "UPR-010 · NIST CSF v2.0 · RS.CO-3"
+ },
+ {
+  "SifraKontrole": "UPR-010",
+  "Okvir": "Ostalo",
+  "Standard": "ISO 22301:2019",
+  "Referenca": "7.5, 8.4",
+  "Title": "UPR-010 · ISO 22301:2019 · 7.5, 8.4"
+ },
+ {
+  "SifraKontrole": "UPR-010",
+  "Okvir": "Ostalo",
+  "Standard": "CIS v8",
+  "Referenca": "17.6",
+  "Title": "UPR-010 · CIS v8 · 17.6"
+ },
+ {
+  "SifraKontrole": "UPR-011",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.5.24",
+  "Title": "UPR-011 · ISO/IEC 27001:2022 · A.5.24"
+ },
+ {
+  "SifraKontrole": "UPR-011",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.5.25",
+  "Title": "UPR-011 · ISO/IEC 27001:2022 · A.5.25"
+ },
+ {
+  "SifraKontrole": "UPR-011",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "IR-4",
+  "Title": "UPR-011 · NIST SP 800-53 Rev. 5 · IR-4"
+ },
+ {
+  "SifraKontrole": "UPR-011",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "IR-5",
+  "Title": "UPR-011 · NIST SP 800-53 Rev. 5 · IR-5"
+ },
+ {
+  "SifraKontrole": "UPR-011",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "RA-3",
+  "Title": "UPR-011 · NIST SP 800-53 Rev. 5 · RA-3"
+ },
+ {
+  "SifraKontrole": "UPR-011",
+  "Okvir": "NIST CSF v2.0",
+  "Standard": "NIST CSF v2.0",
+  "Referenca": "Kategorija RS.AN",
+  "Title": "UPR-011 · NIST CSF v2.0 · Kategorija RS.AN"
+ },
+ {
+  "SifraKontrole": "UPR-011",
+  "Okvir": "Ostalo",
+  "Standard": "ISO 22301:2019",
+  "Referenca": "8.6, 9.1",
+  "Title": "UPR-011 · ISO 22301:2019 · 8.6, 9.1"
+ },
+ {
+  "SifraKontrole": "UPR-011",
+  "Okvir": "Ostalo",
+  "Standard": "CIS v8",
+  "Referenca": "17.4, 17.9",
+  "Title": "UPR-011 · CIS v8 · 17.4, 17.9"
+ },
+ {
+  "SifraKontrole": "UPR-012",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.5.27",
+  "Title": "UPR-012 · ISO/IEC 27001:2022 · A.5.27"
+ },
+ {
+  "SifraKontrole": "UPR-012",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.6.3",
+  "Title": "UPR-012 · ISO/IEC 27001:2022 · A.6.3"
+ },
+ {
+  "SifraKontrole": "UPR-012",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "CP-4",
+  "Title": "UPR-012 · NIST SP 800-53 Rev. 5 · CP-4"
+ },
+ {
+  "SifraKontrole": "UPR-012",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "IR-3",
+  "Title": "UPR-012 · NIST SP 800-53 Rev. 5 · IR-3"
+ },
+ {
+  "SifraKontrole": "UPR-012",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "IR-8",
+  "Title": "UPR-012 · NIST SP 800-53 Rev. 5 · IR-8"
+ },
+ {
+  "SifraKontrole": "UPR-012",
+  "Okvir": "Ostalo",
+  "Standard": "ISO 22301:2019",
+  "Referenca": "8.5",
+  "Title": "UPR-012 · ISO 22301:2019 · 8.5"
+ },
+ {
+  "SifraKontrole": "UPR-013",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.5.29",
+  "Title": "UPR-013 · ISO/IEC 27001:2022 · A.5.29"
+ },
+ {
+  "SifraKontrole": "UPR-013",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.5.30",
+  "Title": "UPR-013 · ISO/IEC 27001:2022 · A.5.30"
+ },
+ {
+  "SifraKontrole": "UPR-013",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "CP-2",
+  "Title": "UPR-013 · NIST SP 800-53 Rev. 5 · CP-2"
+ },
+ {
+  "SifraKontrole": "UPR-013",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "CP-4",
+  "Title": "UPR-013 · NIST SP 800-53 Rev. 5 · CP-4"
+ },
+ {
+  "SifraKontrole": "UPR-013",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "CP-10",
+  "Title": "UPR-013 · NIST SP 800-53 Rev. 5 · CP-10"
+ },
+ {
+  "SifraKontrole": "UPR-013",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "IR-4",
+  "Title": "UPR-013 · NIST SP 800-53 Rev. 5 · IR-4"
+ },
+ {
+  "SifraKontrole": "UPR-013",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "PM-8",
+  "Title": "UPR-013 · NIST SP 800-53 Rev. 5 · PM-8"
+ },
+ {
+  "SifraKontrole": "UPR-013",
+  "Okvir": "Ostalo",
+  "Standard": "ISO 22301:2019",
+  "Referenca": "",
+  "Title": "UPR-013 · ISO 22301:2019"
+ },
+ {
+  "SifraKontrole": "UPR-014",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.5.26",
+  "Title": "UPR-014 · ISO/IEC 27001:2022 · A.5.26"
+ },
+ {
+  "SifraKontrole": "UPR-014",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.5.31",
+  "Title": "UPR-014 · ISO/IEC 27001:2022 · A.5.31"
+ },
+ {
+  "SifraKontrole": "UPR-014",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "CA-2",
+  "Title": "UPR-014 · NIST SP 800-53 Rev. 5 · CA-2"
+ },
+ {
+  "SifraKontrole": "UPR-014",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "RA-7",
+  "Title": "UPR-014 · NIST SP 800-53 Rev. 5 · RA-7"
+ },
+ {
+  "SifraKontrole": "UPR-014",
+  "Okvir": "NIST CSF v2.0",
+  "Standard": "NIST CSF v2.0",
+  "Referenca": "DE.AE-3",
+  "Title": "UPR-014 · NIST CSF v2.0 · DE.AE-3"
+ },
+ {
+  "SifraKontrole": "UPR-014",
+  "Okvir": "NIST CSF v2.0",
+  "Standard": "NIST CSF v2.0",
+  "Referenca": "RS.CO-3",
+  "Title": "UPR-014 · NIST CSF v2.0 · RS.CO-3"
+ },
+ {
+  "SifraKontrole": "UPR-014",
+  "Okvir": "Ostalo",
+  "Standard": "ISO 22301:2019",
+  "Referenca": "8.4",
+  "Title": "UPR-014 · ISO 22301:2019 · 8.4"
+ },
+ {
+  "SifraKontrole": "UPR-015",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.5.29",
+  "Title": "UPR-015 · ISO/IEC 27001:2022 · A.5.29"
+ },
+ {
+  "SifraKontrole": "UPR-015",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.5.30",
+  "Title": "UPR-015 · ISO/IEC 27001:2022 · A.5.30"
+ },
+ {
+  "SifraKontrole": "UPR-015",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "CP-2",
+  "Title": "UPR-015 · NIST SP 800-53 Rev. 5 · CP-2"
+ },
+ {
+  "SifraKontrole": "UPR-015",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "CP-6",
+  "Title": "UPR-015 · NIST SP 800-53 Rev. 5 · CP-6"
+ },
+ {
+  "SifraKontrole": "UPR-015",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "CP-7",
+  "Title": "UPR-015 · NIST SP 800-53 Rev. 5 · CP-7"
+ },
+ {
+  "SifraKontrole": "UPR-015",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "CP-10",
+  "Title": "UPR-015 · NIST SP 800-53 Rev. 5 · CP-10"
+ },
+ {
+  "SifraKontrole": "UPR-015",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "SC-36",
+  "Title": "UPR-015 · NIST SP 800-53 Rev. 5 · SC-36"
+ },
+ {
+  "SifraKontrole": "UPR-015",
+  "Okvir": "Ostalo",
+  "Standard": "ISO 22301:2019",
+  "Referenca": "7.1, 8.4",
+  "Title": "UPR-015 · ISO 22301:2019 · 7.1, 8.4"
+ },
+ {
+  "SifraKontrole": "UPR-016",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.5.29",
+  "Title": "UPR-016 · ISO/IEC 27001:2022 · A.5.29"
+ },
+ {
+  "SifraKontrole": "UPR-016",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.5.30",
+  "Title": "UPR-016 · ISO/IEC 27001:2022 · A.5.30"
+ },
+ {
+  "SifraKontrole": "UPR-016",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "CP-2",
+  "Title": "UPR-016 · NIST SP 800-53 Rev. 5 · CP-2"
+ },
+ {
+  "SifraKontrole": "UPR-016",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "CP-4",
+  "Title": "UPR-016 · NIST SP 800-53 Rev. 5 · CP-4"
+ },
+ {
+  "SifraKontrole": "UPR-016",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "CP-10",
+  "Title": "UPR-016 · NIST SP 800-53 Rev. 5 · CP-10"
+ },
+ {
+  "SifraKontrole": "UPR-016",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "IR-4",
+  "Title": "UPR-016 · NIST SP 800-53 Rev. 5 · IR-4"
+ },
+ {
+  "SifraKontrole": "UPR-016",
+  "Okvir": "Ostalo",
+  "Standard": "ISO 22301:2019",
+  "Referenca": "8.4, 8.6",
+  "Title": "UPR-016 · ISO 22301:2019 · 8.4, 8.6"
+ },
+ {
+  "SifraKontrole": "UPR-017",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "PE-11",
+  "Title": "UPR-017 · NIST SP 800-53 Rev. 5 · PE-11"
+ },
+ {
+  "SifraKontrole": "UPR-017",
+  "Okvir": "Ostalo",
+  "Standard": "ISO 22301:2019",
+  "Referenca": "8.3.4",
+  "Title": "UPR-017 · ISO 22301:2019 · 8.3.4"
+ },
+ {
+  "SifraKontrole": "UPR-018",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "CP-2",
+  "Title": "UPR-018 · NIST SP 800-53 Rev. 5 · CP-2"
+ },
+ {
+  "SifraKontrole": "UPR-018",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "CP-10",
+  "Title": "UPR-018 · NIST SP 800-53 Rev. 5 · CP-10"
+ },
+ {
+  "SifraKontrole": "UPR-018",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "CP-11",
+  "Title": "UPR-018 · NIST SP 800-53 Rev. 5 · CP-11"
+ },
+ {
+  "SifraKontrole": "UPR-018",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "PE-17",
+  "Title": "UPR-018 · NIST SP 800-53 Rev. 5 · PE-17"
+ },
+ {
+  "SifraKontrole": "UPR-018",
+  "Okvir": "Ostalo",
+  "Standard": "ISO/IEC 22301:2019",
+  "Referenca": "8.2, 8.4, 9.1",
+  "Title": "UPR-018 · ISO/IEC 22301:2019 · 8.2, 8.4, 9.1"
+ },
+ {
+  "SifraKontrole": "NAD-001",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "9.1",
+  "Title": "NAD-001 · ISO/IEC 27001:2022 · 9.1"
+ },
+ {
+  "SifraKontrole": "NAD-001",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "9.2",
+  "Title": "NAD-001 · ISO/IEC 27001:2022 · 9.2"
+ },
+ {
+  "SifraKontrole": "NAD-001",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "CA-7",
+  "Title": "NAD-001 · NIST SP 800-53 Rev. 5 · CA-7"
+ },
+ {
+  "SifraKontrole": "NAD-001",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "PM-14",
+  "Title": "NAD-001 · NIST SP 800-53 Rev. 5 · PM-14"
+ },
+ {
+  "SifraKontrole": "NAD-001",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "SI-4",
+  "Title": "NAD-001 · NIST SP 800-53 Rev. 5 · SI-4"
+ },
+ {
+  "SifraKontrole": "NAD-001",
+  "Okvir": "Ostalo",
+  "Standard": "ISO 22301:2019",
+  "Referenca": "9.1, 9.2",
+  "Title": "NAD-001 · ISO 22301:2019 · 9.1, 9.2"
+ },
+ {
+  "SifraKontrole": "NAD-002",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.8.9",
+  "Title": "NAD-002 · ISO/IEC 27001:2022 · A.8.9"
+ },
+ {
+  "SifraKontrole": "NAD-002",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.8.16",
+  "Title": "NAD-002 · ISO/IEC 27001:2022 · A.8.16"
+ },
+ {
+  "SifraKontrole": "NAD-002",
+  "Okvir": "ISO/IEC 27002:2022",
+  "Standard": "ISO/IEC 27002:2022",
+  "Referenca": "8.15",
+  "Title": "NAD-002 · ISO/IEC 27002:2022 · 8.15"
+ },
+ {
+  "SifraKontrole": "NAD-002",
+  "Okvir": "ISO/IEC 27002:2022",
+  "Standard": "ISO/IEC 27002:2022",
+  "Referenca": "8.16",
+  "Title": "NAD-002 · ISO/IEC 27002:2022 · 8.16"
+ },
+ {
+  "SifraKontrole": "NAD-002",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "SI-4",
+  "Title": "NAD-002 · NIST SP 800-53 Rev. 5 · SI-4"
+ },
+ {
+  "SifraKontrole": "NAD-002",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "AU-6",
+  "Title": "NAD-002 · NIST SP 800-53 Rev. 5 · AU-6"
+ },
+ {
+  "SifraKontrole": "NAD-002",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "CA-7",
+  "Title": "NAD-002 · NIST SP 800-53 Rev. 5 · CA-7"
+ },
+ {
+  "SifraKontrole": "NAD-002",
+  "Okvir": "NIST CSF v2.0",
+  "Standard": "NIST CSF v2.0",
+  "Referenca": "Kategorija DE.CM",
+  "Title": "NAD-002 · NIST CSF v2.0 · Kategorija DE.CM"
+ },
+ {
+  "SifraKontrole": "NAD-002",
+  "Okvir": "Ostalo",
+  "Standard": "CIS v8",
+  "Referenca": "Kontrola 8",
+  "Title": "NAD-002 · CIS v8 · Kontrola 8"
+ },
+ {
+  "SifraKontrole": "NAD-003",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "PL-8",
+  "Title": "NAD-003 · NIST SP 800-53 Rev. 5 · PL-8"
+ },
+ {
+  "SifraKontrole": "NAD-003",
+  "Okvir": "NIST CSF v2.0",
+  "Standard": "NIST CSF v2.0",
+  "Referenca": "Kategorija DE.CM",
+  "Title": "NAD-003 · NIST CSF v2.0 · Kategorija DE.CM"
+ },
+ {
+  "SifraKontrole": "NAD-004",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "PL-9",
+  "Title": "NAD-004 · NIST SP 800-53 Rev. 5 · PL-9"
+ },
+ {
+  "SifraKontrole": "NAD-004",
+  "Okvir": "NIST CSF v2.0",
+  "Standard": "NIST CSF v2.0",
+  "Referenca": "Kategorija RS.AN",
+  "Title": "NAD-004 · NIST CSF v2.0 · Kategorija RS.AN"
+ },
+ {
+  "SifraKontrole": "NAD-005",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.8.16",
+  "Title": "NAD-005 · ISO/IEC 27001:2022 · A.8.16"
+ },
+ {
+  "SifraKontrole": "NAD-005",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.8.23",
+  "Title": "NAD-005 · ISO/IEC 27001:2022 · A.8.23"
+ },
+ {
+  "SifraKontrole": "NAD-005",
+  "Okvir": "ISO/IEC 27002:2022",
+  "Standard": "ISO/IEC 27002:2022",
+  "Referenca": "8.16",
+  "Title": "NAD-005 · ISO/IEC 27002:2022 · 8.16"
+ },
+ {
+  "SifraKontrole": "NAD-005",
+  "Okvir": "ISO/IEC 27002:2022",
+  "Standard": "ISO/IEC 27002:2022",
+  "Referenca": "8.23",
+  "Title": "NAD-005 · ISO/IEC 27002:2022 · 8.23"
+ },
+ {
+  "SifraKontrole": "NAD-005",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "SC-7",
+  "Title": "NAD-005 · NIST SP 800-53 Rev. 5 · SC-7"
+ },
+ {
+  "SifraKontrole": "NAD-005",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "SC-44",
+  "Title": "NAD-005 · NIST SP 800-53 Rev. 5 · SC-44"
+ },
+ {
+  "SifraKontrole": "NAD-005",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "SI-3",
+  "Title": "NAD-005 · NIST SP 800-53 Rev. 5 · SI-3"
+ },
+ {
+  "SifraKontrole": "NAD-005",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "SI-4",
+  "Title": "NAD-005 · NIST SP 800-53 Rev. 5 · SI-4"
+ },
+ {
+  "SifraKontrole": "NAD-005",
+  "Okvir": "NIST CSF v2.0",
+  "Standard": "NIST CSF v2.0",
+  "Referenca": "Kategorija DE.CM",
+  "Title": "NAD-005 · NIST CSF v2.0 · Kategorija DE.CM"
+ },
+ {
+  "SifraKontrole": "NAD-005",
+  "Okvir": "Ostalo",
+  "Standard": "CIS v8",
+  "Referenca": "9.2, 9.3",
+  "Title": "NAD-005 · CIS v8 · 9.2, 9.3"
+ },
+ {
+  "SifraKontrole": "NAD-006",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.8.12",
+  "Title": "NAD-006 · ISO/IEC 27001:2022 · A.8.12"
+ },
+ {
+  "SifraKontrole": "NAD-006",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.8.16",
+  "Title": "NAD-006 · ISO/IEC 27001:2022 · A.8.16"
+ },
+ {
+  "SifraKontrole": "NAD-006",
+  "Okvir": "ISO/IEC 27002:2022",
+  "Standard": "ISO/IEC 27002:2022",
+  "Referenca": "8.12",
+  "Title": "NAD-006 · ISO/IEC 27002:2022 · 8.12"
+ },
+ {
+  "SifraKontrole": "NAD-006",
+  "Okvir": "ISO/IEC 27002:2022",
+  "Standard": "ISO/IEC 27002:2022",
+  "Referenca": "8.16",
+  "Title": "NAD-006 · ISO/IEC 27002:2022 · 8.16"
+ },
+ {
+  "SifraKontrole": "NAD-006",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "AC-3",
+  "Title": "NAD-006 · NIST SP 800-53 Rev. 5 · AC-3"
+ },
+ {
+  "SifraKontrole": "NAD-006",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "AC-4",
+  "Title": "NAD-006 · NIST SP 800-53 Rev. 5 · AC-4"
+ },
+ {
+  "SifraKontrole": "NAD-006",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "SC-7",
+  "Title": "NAD-006 · NIST SP 800-53 Rev. 5 · SC-7"
+ },
+ {
+  "SifraKontrole": "NAD-006",
+  "Okvir": "NIST CSF v2.0",
+  "Standard": "NIST CSF v2.0",
+  "Referenca": "DE.CM-7",
+  "Title": "NAD-006 · NIST CSF v2.0 · DE.CM-7"
+ },
+ {
+  "SifraKontrole": "NAD-007",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.8.2",
+  "Title": "NAD-007 · ISO/IEC 27001:2022 · A.8.2"
+ },
+ {
+  "SifraKontrole": "NAD-007",
+  "Okvir": "ISO/IEC 27002:2022",
+  "Standard": "ISO/IEC 27002:2022",
+  "Referenca": "8.2",
+  "Title": "NAD-007 · ISO/IEC 27002:2022 · 8.2"
+ },
+ {
+  "SifraKontrole": "NAD-007",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "AC-3",
+  "Title": "NAD-007 · NIST SP 800-53 Rev. 5 · AC-3"
+ },
+ {
+  "SifraKontrole": "NAD-007",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "AC-6",
+  "Title": "NAD-007 · NIST SP 800-53 Rev. 5 · AC-6"
+ },
+ {
+  "SifraKontrole": "NAD-007",
+  "Okvir": "Ostalo",
+  "Standard": "NIST SP 800-207",
+  "Referenca": "Poglavlje Zero Trust Architecture",
+  "Title": "NAD-007 · NIST SP 800-207 · Poglavlje Zero Trust Architecture"
+ },
+ {
+  "SifraKontrole": "NAD-007",
+  "Okvir": "Ostalo",
+  "Standard": "CIS v8",
+  "Referenca": "6.7",
+  "Title": "NAD-007 · CIS v8 · 6.7"
+ },
+ {
+  "SifraKontrole": "NAD-008",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.8.12",
+  "Title": "NAD-008 · ISO/IEC 27001:2022 · A.8.12"
+ },
+ {
+  "SifraKontrole": "NAD-008",
+  "Okvir": "ISO/IEC 27002:2022",
+  "Standard": "ISO/IEC 27002:2022",
+  "Referenca": "8.12",
+  "Title": "NAD-008 · ISO/IEC 27002:2022 · 8.12"
+ },
+ {
+  "SifraKontrole": "NAD-008",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "SC-13",
+  "Title": "NAD-008 · NIST SP 800-53 Rev. 5 · SC-13"
+ },
+ {
+  "SifraKontrole": "NAD-008",
+  "Okvir": "NIST CSF v2.0",
+  "Standard": "NIST CSF v2.0",
+  "Referenca": "PR.DS-02",
+  "Title": "NAD-008 · NIST CSF v2.0 · PR.DS-02"
+ },
+ {
+  "SifraKontrole": "NAD-008",
+  "Okvir": "Ostalo",
+  "Standard": "NIST SP 800-52 (Poglavlje Guidelines for the Selection and Use of Transport Layer Security (TLS))",
+  "Referenca": "",
+  "Title": "NAD-008 · NIST SP 800-52 (Poglavlje Guidelines for the Selection and Use of Transport Layer Security (TLS))"
+ },
+ {
+  "SifraKontrole": "NAD-008",
+  "Okvir": "Ostalo",
+  "Standard": "CIS v8",
+  "Referenca": "3.10, 4.6",
+  "Title": "NAD-008 · CIS v8 · 3.10, 4.6"
+ },
+ {
+  "SifraKontrole": "NAD-009",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.8.21",
+  "Title": "NAD-009 · ISO/IEC 27001:2022 · A.8.21"
+ },
+ {
+  "SifraKontrole": "NAD-009",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.8.23",
+  "Title": "NAD-009 · ISO/IEC 27001:2022 · A.8.23"
+ },
+ {
+  "SifraKontrole": "NAD-009",
+  "Okvir": "ISO/IEC 27002:2022",
+  "Standard": "ISO/IEC 27002:2022",
+  "Referenca": "8.21",
+  "Title": "NAD-009 · ISO/IEC 27002:2022 · 8.21"
+ },
+ {
+  "SifraKontrole": "NAD-009",
+  "Okvir": "ISO/IEC 27002:2022",
+  "Standard": "ISO/IEC 27002:2022",
+  "Referenca": "8.23",
+  "Title": "NAD-009 · ISO/IEC 27002:2022 · 8.23"
+ },
+ {
+  "SifraKontrole": "NAD-009",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "SI-4",
+  "Title": "NAD-009 · NIST SP 800-53 Rev. 5 · SI-4"
+ },
+ {
+  "SifraKontrole": "NAD-009",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "AC-4",
+  "Title": "NAD-009 · NIST SP 800-53 Rev. 5 · AC-4"
+ },
+ {
+  "SifraKontrole": "NAD-009",
+  "Okvir": "NIST CSF v2.0",
+  "Standard": "NIST CSF v2.0",
+  "Referenca": "Kategorija DE.CM",
+  "Title": "NAD-009 · NIST CSF v2.0 · Kategorija DE.CM"
+ },
+ {
+  "SifraKontrole": "NAD-009",
+  "Okvir": "Ostalo",
+  "Standard": "CIS v8",
+  "Referenca": "9.2, 9.3",
+  "Title": "NAD-009 · CIS v8 · 9.2, 9.3"
+ },
+ {
+  "SifraKontrole": "NAD-010",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.8.16",
+  "Title": "NAD-010 · ISO/IEC 27001:2022 · A.8.16"
+ },
+ {
+  "SifraKontrole": "NAD-010",
+  "Okvir": "ISO/IEC 27002:2022",
+  "Standard": "ISO/IEC 27002:2022",
+  "Referenca": "8.16",
+  "Title": "NAD-010 · ISO/IEC 27002:2022 · 8.16"
+ },
+ {
+  "SifraKontrole": "NAD-010",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "SI-4",
+  "Title": "NAD-010 · NIST SP 800-53 Rev. 5 · SI-4"
+ },
+ {
+  "SifraKontrole": "NAD-010",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "CA-7",
+  "Title": "NAD-010 · NIST SP 800-53 Rev. 5 · CA-7"
+ },
+ {
+  "SifraKontrole": "NAD-010",
+  "Okvir": "NIST CSF v2.0",
+  "Standard": "NIST CSF v2.0",
+  "Referenca": "Kategorija DE.AE",
+  "Title": "NAD-010 · NIST CSF v2.0 · Kategorija DE.AE"
+ },
+ {
+  "SifraKontrole": "NAD-010",
+  "Okvir": "Ostalo",
+  "Standard": "CIS v8",
+  "Referenca": "10.7",
+  "Title": "NAD-010 · CIS v8 · 10.7"
+ },
+ {
+  "SifraKontrole": "NAD-011",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.8.16",
+  "Title": "NAD-011 · ISO/IEC 27001:2022 · A.8.16"
+ },
+ {
+  "SifraKontrole": "NAD-011",
+  "Okvir": "ISO/IEC 27002:2022",
+  "Standard": "ISO/IEC 27002:2022",
+  "Referenca": "8.16",
+  "Title": "NAD-011 · ISO/IEC 27002:2022 · 8.16"
+ },
+ {
+  "SifraKontrole": "NAD-011",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "IR-4",
+  "Title": "NAD-011 · NIST SP 800-53 Rev. 5 · IR-4"
+ },
+ {
+  "SifraKontrole": "NAD-011",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "IR-5",
+  "Title": "NAD-011 · NIST SP 800-53 Rev. 5 · IR-5"
+ },
+ {
+  "SifraKontrole": "NAD-011",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "SI-4",
+  "Title": "NAD-011 · NIST SP 800-53 Rev. 5 · SI-4"
+ },
+ {
+  "SifraKontrole": "NAD-011",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "AU-13",
+  "Title": "NAD-011 · NIST SP 800-53 Rev. 5 · AU-13"
+ },
+ {
+  "SifraKontrole": "NAD-011",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "CA-7",
+  "Title": "NAD-011 · NIST SP 800-53 Rev. 5 · CA-7"
+ },
+ {
+  "SifraKontrole": "NAD-011",
+  "Okvir": "NIST CSF v2.0",
+  "Standard": "NIST CSF v2.0",
+  "Referenca": "DE.CM-3",
+  "Title": "NAD-011 · NIST CSF v2.0 · DE.CM-3"
+ },
+ {
+  "SifraKontrole": "NAD-011",
+  "Okvir": "NIST CSF v2.0",
+  "Standard": "NIST CSF v2.0",
+  "Referenca": "RS.AN-1",
+  "Title": "NAD-011 · NIST CSF v2.0 · RS.AN-1"
+ },
+ {
+  "SifraKontrole": "NAD-011",
+  "Okvir": "Ostalo",
+  "Standard": "CIS v8",
+  "Referenca": "13.7, 13.8, 13.11",
+  "Title": "NAD-011 · CIS v8 · 13.7, 13.8, 13.11"
+ },
+ {
+  "SifraKontrole": "NAD-012",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.8.15",
+  "Title": "NAD-012 · ISO/IEC 27001:2022 · A.8.15"
+ },
+ {
+  "SifraKontrole": "NAD-012",
+  "Okvir": "ISO/IEC 27002:2022",
+  "Standard": "ISO/IEC 27002:2022",
+  "Referenca": "8.15",
+  "Title": "NAD-012 · ISO/IEC 27002:2022 · 8.15"
+ },
+ {
+  "SifraKontrole": "NAD-012",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "AU-2",
+  "Title": "NAD-012 · NIST SP 800-53 Rev. 5 · AU-2"
+ },
+ {
+  "SifraKontrole": "NAD-012",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "AU-3",
+  "Title": "NAD-012 · NIST SP 800-53 Rev. 5 · AU-3"
+ },
+ {
+  "SifraKontrole": "NAD-012",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "AU-4",
+  "Title": "NAD-012 · NIST SP 800-53 Rev. 5 · AU-4"
+ },
+ {
+  "SifraKontrole": "NAD-012",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "AU-6",
+  "Title": "NAD-012 · NIST SP 800-53 Rev. 5 · AU-6"
+ },
+ {
+  "SifraKontrole": "NAD-012",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "AU-9",
+  "Title": "NAD-012 · NIST SP 800-53 Rev. 5 · AU-9"
+ },
+ {
+  "SifraKontrole": "NAD-012",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "SI-4",
+  "Title": "NAD-012 · NIST SP 800-53 Rev. 5 · SI-4"
+ },
+ {
+  "SifraKontrole": "NAD-012",
+  "Okvir": "NIST CSF v2.0",
+  "Standard": "NIST CSF v2.0",
+  "Referenca": "DE.AE-3",
+  "Title": "NAD-012 · NIST CSF v2.0 · DE.AE-3"
+ },
+ {
+  "SifraKontrole": "NAD-012",
+  "Okvir": "Ostalo",
+  "Standard": "CIS v8",
+  "Referenca": "8.4, 8.5",
+  "Title": "NAD-012 · CIS v8 · 8.4, 8.5"
+ },
+ {
+  "SifraKontrole": "NAD-013",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.8.17",
+  "Title": "NAD-013 · ISO/IEC 27001:2022 · A.8.17"
+ },
+ {
+  "SifraKontrole": "NAD-013",
+  "Okvir": "ISO/IEC 27002:2022",
+  "Standard": "ISO/IEC 27002:2022",
+  "Referenca": "8.17",
+  "Title": "NAD-013 · ISO/IEC 27002:2022 · 8.17"
+ },
+ {
+  "SifraKontrole": "NAD-013",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "SC-45",
+  "Title": "NAD-013 · NIST SP 800-53 Rev. 5 · SC-45"
+ },
+ {
+  "SifraKontrole": "NAD-013",
+  "Okvir": "Ostalo",
+  "Standard": "CIS v8",
+  "Referenca": "8.4",
+  "Title": "NAD-013 · CIS v8 · 8.4"
+ },
+ {
+  "SifraKontrole": "NAD-014",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "9",
+  "Title": "NAD-014 · ISO/IEC 27001:2022 · 9"
+ },
+ {
+  "SifraKontrole": "NAD-014",
+  "Okvir": "ISO/IEC 27002:2022",
+  "Standard": "ISO/IEC 27002:2022",
+  "Referenca": "8.16",
+  "Title": "NAD-014 · ISO/IEC 27002:2022 · 8.16"
+ },
+ {
+  "SifraKontrole": "NAD-014",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "CA-2",
+  "Title": "NAD-014 · NIST SP 800-53 Rev. 5 · CA-2"
+ },
+ {
+  "SifraKontrole": "NAD-014",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "CA-7",
+  "Title": "NAD-014 · NIST SP 800-53 Rev. 5 · CA-7"
+ },
+ {
+  "SifraKontrole": "NAD-014",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "RA-3",
+  "Title": "NAD-014 · NIST SP 800-53 Rev. 5 · RA-3"
+ },
+ {
+  "SifraKontrole": "NAD-014",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "SI-4",
+  "Title": "NAD-014 · NIST SP 800-53 Rev. 5 · SI-4"
+ },
+ {
+  "SifraKontrole": "NAD-014",
+  "Okvir": "NIST CSF v2.0",
+  "Standard": "NIST CSF v2.0",
+  "Referenca": "Kategorija ID.RA",
+  "Title": "NAD-014 · NIST CSF v2.0 · Kategorija ID.RA"
+ },
+ {
+  "SifraKontrole": "NAD-014",
+  "Okvir": "Ostalo",
+  "Standard": "ISO 22301:2019",
+  "Referenca": "9",
+  "Title": "NAD-014 · ISO 22301:2019 · 9"
+ },
+ {
+  "SifraKontrole": "NAD-015",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.8.13",
+  "Title": "NAD-015 · ISO/IEC 27001:2022 · A.8.13"
+ },
+ {
+  "SifraKontrole": "NAD-015",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.8.15",
+  "Title": "NAD-015 · ISO/IEC 27001:2022 · A.8.15"
+ },
+ {
+  "SifraKontrole": "NAD-015",
+  "Okvir": "ISO/IEC 27002:2022",
+  "Standard": "ISO/IEC 27002:2022",
+  "Referenca": "8.13",
+  "Title": "NAD-015 · ISO/IEC 27002:2022 · 8.13"
+ },
+ {
+  "SifraKontrole": "NAD-015",
+  "Okvir": "ISO/IEC 27002:2022",
+  "Standard": "ISO/IEC 27002:2022",
+  "Referenca": "8.15",
+  "Title": "NAD-015 · ISO/IEC 27002:2022 · 8.15"
+ },
+ {
+  "SifraKontrole": "NAD-015",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "AU-9",
+  "Title": "NAD-015 · NIST SP 800-53 Rev. 5 · AU-9"
+ },
+ {
+  "SifraKontrole": "NAD-015",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "AU-10",
+  "Title": "NAD-015 · NIST SP 800-53 Rev. 5 · AU-10"
+ },
+ {
+  "SifraKontrole": "NAD-015",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "AU-11",
+  "Title": "NAD-015 · NIST SP 800-53 Rev. 5 · AU-11"
+ },
+ {
+  "SifraKontrole": "NAD-015",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "SC-13",
+  "Title": "NAD-015 · NIST SP 800-53 Rev. 5 · SC-13"
+ },
+ {
+  "SifraKontrole": "NAD-015",
+  "Okvir": "NIST CSF v2.0",
+  "Standard": "NIST CSF v2.0",
+  "Referenca": "Kategorija PR.DS",
+  "Title": "NAD-015 · NIST CSF v2.0 · Kategorija PR.DS"
+ },
+ {
+  "SifraKontrole": "NAD-015",
+  "Okvir": "Ostalo",
+  "Standard": "CIS v8",
+  "Referenca": "8.1, 8.3",
+  "Title": "NAD-015 · CIS v8 · 8.1, 8.3"
+ },
+ {
+  "SifraKontrole": "NAD-016",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.8.15",
+  "Title": "NAD-016 · ISO/IEC 27001:2022 · A.8.15"
+ },
+ {
+  "SifraKontrole": "NAD-016",
+  "Okvir": "ISO/IEC 27002:2022",
+  "Standard": "ISO/IEC 27002:2022",
+  "Referenca": "8.15",
+  "Title": "NAD-016 · ISO/IEC 27002:2022 · 8.15"
+ },
+ {
+  "SifraKontrole": "NAD-016",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "AU-2",
+  "Title": "NAD-016 · NIST SP 800-53 Rev. 5 · AU-2"
+ },
+ {
+  "SifraKontrole": "NAD-016",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "AU-3",
+  "Title": "NAD-016 · NIST SP 800-53 Rev. 5 · AU-3"
+ },
+ {
+  "SifraKontrole": "NAD-016",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "AU-12",
+  "Title": "NAD-016 · NIST SP 800-53 Rev. 5 · AU-12"
+ },
+ {
+  "SifraKontrole": "NAD-016",
+  "Okvir": "NIST CSF v2.0",
+  "Standard": "NIST CSF v2.0",
+  "Referenca": "DE.AE-3",
+  "Title": "NAD-016 · NIST CSF v2.0 · DE.AE-3"
+ },
+ {
+  "SifraKontrole": "NAD-016",
+  "Okvir": "Ostalo",
+  "Standard": "CIS v8",
+  "Referenca": "8.9",
+  "Title": "NAD-016 · CIS v8 · 8.9"
+ },
+ {
+  "SifraKontrole": "INV-001",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.5.9",
+  "Title": "INV-001 · ISO/IEC 27001:2022 · A.5.9"
+ },
+ {
+  "SifraKontrole": "INV-001",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.5.10",
+  "Title": "INV-001 · ISO/IEC 27001:2022 · A.5.10"
+ },
+ {
+  "SifraKontrole": "INV-001",
+  "Okvir": "ISO/IEC 27002:2022",
+  "Standard": "ISO/IEC 27002:2022",
+  "Referenca": "5.9",
+  "Title": "INV-001 · ISO/IEC 27002:2022 · 5.9"
+ },
+ {
+  "SifraKontrole": "INV-001",
+  "Okvir": "ISO/IEC 27002:2022",
+  "Standard": "ISO/IEC 27002:2022",
+  "Referenca": "5.10",
+  "Title": "INV-001 · ISO/IEC 27002:2022 · 5.10"
+ },
+ {
+  "SifraKontrole": "INV-001",
+  "Okvir": "NIST CSF v2.0",
+  "Standard": "NIST CSF v2.0",
+  "Referenca": "Kategorija ID.AM",
+  "Title": "INV-001 · NIST CSF v2.0 · Kategorija ID.AM"
+ },
+ {
+  "SifraKontrole": "INV-001",
+  "Okvir": "Ostalo",
+  "Standard": "CIS v8",
+  "Referenca": "1.1",
+  "Title": "INV-001 · CIS v8 · 1.1"
+ },
+ {
+  "SifraKontrole": "INV-002",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.5.10",
+  "Title": "INV-002 · ISO/IEC 27001:2022 · A.5.10"
+ },
+ {
+  "SifraKontrole": "INV-002",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.5.12",
+  "Title": "INV-002 · ISO/IEC 27001:2022 · A.5.12"
+ },
+ {
+  "SifraKontrole": "INV-002",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.5.13",
+  "Title": "INV-002 · ISO/IEC 27001:2022 · A.5.13"
+ },
+ {
+  "SifraKontrole": "INV-002",
+  "Okvir": "ISO/IEC 27002:2022",
+  "Standard": "ISO/IEC 27002:2022",
+  "Referenca": "5.10",
+  "Title": "INV-002 · ISO/IEC 27002:2022 · 5.10"
+ },
+ {
+  "SifraKontrole": "INV-002",
+  "Okvir": "ISO/IEC 27002:2022",
+  "Standard": "ISO/IEC 27002:2022",
+  "Referenca": "5.12",
+  "Title": "INV-002 · ISO/IEC 27002:2022 · 5.12"
+ },
+ {
+  "SifraKontrole": "INV-002",
+  "Okvir": "ISO/IEC 27002:2022",
+  "Standard": "ISO/IEC 27002:2022",
+  "Referenca": "5.13",
+  "Title": "INV-002 · ISO/IEC 27002:2022 · 5.13"
+ },
+ {
+  "SifraKontrole": "INV-002",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "MP-3",
+  "Title": "INV-002 · NIST SP 800-53 Rev. 5 · MP-3"
+ },
+ {
+  "SifraKontrole": "INV-002",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "RA-2",
+  "Title": "INV-002 · NIST SP 800-53 Rev. 5 · RA-2"
+ },
+ {
+  "SifraKontrole": "INV-002",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "RA-3",
+  "Title": "INV-002 · NIST SP 800-53 Rev. 5 · RA-3"
+ },
+ {
+  "SifraKontrole": "INV-002",
+  "Okvir": "NIST CSF v2.0",
+  "Standard": "NIST CSF v2.0",
+  "Referenca": "ID.AM-05",
+  "Title": "INV-002 · NIST CSF v2.0 · ID.AM-05"
+ },
+ {
+  "SifraKontrole": "INV-003",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.5.9",
+  "Title": "INV-003 · ISO/IEC 27001:2022 · A.5.9"
+ },
+ {
+  "SifraKontrole": "INV-003",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.5.12",
+  "Title": "INV-003 · ISO/IEC 27001:2022 · A.5.12"
+ },
+ {
+  "SifraKontrole": "INV-003",
+  "Okvir": "ISO/IEC 27002:2022",
+  "Standard": "ISO/IEC 27002:2022",
+  "Referenca": "5.9",
+  "Title": "INV-003 · ISO/IEC 27002:2022 · 5.9"
+ },
+ {
+  "SifraKontrole": "INV-003",
+  "Okvir": "ISO/IEC 27002:2022",
+  "Standard": "ISO/IEC 27002:2022",
+  "Referenca": "5.12",
+  "Title": "INV-003 · ISO/IEC 27002:2022 · 5.12"
+ },
+ {
+  "SifraKontrole": "INV-003",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "RA-2",
+  "Title": "INV-003 · NIST SP 800-53 Rev. 5 · RA-2"
+ },
+ {
+  "SifraKontrole": "INV-003",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "RA-3",
+  "Title": "INV-003 · NIST SP 800-53 Rev. 5 · RA-3"
+ },
+ {
+  "SifraKontrole": "INV-004",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.5.9",
+  "Title": "INV-004 · ISO/IEC 27001:2022 · A.5.9"
+ },
+ {
+  "SifraKontrole": "INV-004",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.5.12",
+  "Title": "INV-004 · ISO/IEC 27001:2022 · A.5.12"
+ },
+ {
+  "SifraKontrole": "INV-004",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.5.13",
+  "Title": "INV-004 · ISO/IEC 27001:2022 · A.5.13"
+ },
+ {
+  "SifraKontrole": "INV-004",
+  "Okvir": "ISO/IEC 27002:2022",
+  "Standard": "ISO/IEC 27002:2022",
+  "Referenca": "5.9",
+  "Title": "INV-004 · ISO/IEC 27002:2022 · 5.9"
+ },
+ {
+  "SifraKontrole": "INV-004",
+  "Okvir": "ISO/IEC 27002:2022",
+  "Standard": "ISO/IEC 27002:2022",
+  "Referenca": "5.12",
+  "Title": "INV-004 · ISO/IEC 27002:2022 · 5.12"
+ },
+ {
+  "SifraKontrole": "INV-004",
+  "Okvir": "ISO/IEC 27002:2022",
+  "Standard": "ISO/IEC 27002:2022",
+  "Referenca": "5.13",
+  "Title": "INV-004 · ISO/IEC 27002:2022 · 5.13"
+ },
+ {
+  "SifraKontrole": "INV-004",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "CM-8",
+  "Title": "INV-004 · NIST SP 800-53 Rev. 5 · CM-8"
+ },
+ {
+  "SifraKontrole": "INV-004",
+  "Okvir": "NIST CSF v2.0",
+  "Standard": "NIST CSF v2.0",
+  "Referenca": "Kategorija ID.AM",
+  "Title": "INV-004 · NIST CSF v2.0 · Kategorija ID.AM"
+ },
+ {
+  "SifraKontrole": "INV-004",
+  "Okvir": "Ostalo",
+  "Standard": "CIS v8",
+  "Referenca": "1.1",
+  "Title": "INV-004 · CIS v8 · 1.1"
+ },
+ {
+  "SifraKontrole": "INV-005",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.5.9",
+  "Title": "INV-005 · ISO/IEC 27001:2022 · A.5.9"
+ },
+ {
+  "SifraKontrole": "INV-005",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.5.10",
+  "Title": "INV-005 · ISO/IEC 27001:2022 · A.5.10"
+ },
+ {
+  "SifraKontrole": "INV-005",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.5.12",
+  "Title": "INV-005 · ISO/IEC 27001:2022 · A.5.12"
+ },
+ {
+  "SifraKontrole": "INV-005",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.5.13",
+  "Title": "INV-005 · ISO/IEC 27001:2022 · A.5.13"
+ },
+ {
+  "SifraKontrole": "INV-005",
+  "Okvir": "ISO/IEC 27002:2022",
+  "Standard": "ISO/IEC 27002:2022",
+  "Referenca": "5.9",
+  "Title": "INV-005 · ISO/IEC 27002:2022 · 5.9"
+ },
+ {
+  "SifraKontrole": "INV-005",
+  "Okvir": "ISO/IEC 27002:2022",
+  "Standard": "ISO/IEC 27002:2022",
+  "Referenca": "5.10",
+  "Title": "INV-005 · ISO/IEC 27002:2022 · 5.10"
+ },
+ {
+  "SifraKontrole": "INV-005",
+  "Okvir": "ISO/IEC 27002:2022",
+  "Standard": "ISO/IEC 27002:2022",
+  "Referenca": "5.12",
+  "Title": "INV-005 · ISO/IEC 27002:2022 · 5.12"
+ },
+ {
+  "SifraKontrole": "INV-005",
+  "Okvir": "ISO/IEC 27002:2022",
+  "Standard": "ISO/IEC 27002:2022",
+  "Referenca": "5.13",
+  "Title": "INV-005 · ISO/IEC 27002:2022 · 5.13"
+ },
+ {
+  "SifraKontrole": "INV-005",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "PE-22",
+  "Title": "INV-005 · NIST SP 800-53 Rev. 5 · PE-22"
+ },
+ {
+  "SifraKontrole": "INV-005",
+  "Okvir": "Ostalo",
+  "Standard": "CIS v8",
+  "Referenca": "2.1, 3.7",
+  "Title": "INV-005 · CIS v8 · 2.1, 3.7"
+ },
+ {
+  "SifraKontrole": "INV-006",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.5.9",
+  "Title": "INV-006 · ISO/IEC 27001:2022 · A.5.9"
+ },
+ {
+  "SifraKontrole": "INV-006",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.5.11",
+  "Title": "INV-006 · ISO/IEC 27001:2022 · A.5.11"
+ },
+ {
+  "SifraKontrole": "INV-006",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.5.20",
+  "Title": "INV-006 · ISO/IEC 27001:2022 · A.5.20"
+ },
+ {
+  "SifraKontrole": "INV-006",
+  "Okvir": "ISO/IEC 27002:2022",
+  "Standard": "ISO/IEC 27002:2022",
+  "Referenca": "5.9",
+  "Title": "INV-006 · ISO/IEC 27002:2022 · 5.9"
+ },
+ {
+  "SifraKontrole": "INV-006",
+  "Okvir": "ISO/IEC 27002:2022",
+  "Standard": "ISO/IEC 27002:2022",
+  "Referenca": "5.11",
+  "Title": "INV-006 · ISO/IEC 27002:2022 · 5.11"
+ },
+ {
+  "SifraKontrole": "INV-006",
+  "Okvir": "ISO/IEC 27002:2022",
+  "Standard": "ISO/IEC 27002:2022",
+  "Referenca": "5.20",
+  "Title": "INV-006 · ISO/IEC 27002:2022 · 5.20"
+ },
+ {
+  "SifraKontrole": "INV-007",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.5.9",
+  "Title": "INV-007 · ISO/IEC 27001:2022 · A.5.9"
+ },
+ {
+  "SifraKontrole": "INV-007",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.5.12",
+  "Title": "INV-007 · ISO/IEC 27001:2022 · A.5.12"
+ },
+ {
+  "SifraKontrole": "INV-007",
+  "Okvir": "ISO/IEC 27002:2022",
+  "Standard": "ISO/IEC 27002:2022",
+  "Referenca": "5.9",
+  "Title": "INV-007 · ISO/IEC 27002:2022 · 5.9"
+ },
+ {
+  "SifraKontrole": "INV-007",
+  "Okvir": "ISO/IEC 27002:2022",
+  "Standard": "ISO/IEC 27002:2022",
+  "Referenca": "5.12",
+  "Title": "INV-007 · ISO/IEC 27002:2022 · 5.12"
+ },
+ {
+  "SifraKontrole": "INV-007",
+  "Okvir": "NIST CSF v2.0",
+  "Standard": "NIST CSF v2.0",
+  "Referenca": "Kategorija ID.AM",
+  "Title": "INV-007 · NIST CSF v2.0 · Kategorija ID.AM"
+ },
+ {
+  "SifraKontrole": "INV-007",
+  "Okvir": "Ostalo",
+  "Standard": "CIS v8",
+  "Referenca": "1.1",
+  "Title": "INV-007 · CIS v8 · 1.1"
+ },
+ {
+  "SifraKontrole": "INV-008",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.5.9",
+  "Title": "INV-008 · ISO/IEC 27001:2022 · A.5.9"
+ },
+ {
+  "SifraKontrole": "INV-008",
+  "Okvir": "ISO/IEC 27002:2022",
+  "Standard": "ISO/IEC 27002:2022",
+  "Referenca": "5.9",
+  "Title": "INV-008 · ISO/IEC 27002:2022 · 5.9"
+ },
+ {
+  "SifraKontrole": "INV-008",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "CM-8",
+  "Title": "INV-008 · NIST SP 800-53 Rev. 5 · CM-8"
+ },
+ {
+  "SifraKontrole": "INV-008",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "PM-5",
+  "Title": "INV-008 · NIST SP 800-53 Rev. 5 · PM-5"
+ },
+ {
+  "SifraKontrole": "INV-008",
+  "Okvir": "NIST CSF v2.0",
+  "Standard": "NIST CSF v2.0",
+  "Referenca": "ID.AM-01",
+  "Title": "INV-008 · NIST CSF v2.0 · ID.AM-01"
+ },
+ {
+  "SifraKontrole": "INV-008",
+  "Okvir": "NIST CSF v2.0",
+  "Standard": "NIST CSF v2.0",
+  "Referenca": "ID.AM-02",
+  "Title": "INV-008 · NIST CSF v2.0 · ID.AM-02"
+ },
+ {
+  "SifraKontrole": "INV-008",
+  "Okvir": "NIST CSF v2.0",
+  "Standard": "NIST CSF v2.0",
+  "Referenca": "ID.AM-04",
+  "Title": "INV-008 · NIST CSF v2.0 · ID.AM-04"
+ },
+ {
+  "SifraKontrole": "INV-008",
+  "Okvir": "Ostalo",
+  "Standard": "CIS v8",
+  "Referenca": "1.1, 2.1, 2.4",
+  "Title": "INV-008 · CIS v8 · 1.1, 2.1, 2.4"
+ },
+ {
+  "SifraKontrole": "POD-001",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.5.12",
+  "Title": "POD-001 · ISO/IEC 27001:2022 · A.5.12"
+ },
+ {
+  "SifraKontrole": "POD-001",
+  "Okvir": "ISO/IEC 27002:2022",
+  "Standard": "ISO/IEC 27002:2022",
+  "Referenca": "5.12",
+  "Title": "POD-001 · ISO/IEC 27002:2022 · 5.12"
+ },
+ {
+  "SifraKontrole": "POD-001",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "RA-2",
+  "Title": "POD-001 · NIST SP 800-53 Rev. 5 · RA-2"
+ },
+ {
+  "SifraKontrole": "POD-001",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "RA-3",
+  "Title": "POD-001 · NIST SP 800-53 Rev. 5 · RA-3"
+ },
+ {
+  "SifraKontrole": "POD-001",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "RA-9",
+  "Title": "POD-001 · NIST SP 800-53 Rev. 5 · RA-9"
+ },
+ {
+  "SifraKontrole": "POD-001",
+  "Okvir": "NIST CSF v2.0",
+  "Standard": "NIST CSF v2.0",
+  "Referenca": "ID.AM-05",
+  "Title": "POD-001 · NIST CSF v2.0 · ID.AM-05"
+ },
+ {
+  "SifraKontrole": "POD-001",
+  "Okvir": "Ostalo",
+  "Standard": "CIS v8",
+  "Referenca": "3.2, 3.7",
+  "Title": "POD-001 · CIS v8 · 3.2, 3.7"
+ },
+ {
+  "SifraKontrole": "POD-002",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.8.13",
+  "Title": "POD-002 · ISO/IEC 27001:2022 · A.8.13"
+ },
+ {
+  "SifraKontrole": "POD-002",
+  "Okvir": "ISO/IEC 27002:2022",
+  "Standard": "ISO/IEC 27002:2022",
+  "Referenca": "8.13",
+  "Title": "POD-002 · ISO/IEC 27002:2022 · 8.13"
+ },
+ {
+  "SifraKontrole": "POD-002",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "CP-9",
+  "Title": "POD-002 · NIST SP 800-53 Rev. 5 · CP-9"
+ },
+ {
+  "SifraKontrole": "POD-002",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "SC-28",
+  "Title": "POD-002 · NIST SP 800-53 Rev. 5 · SC-28"
+ },
+ {
+  "SifraKontrole": "POD-002",
+  "Okvir": "NIST CSF v2.0",
+  "Standard": "NIST CSF v2.0",
+  "Referenca": "PR.DS-01",
+  "Title": "POD-002 · NIST CSF v2.0 · PR.DS-01"
+ },
+ {
+  "SifraKontrole": "POD-002",
+  "Okvir": "NIST CSF v2.0",
+  "Standard": "NIST CSF v2.0",
+  "Referenca": "PR.DS-11",
+  "Title": "POD-002 · NIST CSF v2.0 · PR.DS-11"
+ },
+ {
+  "SifraKontrole": "POD-002",
+  "Okvir": "Ostalo",
+  "Standard": "CIS v8",
+  "Referenca": "Kontrola 11",
+  "Title": "POD-002 · CIS v8 · Kontrola 11"
+ },
+ {
+  "SifraKontrole": "POD-003",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.7.10",
+  "Title": "POD-003 · ISO/IEC 27001:2022 · A.7.10"
+ },
+ {
+  "SifraKontrole": "POD-003",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.8.10",
+  "Title": "POD-003 · ISO/IEC 27001:2022 · A.8.10"
+ },
+ {
+  "SifraKontrole": "POD-003",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.8.12",
+  "Title": "POD-003 · ISO/IEC 27001:2022 · A.8.12"
+ },
+ {
+  "SifraKontrole": "POD-003",
+  "Okvir": "ISO/IEC 27002:2022",
+  "Standard": "ISO/IEC 27002:2022",
+  "Referenca": "7.10",
+  "Title": "POD-003 · ISO/IEC 27002:2022 · 7.10"
+ },
+ {
+  "SifraKontrole": "POD-003",
+  "Okvir": "ISO/IEC 27002:2022",
+  "Standard": "ISO/IEC 27002:2022",
+  "Referenca": "8.10",
+  "Title": "POD-003 · ISO/IEC 27002:2022 · 8.10"
+ },
+ {
+  "SifraKontrole": "POD-003",
+  "Okvir": "ISO/IEC 27002:2022",
+  "Standard": "ISO/IEC 27002:2022",
+  "Referenca": "8.12",
+  "Title": "POD-003 · ISO/IEC 27002:2022 · 8.12"
+ },
+ {
+  "SifraKontrole": "POD-003",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "MP-2",
+  "Title": "POD-003 · NIST SP 800-53 Rev. 5 · MP-2"
+ },
+ {
+  "SifraKontrole": "POD-003",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "MP-4",
+  "Title": "POD-003 · NIST SP 800-53 Rev. 5 · MP-4"
+ },
+ {
+  "SifraKontrole": "POD-003",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "MP-5",
+  "Title": "POD-003 · NIST SP 800-53 Rev. 5 · MP-5"
+ },
+ {
+  "SifraKontrole": "POD-003",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "SC-28",
+  "Title": "POD-003 · NIST SP 800-53 Rev. 5 · SC-28"
+ },
+ {
+  "SifraKontrole": "POD-003",
+  "Okvir": "NIST CSF v2.0",
+  "Standard": "NIST CSF v2.0",
+  "Referenca": "Kategorija PR.DS",
+  "Title": "POD-003 · NIST CSF v2.0 · Kategorija PR.DS"
+ },
+ {
+  "SifraKontrole": "POD-003",
+  "Okvir": "Ostalo",
+  "Standard": "CIS v8",
+  "Referenca": "3.9, 10.3, 10.4",
+  "Title": "POD-003 · CIS v8 · 3.9, 10.3, 10.4"
+ },
+ {
+  "SifraKontrole": "POD-004",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.8.7",
+  "Title": "POD-004 · ISO/IEC 27001:2022 · A.8.7"
+ },
+ {
+  "SifraKontrole": "POD-004",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.8.12",
+  "Title": "POD-004 · ISO/IEC 27001:2022 · A.8.12"
+ },
+ {
+  "SifraKontrole": "POD-004",
+  "Okvir": "ISO/IEC 27002:2022",
+  "Standard": "ISO/IEC 27002:2022",
+  "Referenca": "8.7",
+  "Title": "POD-004 · ISO/IEC 27002:2022 · 8.7"
+ },
+ {
+  "SifraKontrole": "POD-004",
+  "Okvir": "ISO/IEC 27002:2022",
+  "Standard": "ISO/IEC 27002:2022",
+  "Referenca": "8.12",
+  "Title": "POD-004 · ISO/IEC 27002:2022 · 8.12"
+ },
+ {
+  "SifraKontrole": "POD-004",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "MP-7",
+  "Title": "POD-004 · NIST SP 800-53 Rev. 5 · MP-7"
+ },
+ {
+  "SifraKontrole": "POD-004",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "SI-3",
+  "Title": "POD-004 · NIST SP 800-53 Rev. 5 · SI-3"
+ },
+ {
+  "SifraKontrole": "POD-004",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "SI-44",
+  "Title": "POD-004 · NIST SP 800-53 Rev. 5 · SI-44"
+ },
+ {
+  "SifraKontrole": "POD-004",
+  "Okvir": "NIST CSF v2.0",
+  "Standard": "NIST CSF v2.0",
+  "Referenca": "PR.IR-03",
+  "Title": "POD-004 · NIST CSF v2.0 · PR.IR-03"
+ },
+ {
+  "SifraKontrole": "POD-004",
+  "Okvir": "Ostalo",
+  "Standard": "CIS v8",
+  "Referenca": "13.7",
+  "Title": "POD-004 · CIS v8 · 13.7"
+ },
+ {
+  "SifraKontrole": "POD-005",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.8.10",
+  "Title": "POD-005 · ISO/IEC 27001:2022 · A.8.10"
+ },
+ {
+  "SifraKontrole": "POD-005",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A. 8.12",
+  "Title": "POD-005 · ISO/IEC 27001:2022 · A. 8.12"
+ },
+ {
+  "SifraKontrole": "POD-005",
+  "Okvir": "ISO/IEC 27002:2022",
+  "Standard": "ISO/IEC 27002:2022",
+  "Referenca": "8.10",
+  "Title": "POD-005 · ISO/IEC 27002:2022 · 8.10"
+ },
+ {
+  "SifraKontrole": "POD-005",
+  "Okvir": "ISO/IEC 27002:2022",
+  "Standard": "ISO/IEC 27002:2022",
+  "Referenca": "8.12",
+  "Title": "POD-005 · ISO/IEC 27002:2022 · 8.12"
+ },
+ {
+  "SifraKontrole": "POD-005",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "MP-6",
+  "Title": "POD-005 · NIST SP 800-53 Rev. 5 · MP-6"
+ },
+ {
+  "SifraKontrole": "POD-005",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "MP-7",
+  "Title": "POD-005 · NIST SP 800-53 Rev. 5 · MP-7"
+ },
+ {
+  "SifraKontrole": "POD-005",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "SC-28",
+  "Title": "POD-005 · NIST SP 800-53 Rev. 5 · SC-28"
+ },
+ {
+  "SifraKontrole": "POD-005",
+  "Okvir": "NIST CSF v2.0",
+  "Standard": "NIST CSF v2.0",
+  "Referenca": "Kategorija PR.DS",
+  "Title": "POD-005 · NIST CSF v2.0 · Kategorija PR.DS"
+ },
+ {
+  "SifraKontrole": "POD-005",
+  "Okvir": "Ostalo",
+  "Standard": "CIS v8",
+  "Referenca": "3.5",
+  "Title": "POD-005 · CIS v8 · 3.5"
+ },
+ {
+  "SifraKontrole": "POD-006",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.7.10",
+  "Title": "POD-006 · ISO/IEC 27001:2022 · A.7.10"
+ },
+ {
+  "SifraKontrole": "POD-006",
+  "Okvir": "ISO/IEC 27002:2022",
+  "Standard": "ISO/IEC 27002:2022",
+  "Referenca": "7.10",
+  "Title": "POD-006 · ISO/IEC 27002:2022 · 7.10"
+ },
+ {
+  "SifraKontrole": "POD-006",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "MP-5",
+  "Title": "POD-006 · NIST SP 800-53 Rev. 5 · MP-5"
+ },
+ {
+  "SifraKontrole": "POD-006",
+  "Okvir": "NIST CSF v2.0",
+  "Standard": "NIST CSF v2.0",
+  "Referenca": "PR.DS-02",
+  "Title": "POD-006 · NIST CSF v2.0 · PR.DS-02"
+ },
+ {
+  "SifraKontrole": "POD-007",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.7.10",
+  "Title": "POD-007 · ISO/IEC 27001:2022 · A.7.10"
+ },
+ {
+  "SifraKontrole": "POD-007",
+  "Okvir": "ISO/IEC 27002:2022",
+  "Standard": "ISO/IEC 27002:2022",
+  "Referenca": "7.10",
+  "Title": "POD-007 · ISO/IEC 27002:2022 · 7.10"
+ },
+ {
+  "SifraKontrole": "POD-007",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "MP-5",
+  "Title": "POD-007 · NIST SP 800-53 Rev. 5 · MP-5"
+ },
+ {
+  "SifraKontrole": "POD-007",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "AC-20",
+  "Title": "POD-007 · NIST SP 800-53 Rev. 5 · AC-20"
+ },
+ {
+  "SifraKontrole": "POD-007",
+  "Okvir": "Ostalo",
+  "Standard": "CIS v8 (3.1",
+  "Referenca": "",
+  "Title": "POD-007 · CIS v8 (3.1"
+ },
+ {
+  "SifraKontrole": "RIZ-001",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "6.1",
+  "Title": "RIZ-001 · ISO/IEC 27001:2022 · 6.1"
+ },
+ {
+  "SifraKontrole": "RIZ-001",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "RA-3",
+  "Title": "RIZ-001 · NIST SP 800-53 Rev. 5 · RA-3"
+ },
+ {
+  "SifraKontrole": "RIZ-001",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "PE-14",
+  "Title": "RIZ-001 · NIST SP 800-53 Rev. 5 · PE-14"
+ },
+ {
+  "SifraKontrole": "RIZ-001",
+  "Okvir": "NIST CSF v2.0",
+  "Standard": "NIST CSF v2.0",
+  "Referenca": "ID.RA-05",
+  "Title": "RIZ-001 · NIST CSF v2.0 · ID.RA-05"
+ },
+ {
+  "SifraKontrole": "RIZ-001",
+  "Okvir": "Ostalo",
+  "Standard": "ISO 22301:2019",
+  "Referenca": "6.1",
+  "Title": "RIZ-001 · ISO 22301:2019 · 6.1"
+ },
+ {
+  "SifraKontrole": "RIZ-002",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "6.1",
+  "Title": "RIZ-002 · ISO/IEC 27001:2022 · 6.1"
+ },
+ {
+  "SifraKontrole": "RIZ-002",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "RA-3",
+  "Title": "RIZ-002 · NIST SP 800-53 Rev. 5 · RA-3"
+ },
+ {
+  "SifraKontrole": "RIZ-002",
+  "Okvir": "NIST CSF v2.0",
+  "Standard": "NIST CSF v2.0",
+  "Referenca": "ID.RA-05",
+  "Title": "RIZ-002 · NIST CSF v2.0 · ID.RA-05"
+ },
+ {
+  "SifraKontrole": "RIZ-002",
+  "Okvir": "Ostalo",
+  "Standard": "ISO 22301:2019",
+  "Referenca": "6.1",
+  "Title": "RIZ-002 · ISO 22301:2019 · 6.1"
+ },
+ {
+  "SifraKontrole": "RIZ-003",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.5.19",
+  "Title": "RIZ-003 · ISO/IEC 27001:2022 · A.5.19"
+ },
+ {
+  "SifraKontrole": "RIZ-003",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.5.20",
+  "Title": "RIZ-003 · ISO/IEC 27001:2022 · A.5.20"
+ },
+ {
+  "SifraKontrole": "RIZ-003",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "5.19",
+  "Title": "RIZ-003 · ISO/IEC 27001:2022 · 5.19"
+ },
+ {
+  "SifraKontrole": "RIZ-003",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "5.20",
+  "Title": "RIZ-003 · ISO/IEC 27001:2022 · 5.20"
+ },
+ {
+  "SifraKontrole": "RIZ-003",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "RA-3",
+  "Title": "RIZ-003 · NIST SP 800-53 Rev. 5 · RA-3"
+ },
+ {
+  "SifraKontrole": "RIZ-003",
+  "Okvir": "Ostalo",
+  "Standard": "ISO 22301:2019",
+  "Referenca": "6.1, 6, 2",
+  "Title": "RIZ-003 · ISO 22301:2019 · 6.1, 6, 2"
+ },
+ {
+  "SifraKontrole": "RIZ-003",
+  "Okvir": "Ostalo",
+  "Standard": "CIS v8",
+  "Referenca": "15.2",
+  "Title": "RIZ-003 · CIS v8 · 15.2"
+ },
+ {
+  "SifraKontrole": "RIZ-004",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "6.1",
+  "Title": "RIZ-004 · ISO/IEC 27001:2022 · 6.1"
+ },
+ {
+  "SifraKontrole": "RIZ-004",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "6.2",
+  "Title": "RIZ-004 · ISO/IEC 27001:2022 · 6.2"
+ },
+ {
+  "SifraKontrole": "RIZ-004",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "8.1",
+  "Title": "RIZ-004 · ISO/IEC 27001:2022 · 8.1"
+ },
+ {
+  "SifraKontrole": "RIZ-004",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "8.2",
+  "Title": "RIZ-004 · ISO/IEC 27001:2022 · 8.2"
+ },
+ {
+  "SifraKontrole": "RIZ-004",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "RA-3",
+  "Title": "RIZ-004 · NIST SP 800-53 Rev. 5 · RA-3"
+ },
+ {
+  "SifraKontrole": "RIZ-004",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "PM-9",
+  "Title": "RIZ-004 · NIST SP 800-53 Rev. 5 · PM-9"
+ },
+ {
+  "SifraKontrole": "RIZ-004",
+  "Okvir": "NIST CSF v2.0",
+  "Standard": "NIST CSF v2.0",
+  "Referenca": "Kategorija ID.RA",
+  "Title": "RIZ-004 · NIST CSF v2.0 · Kategorija ID.RA"
+ },
+ {
+  "SifraKontrole": "RIZ-004",
+  "Okvir": "Ostalo",
+  "Standard": "ISO 22301:2019",
+  "Referenca": "6.1, 6.2, 6.3, 8.1, 8.2",
+  "Title": "RIZ-004 · ISO 22301:2019 · 6.1, 6.2, 6.3, 8.1, 8.2"
+ },
+ {
+  "SifraKontrole": "RIZ-005",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "6.1",
+  "Title": "RIZ-005 · ISO/IEC 27001:2022 · 6.1"
+ },
+ {
+  "SifraKontrole": "RIZ-005",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "6.2",
+  "Title": "RIZ-005 · ISO/IEC 27001:2022 · 6.2"
+ },
+ {
+  "SifraKontrole": "RIZ-005",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "8.1",
+  "Title": "RIZ-005 · ISO/IEC 27001:2022 · 8.1"
+ },
+ {
+  "SifraKontrole": "RIZ-005",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "8.2",
+  "Title": "RIZ-005 · ISO/IEC 27001:2022 · 8.2"
+ },
+ {
+  "SifraKontrole": "RIZ-005",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "RA-3",
+  "Title": "RIZ-005 · NIST SP 800-53 Rev. 5 · RA-3"
+ },
+ {
+  "SifraKontrole": "RIZ-005",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "PM-9",
+  "Title": "RIZ-005 · NIST SP 800-53 Rev. 5 · PM-9"
+ },
+ {
+  "SifraKontrole": "RIZ-005",
+  "Okvir": "NIST CSF v2.0",
+  "Standard": "NIST CSF v2.0",
+  "Referenca": "ID.RA-06",
+  "Title": "RIZ-005 · NIST CSF v2.0 · ID.RA-06"
+ },
+ {
+  "SifraKontrole": "RIZ-005",
+  "Okvir": "Ostalo",
+  "Standard": "ISO 22301:2019",
+  "Referenca": "6.1, 6.2, 6.3, 8.1, 8.2",
+  "Title": "RIZ-005 · ISO 22301:2019 · 6.1, 6.2, 6.3, 8.1, 8.2"
+ },
+ {
+  "SifraKontrole": "RIZ-006",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "6",
+  "Title": "RIZ-006 · ISO/IEC 27001:2022 · 6"
+ },
+ {
+  "SifraKontrole": "RIZ-006",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "8",
+  "Title": "RIZ-006 · ISO/IEC 27001:2022 · 8"
+ },
+ {
+  "SifraKontrole": "RIZ-006",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "RA-3",
+  "Title": "RIZ-006 · NIST SP 800-53 Rev. 5 · RA-3"
+ },
+ {
+  "SifraKontrole": "RIZ-006",
+  "Okvir": "NIST CSF v2.0",
+  "Standard": "NIST CSF v2.0",
+  "Referenca": "ID.RA-04",
+  "Title": "RIZ-006 · NIST CSF v2.0 · ID.RA-04"
+ },
+ {
+  "SifraKontrole": "RIZ-006",
+  "Okvir": "NIST CSF v2.0",
+  "Standard": "NIST CSF v2.0",
+  "Referenca": "ID.RA-05",
+  "Title": "RIZ-006 · NIST CSF v2.0 · ID.RA-05"
+ },
+ {
+  "SifraKontrole": "RIZ-006",
+  "Okvir": "Ostalo",
+  "Standard": "ISO/IEC 27005:2022",
+  "Referenca": "",
+  "Title": "RIZ-006 · ISO/IEC 27005:2022"
+ },
+ {
+  "SifraKontrole": "RIZ-006",
+  "Okvir": "Ostalo",
+  "Standard": "ISO 22301:2019",
+  "Referenca": "6, 8",
+  "Title": "RIZ-006 · ISO 22301:2019 · 6, 8"
+ },
+ {
+  "SifraKontrole": "RIZ-007",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "6",
+  "Title": "RIZ-007 · ISO/IEC 27001:2022 · 6"
+ },
+ {
+  "SifraKontrole": "RIZ-007",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "8",
+  "Title": "RIZ-007 · ISO/IEC 27001:2022 · 8"
+ },
+ {
+  "SifraKontrole": "RIZ-007",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "9.3",
+  "Title": "RIZ-007 · ISO/IEC 27001:2022 · 9.3"
+ },
+ {
+  "SifraKontrole": "RIZ-007",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "RA-3",
+  "Title": "RIZ-007 · NIST SP 800-53 Rev. 5 · RA-3"
+ },
+ {
+  "SifraKontrole": "RIZ-007",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "RA-7",
+  "Title": "RIZ-007 · NIST SP 800-53 Rev. 5 · RA-7"
+ },
+ {
+  "SifraKontrole": "RIZ-007",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "PM-9",
+  "Title": "RIZ-007 · NIST SP 800-53 Rev. 5 · PM-9"
+ },
+ {
+  "SifraKontrole": "RIZ-007",
+  "Okvir": "NIST CSF v2.0",
+  "Standard": "NIST CSF v2.0",
+  "Referenca": "",
+  "Title": "RIZ-007 · NIST CSF v2.0"
+ },
+ {
+  "SifraKontrole": "RIZ-007",
+  "Okvir": "Ostalo",
+  "Standard": "ISO/IEC 27005:2022",
+  "Referenca": "",
+  "Title": "RIZ-007 · ISO/IEC 27005:2022"
+ },
+ {
+  "SifraKontrole": "RIZ-007",
+  "Okvir": "Ostalo",
+  "Standard": "ISO 22301:2019",
+  "Referenca": "6, 8, 9.3",
+  "Title": "RIZ-007 · ISO 22301:2019 · 6, 8, 9.3"
+ },
+ {
+  "SifraKontrole": "RIZ-008",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "6",
+  "Title": "RIZ-008 · ISO/IEC 27001:2022 · 6"
+ },
+ {
+  "SifraKontrole": "RIZ-008",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "8",
+  "Title": "RIZ-008 · ISO/IEC 27001:2022 · 8"
+ },
+ {
+  "SifraKontrole": "RIZ-008",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "RA-2",
+  "Title": "RIZ-008 · NIST SP 800-53 Rev. 5 · RA-2"
+ },
+ {
+  "SifraKontrole": "RIZ-008",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "RA-3",
+  "Title": "RIZ-008 · NIST SP 800-53 Rev. 5 · RA-3"
+ },
+ {
+  "SifraKontrole": "RIZ-008",
+  "Okvir": "NIST CSF v2.0",
+  "Standard": "NIST CSF v2.0",
+  "Referenca": "Kategorija ID.RA",
+  "Title": "RIZ-008 · NIST CSF v2.0 · Kategorija ID.RA"
+ },
+ {
+  "SifraKontrole": "RIZ-008",
+  "Okvir": "Ostalo",
+  "Standard": "ISO/IEC 27005:2022",
+  "Referenca": "",
+  "Title": "RIZ-008 · ISO/IEC 27005:2022"
+ },
+ {
+  "SifraKontrole": "RIZ-008",
+  "Okvir": "Ostalo",
+  "Standard": "ISO 22301:2019",
+  "Referenca": "6, 8",
+  "Title": "RIZ-008 · ISO 22301:2019 · 6, 8"
+ },
+ {
+  "SifraKontrole": "RIZ-009",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "6",
+  "Title": "RIZ-009 · ISO/IEC 27001:2022 · 6"
+ },
+ {
+  "SifraKontrole": "RIZ-009",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "8",
+  "Title": "RIZ-009 · ISO/IEC 27001:2022 · 8"
+ },
+ {
+  "SifraKontrole": "RIZ-009",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "RA-3",
+  "Title": "RIZ-009 · NIST SP 800-53 Rev. 5 · RA-3"
+ },
+ {
+  "SifraKontrole": "RIZ-009",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "PM-9",
+  "Title": "RIZ-009 · NIST SP 800-53 Rev. 5 · PM-9"
+ },
+ {
+  "SifraKontrole": "RIZ-009",
+  "Okvir": "Ostalo",
+  "Standard": "ISO/IEC 27005:2022",
+  "Referenca": "",
+  "Title": "RIZ-009 · ISO/IEC 27005:2022"
+ },
+ {
+  "SifraKontrole": "RIZ-009",
+  "Okvir": "Ostalo",
+  "Standard": "ISO 22301:2019",
+  "Referenca": "6, 8",
+  "Title": "RIZ-009 · ISO 22301:2019 · 6, 8"
+ },
+ {
+  "SifraKontrole": "RIZ-010",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "6",
+  "Title": "RIZ-010 · ISO/IEC 27001:2022 · 6"
+ },
+ {
+  "SifraKontrole": "RIZ-010",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "8",
+  "Title": "RIZ-010 · ISO/IEC 27001:2022 · 8"
+ },
+ {
+  "SifraKontrole": "RIZ-010",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "CM-4",
+  "Title": "RIZ-010 · NIST SP 800-53 Rev. 5 · CM-4"
+ },
+ {
+  "SifraKontrole": "RIZ-010",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "SA-3",
+  "Title": "RIZ-010 · NIST SP 800-53 Rev. 5 · SA-3"
+ },
+ {
+  "SifraKontrole": "RIZ-010",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "SI-2",
+  "Title": "RIZ-010 · NIST SP 800-53 Rev. 5 · SI-2"
+ },
+ {
+  "SifraKontrole": "RIZ-010",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "SR-5",
+  "Title": "RIZ-010 · NIST SP 800-53 Rev. 5 · SR-5"
+ },
+ {
+  "SifraKontrole": "RIZ-010",
+  "Okvir": "NIST CSF v2.0",
+  "Standard": "NIST CSF v2.0",
+  "Referenca": "ID.RA-07",
+  "Title": "RIZ-010 · NIST CSF v2.0 · ID.RA-07"
+ },
+ {
+  "SifraKontrole": "RIZ-010",
+  "Okvir": "Ostalo",
+  "Standard": "ISO/IEC 27005:2022",
+  "Referenca": "",
+  "Title": "RIZ-010 · ISO/IEC 27005:2022"
+ },
+ {
+  "SifraKontrole": "RIZ-010",
+  "Okvir": "Ostalo",
+  "Standard": "ISO 22301:2019",
+  "Referenca": "6, 8",
+  "Title": "RIZ-010 · ISO 22301:2019 · 6, 8"
+ },
+ {
+  "SifraKontrole": "RIZ-011",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.8.16",
+  "Title": "RIZ-011 · ISO/IEC 27001:2022 · A.8.16"
+ },
+ {
+  "SifraKontrole": "RIZ-011",
+  "Okvir": "ISO/IEC 27002:2022",
+  "Standard": "ISO/IEC 27002:2022",
+  "Referenca": "8.16",
+  "Title": "RIZ-011 · ISO/IEC 27002:2022 · 8.16"
+ },
+ {
+  "SifraKontrole": "RIZ-011",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "RA-5",
+  "Title": "RIZ-011 · NIST SP 800-53 Rev. 5 · RA-5"
+ },
+ {
+  "SifraKontrole": "RIZ-011",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "SI-3",
+  "Title": "RIZ-011 · NIST SP 800-53 Rev. 5 · SI-3"
+ },
+ {
+  "SifraKontrole": "RIZ-011",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "SI-4",
+  "Title": "RIZ-011 · NIST SP 800-53 Rev. 5 · SI-4"
+ },
+ {
+  "SifraKontrole": "RIZ-011",
+  "Okvir": "NIST CSF v2.0",
+  "Standard": "NIST CSF v2.0",
+  "Referenca": "ID.RA-01",
+  "Title": "RIZ-011 · NIST CSF v2.0 · ID.RA-01"
+ },
+ {
+  "SifraKontrole": "RIZ-011",
+  "Okvir": "Ostalo",
+  "Standard": "CIS v8",
+  "Referenca": "7.1, 7.5, 7.6",
+  "Title": "RIZ-011 · CIS v8 · 7.1, 7.5, 7.6"
+ },
+ {
+  "SifraKontrole": "RIZ-012",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "6",
+  "Title": "RIZ-012 · ISO/IEC 27001:2022 · 6"
+ },
+ {
+  "SifraKontrole": "RIZ-012",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "8",
+  "Title": "RIZ-012 · ISO/IEC 27001:2022 · 8"
+ },
+ {
+  "SifraKontrole": "RIZ-012",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.5.8",
+  "Title": "RIZ-012 · ISO/IEC 27001:2022 · A.5.8"
+ },
+ {
+  "SifraKontrole": "RIZ-012",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.5.21",
+  "Title": "RIZ-012 · ISO/IEC 27001:2022 · A.5.21"
+ },
+ {
+  "SifraKontrole": "RIZ-012",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "PM-9",
+  "Title": "RIZ-012 · NIST SP 800-53 Rev. 5 · PM-9"
+ },
+ {
+  "SifraKontrole": "RIZ-012",
+  "Okvir": "NIST CSF v2.0",
+  "Standard": "NIST CSF v2.0",
+  "Referenca": "GV.RM-03",
+  "Title": "RIZ-012 · NIST CSF v2.0 · GV.RM-03"
+ },
+ {
+  "SifraKontrole": "RIZ-012",
+  "Okvir": "Ostalo",
+  "Standard": "ISO/IEC 27005:2022",
+  "Referenca": "",
+  "Title": "RIZ-012 · ISO/IEC 27005:2022"
+ },
+ {
+  "SifraKontrole": "RIZ-012",
+  "Okvir": "Ostalo",
+  "Standard": "ISO 22301:2019",
+  "Referenca": "6, 8",
+  "Title": "RIZ-012 · ISO 22301:2019 · 6, 8"
+ },
+ {
+  "SifraKontrole": "RIZ-013",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.8.8",
+  "Title": "RIZ-013 · ISO/IEC 27001:2022 · A.8.8"
+ },
+ {
+  "SifraKontrole": "RIZ-013",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "SI-2",
+  "Title": "RIZ-013 · NIST SP 800-53 Rev. 5 · SI-2"
+ },
+ {
+  "SifraKontrole": "RIZ-013",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "RA-5",
+  "Title": "RIZ-013 · NIST SP 800-53 Rev. 5 · RA-5"
+ },
+ {
+  "SifraKontrole": "RIZ-013",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "CM-3",
+  "Title": "RIZ-013 · NIST SP 800-53 Rev. 5 · CM-3"
+ },
+ {
+  "SifraKontrole": "RIZ-013",
+  "Okvir": "Ostalo",
+  "Standard": "CIS v8",
+  "Referenca": "2.2",
+  "Title": "RIZ-013 · CIS v8 · 2.2"
+ },
+ {
+  "SifraKontrole": "RIZ-014",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.5.19",
+  "Title": "RIZ-014 · ISO/IEC 27001:2022 · A.5.19"
+ },
+ {
+  "SifraKontrole": "RIZ-014",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.5.20",
+  "Title": "RIZ-014 · ISO/IEC 27001:2022 · A.5.20"
+ },
+ {
+  "SifraKontrole": "RIZ-014",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.5.21",
+  "Title": "RIZ-014 · ISO/IEC 27001:2022 · A.5.21"
+ },
+ {
+  "SifraKontrole": "RIZ-014",
+  "Okvir": "ISO/IEC 27002:2022",
+  "Standard": "ISO/IEC 27002:2022",
+  "Referenca": "5.19",
+  "Title": "RIZ-014 · ISO/IEC 27002:2022 · 5.19"
+ },
+ {
+  "SifraKontrole": "RIZ-014",
+  "Okvir": "ISO/IEC 27002:2022",
+  "Standard": "ISO/IEC 27002:2022",
+  "Referenca": "5.20",
+  "Title": "RIZ-014 · ISO/IEC 27002:2022 · 5.20"
+ },
+ {
+  "SifraKontrole": "RIZ-014",
+  "Okvir": "ISO/IEC 27002:2022",
+  "Standard": "ISO/IEC 27002:2022",
+  "Referenca": "5.21",
+  "Title": "RIZ-014 · ISO/IEC 27002:2022 · 5.21"
+ },
+ {
+  "SifraKontrole": "RIZ-014",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "SR-3",
+  "Title": "RIZ-014 · NIST SP 800-53 Rev. 5 · SR-3"
+ },
+ {
+  "SifraKontrole": "RIZ-014",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "SR-5",
+  "Title": "RIZ-014 · NIST SP 800-53 Rev. 5 · SR-5"
+ },
+ {
+  "SifraKontrole": "RIZ-014",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "SA-9",
+  "Title": "RIZ-014 · NIST SP 800-53 Rev. 5 · SA-9"
+ },
+ {
+  "SifraKontrole": "RIZ-014",
+  "Okvir": "Ostalo",
+  "Standard": "ISO 22301:2019",
+  "Referenca": "8.1",
+  "Title": "RIZ-014 · ISO 22301:2019 · 8.1"
+ },
+ {
+  "SifraKontrole": "RIZ-014",
+  "Okvir": "Ostalo",
+  "Standard": "CIS v8",
+  "Referenca": "15.2, 15.3, 15.4",
+  "Title": "RIZ-014 · CIS v8 · 15.2, 15.3, 15.4"
+ },
+ {
+  "SifraKontrole": "RIZ-015",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.5.19",
+  "Title": "RIZ-015 · ISO/IEC 27001:2022 · A.5.19"
+ },
+ {
+  "SifraKontrole": "RIZ-015",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.5.20",
+  "Title": "RIZ-015 · ISO/IEC 27001:2022 · A.5.20"
+ },
+ {
+  "SifraKontrole": "RIZ-015",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.5.21",
+  "Title": "RIZ-015 · ISO/IEC 27001:2022 · A.5.21"
+ },
+ {
+  "SifraKontrole": "RIZ-015",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.5.22",
+  "Title": "RIZ-015 · ISO/IEC 27001:2022 · A.5.22"
+ },
+ {
+  "SifraKontrole": "RIZ-015",
+  "Okvir": "ISO/IEC 27002:2022",
+  "Standard": "ISO/IEC 27002:2022",
+  "Referenca": "5.19",
+  "Title": "RIZ-015 · ISO/IEC 27002:2022 · 5.19"
+ },
+ {
+  "SifraKontrole": "RIZ-015",
+  "Okvir": "ISO/IEC 27002:2022",
+  "Standard": "ISO/IEC 27002:2022",
+  "Referenca": "5.20",
+  "Title": "RIZ-015 · ISO/IEC 27002:2022 · 5.20"
+ },
+ {
+  "SifraKontrole": "RIZ-015",
+  "Okvir": "ISO/IEC 27002:2022",
+  "Standard": "ISO/IEC 27002:2022",
+  "Referenca": "5.21",
+  "Title": "RIZ-015 · ISO/IEC 27002:2022 · 5.21"
+ },
+ {
+  "SifraKontrole": "RIZ-015",
+  "Okvir": "ISO/IEC 27002:2022",
+  "Standard": "ISO/IEC 27002:2022",
+  "Referenca": "5.22",
+  "Title": "RIZ-015 · ISO/IEC 27002:2022 · 5.22"
+ },
+ {
+  "SifraKontrole": "RIZ-015",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "SR-3",
+  "Title": "RIZ-015 · NIST SP 800-53 Rev. 5 · SR-3"
+ },
+ {
+  "SifraKontrole": "RIZ-015",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "SR-6",
+  "Title": "RIZ-015 · NIST SP 800-53 Rev. 5 · SR-6"
+ },
+ {
+  "SifraKontrole": "RIZ-015",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "SA-9",
+  "Title": "RIZ-015 · NIST SP 800-53 Rev. 5 · SA-9"
+ },
+ {
+  "SifraKontrole": "RIZ-015",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "RA-3",
+  "Title": "RIZ-015 · NIST SP 800-53 Rev. 5 · RA-3"
+ },
+ {
+  "SifraKontrole": "RIZ-015",
+  "Okvir": "NIST CSF v2.0",
+  "Standard": "NIST CSF v2.0",
+  "Referenca": "ID.RA-10",
+  "Title": "RIZ-015 · NIST CSF v2.0 · ID.RA-10"
+ },
+ {
+  "SifraKontrole": "RIZ-015",
+  "Okvir": "Ostalo",
+  "Standard": "ISO 22301:2019",
+  "Referenca": "8.1",
+  "Title": "RIZ-015 · ISO 22301:2019 · 8.1"
+ },
+ {
+  "SifraKontrole": "RIZ-015",
+  "Okvir": "Ostalo",
+  "Standard": "CIS v8",
+  "Referenca": "Kontrola 15",
+  "Title": "RIZ-015 · CIS v8 · Kontrola 15"
+ },
+ {
+  "SifraKontrole": "RIZ-016",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.5.19",
+  "Title": "RIZ-016 · ISO/IEC 27001:2022 · A.5.19"
+ },
+ {
+  "SifraKontrole": "RIZ-016",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.5.20",
+  "Title": "RIZ-016 · ISO/IEC 27001:2022 · A.5.20"
+ },
+ {
+  "SifraKontrole": "RIZ-016",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.5.21",
+  "Title": "RIZ-016 · ISO/IEC 27001:2022 · A.5.21"
+ },
+ {
+  "SifraKontrole": "RIZ-016",
+  "Okvir": "ISO/IEC 27002:2022",
+  "Standard": "ISO/IEC 27002:2022",
+  "Referenca": "5.19",
+  "Title": "RIZ-016 · ISO/IEC 27002:2022 · 5.19"
+ },
+ {
+  "SifraKontrole": "RIZ-016",
+  "Okvir": "ISO/IEC 27002:2022",
+  "Standard": "ISO/IEC 27002:2022",
+  "Referenca": "5.20",
+  "Title": "RIZ-016 · ISO/IEC 27002:2022 · 5.20"
+ },
+ {
+  "SifraKontrole": "RIZ-016",
+  "Okvir": "ISO/IEC 27002:2022",
+  "Standard": "ISO/IEC 27002:2022",
+  "Referenca": "5.21",
+  "Title": "RIZ-016 · ISO/IEC 27002:2022 · 5.21"
+ },
+ {
+  "SifraKontrole": "RIZ-016",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "SR-3",
+  "Title": "RIZ-016 · NIST SP 800-53 Rev. 5 · SR-3"
+ },
+ {
+  "SifraKontrole": "RIZ-016",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "SR-6",
+  "Title": "RIZ-016 · NIST SP 800-53 Rev. 5 · SR-6"
+ },
+ {
+  "SifraKontrole": "RIZ-016",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "SA-9",
+  "Title": "RIZ-016 · NIST SP 800-53 Rev. 5 · SA-9"
+ },
+ {
+  "SifraKontrole": "RIZ-016",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "RA-3",
+  "Title": "RIZ-016 · NIST SP 800-53 Rev. 5 · RA-3"
+ },
+ {
+  "SifraKontrole": "RIZ-016",
+  "Okvir": "Ostalo",
+  "Standard": "ISO 22301:2019",
+  "Referenca": "8.1",
+  "Title": "RIZ-016 · ISO 22301:2019 · 8.1"
+ },
+ {
+  "SifraKontrole": "RIZ-016",
+  "Okvir": "Ostalo",
+  "Standard": "CIS v8",
+  "Referenca": "15.2, 15.4",
+  "Title": "RIZ-016 · CIS v8 · 15.2, 15.4"
+ },
+ {
+  "SifraKontrole": "RIZ-017",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "9",
+  "Title": "RIZ-017 · ISO/IEC 27001:2022 · 9"
+ },
+ {
+  "SifraKontrole": "RIZ-017",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A. 5.19",
+  "Title": "RIZ-017 · ISO/IEC 27001:2022 · A. 5.19"
+ },
+ {
+  "SifraKontrole": "RIZ-017",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.5.21",
+  "Title": "RIZ-017 · ISO/IEC 27001:2022 · A.5.21"
+ },
+ {
+  "SifraKontrole": "RIZ-017",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.5.22",
+  "Title": "RIZ-017 · ISO/IEC 27001:2022 · A.5.22"
+ },
+ {
+  "SifraKontrole": "RIZ-017",
+  "Okvir": "ISO/IEC 27002:2022",
+  "Standard": "ISO/IEC 27002:2022",
+  "Referenca": "5.19",
+  "Title": "RIZ-017 · ISO/IEC 27002:2022 · 5.19"
+ },
+ {
+  "SifraKontrole": "RIZ-017",
+  "Okvir": "ISO/IEC 27002:2022",
+  "Standard": "ISO/IEC 27002:2022",
+  "Referenca": "5.21",
+  "Title": "RIZ-017 · ISO/IEC 27002:2022 · 5.21"
+ },
+ {
+  "SifraKontrole": "RIZ-017",
+  "Okvir": "ISO/IEC 27002:2022",
+  "Standard": "ISO/IEC 27002:2022",
+  "Referenca": "5.22",
+  "Title": "RIZ-017 · ISO/IEC 27002:2022 · 5.22"
+ },
+ {
+  "SifraKontrole": "RIZ-017",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "SR-3",
+  "Title": "RIZ-017 · NIST SP 800-53 Rev. 5 · SR-3"
+ },
+ {
+  "SifraKontrole": "RIZ-017",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "SR-4",
+  "Title": "RIZ-017 · NIST SP 800-53 Rev. 5 · SR-4"
+ },
+ {
+  "SifraKontrole": "RIZ-017",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "SR-6",
+  "Title": "RIZ-017 · NIST SP 800-53 Rev. 5 · SR-6"
+ },
+ {
+  "SifraKontrole": "RIZ-017",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "CA-7",
+  "Title": "RIZ-017 · NIST SP 800-53 Rev. 5 · CA-7"
+ },
+ {
+  "SifraKontrole": "RIZ-017",
+  "Okvir": "Ostalo",
+  "Standard": "ISO 22301:2019",
+  "Referenca": "8.1, 9",
+  "Title": "RIZ-017 · ISO 22301:2019 · 8.1, 9"
+ },
+ {
+  "SifraKontrole": "RIZ-017",
+  "Okvir": "Ostalo",
+  "Standard": "CIS v8",
+  "Referenca": "15.5, 15.6",
+  "Title": "RIZ-017 · CIS v8 · 15.5, 15.6"
+ },
+ {
+  "SifraKontrole": "RIZ-018",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.5.19",
+  "Title": "RIZ-018 · ISO/IEC 27001:2022 · A.5.19"
+ },
+ {
+  "SifraKontrole": "RIZ-018",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.5.20",
+  "Title": "RIZ-018 · ISO/IEC 27001:2022 · A.5.20"
+ },
+ {
+  "SifraKontrole": "RIZ-018",
+  "Okvir": "ISO/IEC 27002:2022",
+  "Standard": "ISO/IEC 27002:2022",
+  "Referenca": "5.19",
+  "Title": "RIZ-018 · ISO/IEC 27002:2022 · 5.19"
+ },
+ {
+  "SifraKontrole": "RIZ-018",
+  "Okvir": "ISO/IEC 27002:2022",
+  "Standard": "ISO/IEC 27002:2022",
+  "Referenca": "5.20",
+  "Title": "RIZ-018 · ISO/IEC 27002:2022 · 5.20"
+ },
+ {
+  "SifraKontrole": "RIZ-018",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "SR-5",
+  "Title": "RIZ-018 · NIST SP 800-53 Rev. 5 · SR-5"
+ },
+ {
+  "SifraKontrole": "RIZ-018",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "SR-6",
+  "Title": "RIZ-018 · NIST SP 800-53 Rev. 5 · SR-6"
+ },
+ {
+  "SifraKontrole": "RIZ-018",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "RA-3",
+  "Title": "RIZ-018 · NIST SP 800-53 Rev. 5 · RA-3"
+ },
+ {
+  "SifraKontrole": "RIZ-018",
+  "Okvir": "Ostalo",
+  "Standard": "ISO 22301:2019",
+  "Referenca": "8.1",
+  "Title": "RIZ-018 · ISO 22301:2019 · 8.1"
+ },
+ {
+  "SifraKontrole": "RIZ-018",
+  "Okvir": "Ostalo",
+  "Standard": "CIS v8",
+  "Referenca": "15.2, 15.5",
+  "Title": "RIZ-018 · CIS v8 · 15.2, 15.5"
+ },
+ {
+  "SifraKontrole": "RIZ-019",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.7.5",
+  "Title": "RIZ-019 · ISO/IEC 27001:2022 · A.7.5"
+ },
+ {
+  "SifraKontrole": "RIZ-019",
+  "Okvir": "ISO/IEC 27002:2022",
+  "Standard": "ISO/IEC 27002:2022",
+  "Referenca": "7.5",
+  "Title": "RIZ-019 · ISO/IEC 27002:2022 · 7.5"
+ },
+ {
+  "SifraKontrole": "RIZ-019",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "CP-2",
+  "Title": "RIZ-019 · NIST SP 800-53 Rev. 5 · CP-2"
+ },
+ {
+  "SifraKontrole": "RIZ-019",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "PM-9",
+  "Title": "RIZ-019 · NIST SP 800-53 Rev. 5 · PM-9"
+ },
+ {
+  "SifraKontrole": "DID-001",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.5.16",
+  "Title": "DID-001 · ISO/IEC 27001:2022 · A.5.16"
+ },
+ {
+  "SifraKontrole": "DID-001",
+  "Okvir": "ISO/IEC 27002:2022",
+  "Standard": "ISO/IEC 27002:2022",
+  "Referenca": "5.16",
+  "Title": "DID-001 · ISO/IEC 27002:2022 · 5.16"
+ },
+ {
+  "SifraKontrole": "DID-001",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "IA-2",
+  "Title": "DID-001 · NIST SP 800-53 Rev. 5 · IA-2"
+ },
+ {
+  "SifraKontrole": "DID-001",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "IA-4",
+  "Title": "DID-001 · NIST SP 800-53 Rev. 5 · IA-4"
+ },
+ {
+  "SifraKontrole": "DID-001",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "AC-2",
+  "Title": "DID-001 · NIST SP 800-53 Rev. 5 · AC-2"
+ },
+ {
+  "SifraKontrole": "DID-001",
+  "Okvir": "NIST CSF v2.0",
+  "Standard": "NIST CSF v2.0",
+  "Referenca": "PR.AA-01",
+  "Title": "DID-001 · NIST CSF v2.0 · PR.AA-01"
+ },
+ {
+  "SifraKontrole": "DID-001",
+  "Okvir": "Ostalo",
+  "Standard": "CIS v8",
+  "Referenca": "5.1, 5.3",
+  "Title": "DID-001 · CIS v8 · 5.1, 5.3"
+ },
+ {
+  "SifraKontrole": "DID-002",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.5.17",
+  "Title": "DID-002 · ISO/IEC 27001:2022 · A.5.17"
+ },
+ {
+  "SifraKontrole": "DID-002",
+  "Okvir": "ISO/IEC 27002:2022",
+  "Standard": "ISO/IEC 27002:2022",
+  "Referenca": "5.17",
+  "Title": "DID-002 · ISO/IEC 27002:2022 · 5.17"
+ },
+ {
+  "SifraKontrole": "DID-002",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "IA-2",
+  "Title": "DID-002 · NIST SP 800-53 Rev. 5 · IA-2"
+ },
+ {
+  "SifraKontrole": "DID-002",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "AC-2",
+  "Title": "DID-002 · NIST SP 800-53 Rev. 5 · AC-2"
+ },
+ {
+  "SifraKontrole": "DID-002",
+  "Okvir": "Ostalo",
+  "Standard": "CIS v8",
+  "Referenca": "5.1",
+  "Title": "DID-002 · CIS v8 · 5.1"
+ },
+ {
+  "SifraKontrole": "DID-003",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.5.16",
+  "Title": "DID-003 · ISO/IEC 27001:2022 · A.5.16"
+ },
+ {
+  "SifraKontrole": "DID-003",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.5.18",
+  "Title": "DID-003 · ISO/IEC 27001:2022 · A.5.18"
+ },
+ {
+  "SifraKontrole": "DID-003",
+  "Okvir": "ISO/IEC 27002:2022",
+  "Standard": "ISO/IEC 27002:2022",
+  "Referenca": "5.16",
+  "Title": "DID-003 · ISO/IEC 27002:2022 · 5.16"
+ },
+ {
+  "SifraKontrole": "DID-003",
+  "Okvir": "ISO/IEC 27002:2022",
+  "Standard": "ISO/IEC 27002:2022",
+  "Referenca": "5.18",
+  "Title": "DID-003 · ISO/IEC 27002:2022 · 5.18"
+ },
+ {
+  "SifraKontrole": "DID-003",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "AC-2",
+  "Title": "DID-003 · NIST SP 800-53 Rev. 5 · AC-2"
+ },
+ {
+  "SifraKontrole": "DID-003",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "PS-4",
+  "Title": "DID-003 · NIST SP 800-53 Rev. 5 · PS-4"
+ },
+ {
+  "SifraKontrole": "DID-003",
+  "Okvir": "Ostalo",
+  "Standard": "CIS v8",
+  "Referenca": "5.3, 6.2",
+  "Title": "DID-003 · CIS v8 · 5.3, 6.2"
+ },
+ {
+  "SifraKontrole": "DID-004",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.5.16",
+  "Title": "DID-004 · ISO/IEC 27001:2022 · A.5.16"
+ },
+ {
+  "SifraKontrole": "DID-004",
+  "Okvir": "ISO/IEC 27002:2022",
+  "Standard": "ISO/IEC 27002:2022",
+  "Referenca": "5.16",
+  "Title": "DID-004 · ISO/IEC 27002:2022 · 5.16"
+ },
+ {
+  "SifraKontrole": "DID-004",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "AC-2",
+  "Title": "DID-004 · NIST SP 800-53 Rev. 5 · AC-2"
+ },
+ {
+  "SifraKontrole": "DID-004",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "PS-4",
+  "Title": "DID-004 · NIST SP 800-53 Rev. 5 · PS-4"
+ },
+ {
+  "SifraKontrole": "DID-004",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "IA-4",
+  "Title": "DID-004 · NIST SP 800-53 Rev. 5 · IA-4"
+ },
+ {
+  "SifraKontrole": "DID-004",
+  "Okvir": "Ostalo",
+  "Standard": "CIS v8",
+  "Referenca": "5.6, 6.1, 6.2",
+  "Title": "DID-004 · CIS v8 · 5.6, 6.1, 6.2"
+ },
+ {
+  "SifraKontrole": "DID-005",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.5.20",
+  "Title": "DID-005 · ISO/IEC 27001:2022 · A.5.20"
+ },
+ {
+  "SifraKontrole": "DID-005",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.8.2",
+  "Title": "DID-005 · ISO/IEC 27001:2022 · A.8.2"
+ },
+ {
+  "SifraKontrole": "DID-005",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.8.3",
+  "Title": "DID-005 · ISO/IEC 27001:2022 · A.8.3"
+ },
+ {
+  "SifraKontrole": "DID-005",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.8.5",
+  "Title": "DID-005 · ISO/IEC 27001:2022 · A.8.5"
+ },
+ {
+  "SifraKontrole": "DID-005",
+  "Okvir": "ISO/IEC 27002:2022",
+  "Standard": "ISO/IEC 27002:2022",
+  "Referenca": "5.20",
+  "Title": "DID-005 · ISO/IEC 27002:2022 · 5.20"
+ },
+ {
+  "SifraKontrole": "DID-005",
+  "Okvir": "ISO/IEC 27002:2022",
+  "Standard": "ISO/IEC 27002:2022",
+  "Referenca": "8.2",
+  "Title": "DID-005 · ISO/IEC 27002:2022 · 8.2"
+ },
+ {
+  "SifraKontrole": "DID-005",
+  "Okvir": "ISO/IEC 27002:2022",
+  "Standard": "ISO/IEC 27002:2022",
+  "Referenca": "8.3",
+  "Title": "DID-005 · ISO/IEC 27002:2022 · 8.3"
+ },
+ {
+  "SifraKontrole": "DID-005",
+  "Okvir": "ISO/IEC 27002:2022",
+  "Standard": "ISO/IEC 27002:2022",
+  "Referenca": "8.5",
+  "Title": "DID-005 · ISO/IEC 27002:2022 · 8.5"
+ },
+ {
+  "SifraKontrole": "DID-005",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "AC-2",
+  "Title": "DID-005 · NIST SP 800-53 Rev. 5 · AC-2"
+ },
+ {
+  "SifraKontrole": "DID-005",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "AC-3",
+  "Title": "DID-005 · NIST SP 800-53 Rev. 5 · AC-3"
+ },
+ {
+  "SifraKontrole": "DID-005",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "AC-6",
+  "Title": "DID-005 · NIST SP 800-53 Rev. 5 · AC-6"
+ },
+ {
+  "SifraKontrole": "DID-005",
+  "Okvir": "NIST CSF v2.0",
+  "Standard": "NIST CSF v2.0",
+  "Referenca": "PR.AA-01",
+  "Title": "DID-005 · NIST CSF v2.0 · PR.AA-01"
+ },
+ {
+  "SifraKontrole": "DID-005",
+  "Okvir": "Ostalo",
+  "Standard": "ISO 22301:2019",
+  "Referenca": "8.1",
+  "Title": "DID-005 · ISO 22301:2019 · 8.1"
+ },
+ {
+  "SifraKontrole": "DID-005",
+  "Okvir": "Ostalo",
+  "Standard": "CIS v8",
+  "Referenca": "6.1, 6.2, 6.6, 6.8",
+  "Title": "DID-005 · CIS v8 · 6.1, 6.2, 6.6, 6.8"
+ },
+ {
+  "SifraKontrole": "DID-006",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.5.28",
+  "Title": "DID-006 · ISO/IEC 27001:2022 · A.5.28"
+ },
+ {
+  "SifraKontrole": "DID-006",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.8.15",
+  "Title": "DID-006 · ISO/IEC 27001:2022 · A.8.15"
+ },
+ {
+  "SifraKontrole": "DID-006",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.8.16",
+  "Title": "DID-006 · ISO/IEC 27001:2022 · A.8.16"
+ },
+ {
+  "SifraKontrole": "DID-006",
+  "Okvir": "ISO/IEC 27002:2022",
+  "Standard": "ISO/IEC 27002:2022",
+  "Referenca": "5.28",
+  "Title": "DID-006 · ISO/IEC 27002:2022 · 5.28"
+ },
+ {
+  "SifraKontrole": "DID-006",
+  "Okvir": "ISO/IEC 27002:2022",
+  "Standard": "ISO/IEC 27002:2022",
+  "Referenca": "8.15",
+  "Title": "DID-006 · ISO/IEC 27002:2022 · 8.15"
+ },
+ {
+  "SifraKontrole": "DID-006",
+  "Okvir": "ISO/IEC 27002:2022",
+  "Standard": "ISO/IEC 27002:2022",
+  "Referenca": "8.16",
+  "Title": "DID-006 · ISO/IEC 27002:2022 · 8.16"
+ },
+ {
+  "SifraKontrole": "DID-006",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "AC-2",
+  "Title": "DID-006 · NIST SP 800-53 Rev. 5 · AC-2"
+ },
+ {
+  "SifraKontrole": "DID-006",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "AC-7",
+  "Title": "DID-006 · NIST SP 800-53 Rev. 5 · AC-7"
+ },
+ {
+  "SifraKontrole": "DID-006",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "AU-2",
+  "Title": "DID-006 · NIST SP 800-53 Rev. 5 · AU-2"
+ },
+ {
+  "SifraKontrole": "DID-006",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "AU-6",
+  "Title": "DID-006 · NIST SP 800-53 Rev. 5 · AU-6"
+ },
+ {
+  "SifraKontrole": "DID-006",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "AU-12",
+  "Title": "DID-006 · NIST SP 800-53 Rev. 5 · AU-12"
+ },
+ {
+  "SifraKontrole": "DID-006",
+  "Okvir": "NIST CSF v2.0",
+  "Standard": "NIST CSF v2.0",
+  "Referenca": "DE.AE-02",
+  "Title": "DID-006 · NIST CSF v2.0 · DE.AE-02"
+ },
+ {
+  "SifraKontrole": "DID-006",
+  "Okvir": "Ostalo",
+  "Standard": "CIS v8",
+  "Referenca": "8.1, 8.2, 8.5, 8.11",
+  "Title": "DID-006 · CIS v8 · 8.1, 8.2, 8.5, 8.11"
+ },
+ {
+  "SifraKontrole": "DID-007",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.8.5",
+  "Title": "DID-007 · ISO/IEC 27001:2022 · A.8.5"
+ },
+ {
+  "SifraKontrole": "DID-007",
+  "Okvir": "ISO/IEC 27002:2022",
+  "Standard": "ISO/IEC 27002:2022",
+  "Referenca": "8.5",
+  "Title": "DID-007 · ISO/IEC 27002:2022 · 8.5"
+ },
+ {
+  "SifraKontrole": "DID-007",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "IA-2",
+  "Title": "DID-007 · NIST SP 800-53 Rev. 5 · IA-2"
+ },
+ {
+  "SifraKontrole": "DID-007",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "IA-5",
+  "Title": "DID-007 · NIST SP 800-53 Rev. 5 · IA-5"
+ },
+ {
+  "SifraKontrole": "DID-007",
+  "Okvir": "Ostalo",
+  "Standard": "CIS v8",
+  "Referenca": "6.3, 6.4, 6.5",
+  "Title": "DID-007 · CIS v8 · 6.3, 6.4, 6.5"
+ },
+ {
+  "SifraKontrole": "DID-008",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.7.1",
+  "Title": "DID-008 · ISO/IEC 27001:2022 · A.7.1"
+ },
+ {
+  "SifraKontrole": "DID-008",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.8.2",
+  "Title": "DID-008 · ISO/IEC 27001:2022 · A.8.2"
+ },
+ {
+  "SifraKontrole": "DID-008",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.8.3",
+  "Title": "DID-008 · ISO/IEC 27001:2022 · A.8.3"
+ },
+ {
+  "SifraKontrole": "DID-008",
+  "Okvir": "ISO/IEC 27002:2022",
+  "Standard": "ISO/IEC 27002:2022",
+  "Referenca": "7.1",
+  "Title": "DID-008 · ISO/IEC 27002:2022 · 7.1"
+ },
+ {
+  "SifraKontrole": "DID-008",
+  "Okvir": "ISO/IEC 27002:2022",
+  "Standard": "ISO/IEC 27002:2022",
+  "Referenca": "8.2",
+  "Title": "DID-008 · ISO/IEC 27002:2022 · 8.2"
+ },
+ {
+  "SifraKontrole": "DID-008",
+  "Okvir": "ISO/IEC 27002:2022",
+  "Standard": "ISO/IEC 27002:2022",
+  "Referenca": "8.3",
+  "Title": "DID-008 · ISO/IEC 27002:2022 · 8.3"
+ },
+ {
+  "SifraKontrole": "DID-008",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "AC-2",
+  "Title": "DID-008 · NIST SP 800-53 Rev. 5 · AC-2"
+ },
+ {
+  "SifraKontrole": "DID-008",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "AC-3",
+  "Title": "DID-008 · NIST SP 800-53 Rev. 5 · AC-3"
+ },
+ {
+  "SifraKontrole": "DID-008",
+  "Okvir": "Ostalo",
+  "Standard": "CIS v8",
+  "Referenca": "6.1",
+  "Title": "DID-008 · CIS v8 · 6.1"
+ },
+ {
+  "SifraKontrole": "DID-009",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.8.2",
+  "Title": "DID-009 · ISO/IEC 27001:2022 · A.8.2"
+ },
+ {
+  "SifraKontrole": "DID-009",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "AC-2",
+  "Title": "DID-009 · NIST SP 800-53 Rev. 5 · AC-2"
+ },
+ {
+  "SifraKontrole": "DID-010",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.8.2",
+  "Title": "DID-010 · ISO/IEC 27001:2022 · A.8.2"
+ },
+ {
+  "SifraKontrole": "DID-010",
+  "Okvir": "ISO/IEC 27002:2022",
+  "Standard": "ISO/IEC 27002:2022",
+  "Referenca": "8.2",
+  "Title": "DID-010 · ISO/IEC 27002:2022 · 8.2"
+ },
+ {
+  "SifraKontrole": "DID-010",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "AC-6",
+  "Title": "DID-010 · NIST SP 800-53 Rev. 5 · AC-6"
+ },
+ {
+  "SifraKontrole": "DID-010",
+  "Okvir": "Ostalo",
+  "Standard": "CIS v8",
+  "Referenca": "5.4, 6.5, 6.8",
+  "Title": "DID-010 · CIS v8 · 5.4, 6.5, 6.8"
+ },
+ {
+  "SifraKontrole": "DID-011",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "6.1",
+  "Title": "DID-011 · ISO/IEC 27001:2022 · 6.1"
+ },
+ {
+  "SifraKontrole": "DID-011",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.5.15",
+  "Title": "DID-011 · ISO/IEC 27001:2022 · A.5.15"
+ },
+ {
+  "SifraKontrole": "DID-011",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.5.18",
+  "Title": "DID-011 · ISO/IEC 27001:2022 · A.5.18"
+ },
+ {
+  "SifraKontrole": "DID-011",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "AC-2",
+  "Title": "DID-011 · NIST SP 800-53 Rev. 5 · AC-2"
+ },
+ {
+  "SifraKontrole": "DID-011",
+  "Okvir": "Ostalo",
+  "Standard": "CIS v8",
+  "Referenca": "10.7",
+  "Title": "DID-011 · CIS v8 · 10.7"
+ },
+ {
+  "SifraKontrole": "SKM-001",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.8.16",
+  "Title": "SKM-001 · ISO/IEC 27001:2022 · A.8.16"
+ },
+ {
+  "SifraKontrole": "SKM-001",
+  "Okvir": "ISO/IEC 27002:2022",
+  "Standard": "ISO/IEC 27002:2022",
+  "Referenca": "8.16",
+  "Title": "SKM-001 · ISO/IEC 27002:2022 · 8.16"
+ },
+ {
+  "SifraKontrole": "SKM-001",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "SI-3",
+  "Title": "SKM-001 · NIST SP 800-53 Rev. 5 · SI-3"
+ },
+ {
+  "SifraKontrole": "SKM-001",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "SI-4",
+  "Title": "SKM-001 · NIST SP 800-53 Rev. 5 · SI-4"
+ },
+ {
+  "SifraKontrole": "SKM-001",
+  "Okvir": "NIST CSF v2.0",
+  "Standard": "NIST CSF v2.0",
+  "Referenca": "Kategorija DE.CM",
+  "Title": "SKM-001 · NIST CSF v2.0 · Kategorija DE.CM"
+ },
+ {
+  "SifraKontrole": "SKM-001",
+  "Okvir": "Ostalo",
+  "Standard": "CIS v8",
+  "Referenca": "13.7, 13.8",
+  "Title": "SKM-001 · CIS v8 · 13.7, 13.8"
+ },
+ {
+  "SifraKontrole": "SKM-002",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.8.16",
+  "Title": "SKM-002 · ISO/IEC 27001:2022 · A.8.16"
+ },
+ {
+  "SifraKontrole": "SKM-002",
+  "Okvir": "ISO/IEC 27002:2022",
+  "Standard": "ISO/IEC 27002:2022",
+  "Referenca": "8.16",
+  "Title": "SKM-002 · ISO/IEC 27002:2022 · 8.16"
+ },
+ {
+  "SifraKontrole": "SKM-002",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "SI-3",
+  "Title": "SKM-002 · NIST SP 800-53 Rev. 5 · SI-3"
+ },
+ {
+  "SifraKontrole": "SKM-002",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "SI-4",
+  "Title": "SKM-002 · NIST SP 800-53 Rev. 5 · SI-4"
+ },
+ {
+  "SifraKontrole": "SKM-002",
+  "Okvir": "Ostalo",
+  "Standard": "CIS v8",
+  "Referenca": "10.1",
+  "Title": "SKM-002 · CIS v8 · 10.1"
+ },
+ {
+  "SifraKontrole": "SKM-003",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.8.8",
+  "Title": "SKM-003 · ISO/IEC 27001:2022 · A.8.8"
+ },
+ {
+  "SifraKontrole": "SKM-003",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.8.19",
+  "Title": "SKM-003 · ISO/IEC 27001:2022 · A.8.19"
+ },
+ {
+  "SifraKontrole": "SKM-003",
+  "Okvir": "ISO/IEC 27002:2022",
+  "Standard": "ISO/IEC 27002:2022",
+  "Referenca": "8.8",
+  "Title": "SKM-003 · ISO/IEC 27002:2022 · 8.8"
+ },
+ {
+  "SifraKontrole": "SKM-003",
+  "Okvir": "ISO/IEC 27002:2022",
+  "Standard": "ISO/IEC 27002:2022",
+  "Referenca": "8.19",
+  "Title": "SKM-003 · ISO/IEC 27002:2022 · 8.19"
+ },
+ {
+  "SifraKontrole": "SKM-003",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "SI-2",
+  "Title": "SKM-003 · NIST SP 800-53 Rev. 5 · SI-2"
+ },
+ {
+  "SifraKontrole": "SKM-003",
+  "Okvir": "Ostalo",
+  "Standard": "CIS v8",
+  "Referenca": "7.1, 7.2, 7.3, 7.7",
+  "Title": "SKM-003 · CIS v8 · 7.1, 7.2, 7.3, 7.7"
+ },
+ {
+  "SifraKontrole": "SKM-004",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.8.8",
+  "Title": "SKM-004 · ISO/IEC 27001:2022 · A.8.8"
+ },
+ {
+  "SifraKontrole": "SKM-004",
+  "Okvir": "ISO/IEC 27002:2022",
+  "Standard": "ISO/IEC 27002:2022",
+  "Referenca": "8.8",
+  "Title": "SKM-004 · ISO/IEC 27002:2022 · 8.8"
+ },
+ {
+  "SifraKontrole": "SKM-004",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "RA-5",
+  "Title": "SKM-004 · NIST SP 800-53 Rev. 5 · RA-5"
+ },
+ {
+  "SifraKontrole": "SKM-004",
+  "Okvir": "Ostalo",
+  "Standard": "CIS v8",
+  "Referenca": "7.1, 7.5, 7.6",
+  "Title": "SKM-004 · CIS v8 · 7.1, 7.5, 7.6"
+ },
+ {
+  "SifraKontrole": "SKM-005",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.8.8",
+  "Title": "SKM-005 · ISO/IEC 27001:2022 · A.8.8"
+ },
+ {
+  "SifraKontrole": "SKM-005",
+  "Okvir": "ISO/IEC 27002:2022",
+  "Standard": "ISO/IEC 27002:2022",
+  "Referenca": "8.8",
+  "Title": "SKM-005 · ISO/IEC 27002:2022 · 8.8"
+ },
+ {
+  "SifraKontrole": "SKM-005",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "RA-5",
+  "Title": "SKM-005 · NIST SP 800-53 Rev. 5 · RA-5"
+ },
+ {
+  "SifraKontrole": "SKM-005",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "CA-8",
+  "Title": "SKM-005 · NIST SP 800-53 Rev. 5 · CA-8"
+ },
+ {
+  "SifraKontrole": "SKM-005",
+  "Okvir": "Ostalo",
+  "Standard": "CIS v8",
+  "Referenca": "Kontrola 18",
+  "Title": "SKM-005 · CIS v8 · Kontrola 18"
+ },
+ {
+  "SifraKontrole": "SKM-006",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.8.9",
+  "Title": "SKM-006 · ISO/IEC 27001:2022 · A.8.9"
+ },
+ {
+  "SifraKontrole": "SKM-006",
+  "Okvir": "ISO/IEC 27002:2022",
+  "Standard": "ISO/IEC 27002:2022",
+  "Referenca": "8.9",
+  "Title": "SKM-006 · ISO/IEC 27002:2022 · 8.9"
+ },
+ {
+  "SifraKontrole": "SKM-006",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "CM-2",
+  "Title": "SKM-006 · NIST SP 800-53 Rev. 5 · CM-2"
+ },
+ {
+  "SifraKontrole": "SKM-006",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "CM-3",
+  "Title": "SKM-006 · NIST SP 800-53 Rev. 5 · CM-3"
+ },
+ {
+  "SifraKontrole": "SKM-006",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "CM-6",
+  "Title": "SKM-006 · NIST SP 800-53 Rev. 5 · CM-6"
+ },
+ {
+  "SifraKontrole": "SKM-006",
+  "Okvir": "Ostalo",
+  "Standard": "CIS v8",
+  "Referenca": "4.1, 4.2, 4.6",
+  "Title": "SKM-006 · CIS v8 · 4.1, 4.2, 4.6"
+ },
+ {
+  "SifraKontrole": "SKM-007",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.6.3",
+  "Title": "SKM-007 · ISO/IEC 27001:2022 · A.6.3"
+ },
+ {
+  "SifraKontrole": "SKM-007",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.8.2",
+  "Title": "SKM-007 · ISO/IEC 27001:2022 · A.8.2"
+ },
+ {
+  "SifraKontrole": "SKM-007",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.8.32",
+  "Title": "SKM-007 · ISO/IEC 27001:2022 · A.8.32"
+ },
+ {
+  "SifraKontrole": "SKM-007",
+  "Okvir": "ISO/IEC 27002:2022",
+  "Standard": "ISO/IEC 27002:2022",
+  "Referenca": "8.32",
+  "Title": "SKM-007 · ISO/IEC 27002:2022 · 8.32"
+ },
+ {
+  "SifraKontrole": "SKM-007",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "CM-3",
+  "Title": "SKM-007 · NIST SP 800-53 Rev. 5 · CM-3"
+ },
+ {
+  "SifraKontrole": "SKM-007",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "CM-4",
+  "Title": "SKM-007 · NIST SP 800-53 Rev. 5 · CM-4"
+ },
+ {
+  "SifraKontrole": "SKM-007",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "CM-5",
+  "Title": "SKM-007 · NIST SP 800-53 Rev. 5 · CM-5"
+ },
+ {
+  "SifraKontrole": "SKM-007",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "CM-9",
+  "Title": "SKM-007 · NIST SP 800-53 Rev. 5 · CM-9"
+ },
+ {
+  "SifraKontrole": "SKM-007",
+  "Okvir": "Ostalo",
+  "Standard": "CIS v8",
+  "Referenca": "4.1, 4.2",
+  "Title": "SKM-007 · CIS v8 · 4.1, 4.2"
+ },
+ {
+  "SifraKontrole": "SKM-008",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.8.16",
+  "Title": "SKM-008 · ISO/IEC 27001:2022 · A.8.16"
+ },
+ {
+  "SifraKontrole": "SKM-008",
+  "Okvir": "ISO/IEC 27002:2022",
+  "Standard": "ISO/IEC 27002:2022",
+  "Referenca": "8.16",
+  "Title": "SKM-008 · ISO/IEC 27002:2022 · 8.16"
+ },
+ {
+  "SifraKontrole": "SKM-008",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "SC-7",
+  "Title": "SKM-008 · NIST SP 800-53 Rev. 5 · SC-7"
+ },
+ {
+  "SifraKontrole": "SKM-008",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "AC-17",
+  "Title": "SKM-008 · NIST SP 800-53 Rev. 5 · AC-17"
+ },
+ {
+  "SifraKontrole": "SRZ-001",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.8.25",
+  "Title": "SRZ-001 · ISO/IEC 27001:2022 · A.8.25"
+ },
+ {
+  "SifraKontrole": "SRZ-001",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.8.26",
+  "Title": "SRZ-001 · ISO/IEC 27001:2022 · A.8.26"
+ },
+ {
+  "SifraKontrole": "SRZ-001",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.8.27",
+  "Title": "SRZ-001 · ISO/IEC 27001:2022 · A.8.27"
+ },
+ {
+  "SifraKontrole": "SRZ-001",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.8.29",
+  "Title": "SRZ-001 · ISO/IEC 27001:2022 · A.8.29"
+ },
+ {
+  "SifraKontrole": "SRZ-001",
+  "Okvir": "ISO/IEC 27002:2022",
+  "Standard": "ISO/IEC 27002:2022",
+  "Referenca": "8.25",
+  "Title": "SRZ-001 · ISO/IEC 27002:2022 · 8.25"
+ },
+ {
+  "SifraKontrole": "SRZ-001",
+  "Okvir": "ISO/IEC 27002:2022",
+  "Standard": "ISO/IEC 27002:2022",
+  "Referenca": "8.26",
+  "Title": "SRZ-001 · ISO/IEC 27002:2022 · 8.26"
+ },
+ {
+  "SifraKontrole": "SRZ-001",
+  "Okvir": "ISO/IEC 27002:2022",
+  "Standard": "ISO/IEC 27002:2022",
+  "Referenca": "8.27",
+  "Title": "SRZ-001 · ISO/IEC 27002:2022 · 8.27"
+ },
+ {
+  "SifraKontrole": "SRZ-001",
+  "Okvir": "ISO/IEC 27002:2022",
+  "Standard": "ISO/IEC 27002:2022",
+  "Referenca": "8.29",
+  "Title": "SRZ-001 · ISO/IEC 27002:2022 · 8.29"
+ },
+ {
+  "SifraKontrole": "SRZ-001",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "SA-11",
+  "Title": "SRZ-001 · NIST SP 800-53 Rev. 5 · SA-11"
+ },
+ {
+  "SifraKontrole": "SRZ-001",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "RA-5",
+  "Title": "SRZ-001 · NIST SP 800-53 Rev. 5 · RA-5"
+ },
+ {
+  "SifraKontrole": "SRZ-001",
+  "Okvir": "NIST CSF v2.0",
+  "Standard": "NIST CSF v2.0",
+  "Referenca": "ID.RA-01",
+  "Title": "SRZ-001 · NIST CSF v2.0 · ID.RA-01"
+ },
+ {
+  "SifraKontrole": "SRZ-001",
+  "Okvir": "Ostalo",
+  "Standard": "CIS v8",
+  "Referenca": "16.1, 16.2, 16.3, 16.6, 16.10, 16.12, 16.13",
+  "Title": "SRZ-001 · CIS v8 · 16.1, 16.2, 16.3, 16.6, 16.10, 16.12, 16.13"
+ },
+ {
+  "SifraKontrole": "SRZ-001",
+  "Okvir": "Ostalo",
+  "Standard": "OWASP ASVS 4.0.3",
+  "Referenca": "V1",
+  "Title": "SRZ-001 · OWASP ASVS 4.0.3 · V1"
+ },
+ {
+  "SifraKontrole": "SRZ-002",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "6.3",
+  "Title": "SRZ-002 · ISO/IEC 27001:2022 · 6.3"
+ },
+ {
+  "SifraKontrole": "SRZ-002",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.8.25",
+  "Title": "SRZ-002 · ISO/IEC 27001:2022 · A.8.25"
+ },
+ {
+  "SifraKontrole": "SRZ-002",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.8.26",
+  "Title": "SRZ-002 · ISO/IEC 27001:2022 · A.8.26"
+ },
+ {
+  "SifraKontrole": "SRZ-002",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.8.32",
+  "Title": "SRZ-002 · ISO/IEC 27001:2022 · A.8.32"
+ },
+ {
+  "SifraKontrole": "SRZ-002",
+  "Okvir": "ISO/IEC 27002:2022",
+  "Standard": "ISO/IEC 27002:2022",
+  "Referenca": "8.25",
+  "Title": "SRZ-002 · ISO/IEC 27002:2022 · 8.25"
+ },
+ {
+  "SifraKontrole": "SRZ-002",
+  "Okvir": "ISO/IEC 27002:2022",
+  "Standard": "ISO/IEC 27002:2022",
+  "Referenca": "8.26",
+  "Title": "SRZ-002 · ISO/IEC 27002:2022 · 8.26"
+ },
+ {
+  "SifraKontrole": "SRZ-002",
+  "Okvir": "ISO/IEC 27002:2022",
+  "Standard": "ISO/IEC 27002:2022",
+  "Referenca": "8.32",
+  "Title": "SRZ-002 · ISO/IEC 27002:2022 · 8.32"
+ },
+ {
+  "SifraKontrole": "SRZ-002",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "SA-11",
+  "Title": "SRZ-002 · NIST SP 800-53 Rev. 5 · SA-11"
+ },
+ {
+  "SifraKontrole": "SRZ-002",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "SA-15",
+  "Title": "SRZ-002 · NIST SP 800-53 Rev. 5 · SA-15"
+ },
+ {
+  "SifraKontrole": "SRZ-002",
+  "Okvir": "Ostalo",
+  "Standard": "CIS v8",
+  "Referenca": "16.1, 16.10, 16.12",
+  "Title": "SRZ-002 · CIS v8 · 16.1, 16.10, 16.12"
+ },
+ {
+  "SifraKontrole": "SRZ-003",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.8.25",
+  "Title": "SRZ-003 · ISO/IEC 27001:2022 · A.8.25"
+ },
+ {
+  "SifraKontrole": "SRZ-003",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.8.26",
+  "Title": "SRZ-003 · ISO/IEC 27001:2022 · A.8.26"
+ },
+ {
+  "SifraKontrole": "SRZ-003",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.8.27",
+  "Title": "SRZ-003 · ISO/IEC 27001:2022 · A.8.27"
+ },
+ {
+  "SifraKontrole": "SRZ-003",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.8.28",
+  "Title": "SRZ-003 · ISO/IEC 27001:2022 · A.8.28"
+ },
+ {
+  "SifraKontrole": "SRZ-003",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.8.29",
+  "Title": "SRZ-003 · ISO/IEC 27001:2022 · A.8.29"
+ },
+ {
+  "SifraKontrole": "SRZ-003",
+  "Okvir": "ISO/IEC 27002:2022",
+  "Standard": "ISO/IEC 27002:2022",
+  "Referenca": "8.25",
+  "Title": "SRZ-003 · ISO/IEC 27002:2022 · 8.25"
+ },
+ {
+  "SifraKontrole": "SRZ-003",
+  "Okvir": "ISO/IEC 27002:2022",
+  "Standard": "ISO/IEC 27002:2022",
+  "Referenca": "8.26",
+  "Title": "SRZ-003 · ISO/IEC 27002:2022 · 8.26"
+ },
+ {
+  "SifraKontrole": "SRZ-003",
+  "Okvir": "ISO/IEC 27002:2022",
+  "Standard": "ISO/IEC 27002:2022",
+  "Referenca": "8.27",
+  "Title": "SRZ-003 · ISO/IEC 27002:2022 · 8.27"
+ },
+ {
+  "SifraKontrole": "SRZ-003",
+  "Okvir": "ISO/IEC 27002:2022",
+  "Standard": "ISO/IEC 27002:2022",
+  "Referenca": "8.28",
+  "Title": "SRZ-003 · ISO/IEC 27002:2022 · 8.28"
+ },
+ {
+  "SifraKontrole": "SRZ-003",
+  "Okvir": "ISO/IEC 27002:2022",
+  "Standard": "ISO/IEC 27002:2022",
+  "Referenca": "8.29",
+  "Title": "SRZ-003 · ISO/IEC 27002:2022 · 8.29"
+ },
+ {
+  "SifraKontrole": "SRZ-003",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "SA-3",
+  "Title": "SRZ-003 · NIST SP 800-53 Rev. 5 · SA-3"
+ },
+ {
+  "SifraKontrole": "SRZ-003",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "SA-8",
+  "Title": "SRZ-003 · NIST SP 800-53 Rev. 5 · SA-8"
+ },
+ {
+  "SifraKontrole": "SRZ-003",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "SA-11",
+  "Title": "SRZ-003 · NIST SP 800-53 Rev. 5 · SA-11"
+ },
+ {
+  "SifraKontrole": "SRZ-003",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "SA-15",
+  "Title": "SRZ-003 · NIST SP 800-53 Rev. 5 · SA-15"
+ },
+ {
+  "SifraKontrole": "SRZ-003",
+  "Okvir": "Ostalo",
+  "Standard": "CIS v8",
+  "Referenca": "16.1, 16.2, 16.3, 16.7, 16.10, 16.12, 16.13",
+  "Title": "SRZ-003 · CIS v8 · 16.1, 16.2, 16.3, 16.7, 16.10, 16.12, 16.13"
+ },
+ {
+  "SifraKontrole": "KRIP-001",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.8.24",
+  "Title": "KRIP-001 · ISO/IEC 27001:2022 · A.8.24"
+ },
+ {
+  "SifraKontrole": "KRIP-001",
+  "Okvir": "ISO/IEC 27002:2022",
+  "Standard": "ISO/IEC 27002:2022",
+  "Referenca": "8.24",
+  "Title": "KRIP-001 · ISO/IEC 27002:2022 · 8.24"
+ },
+ {
+  "SifraKontrole": "KRIP-001",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "SC-12",
+  "Title": "KRIP-001 · NIST SP 800-53 Rev. 5 · SC-12"
+ },
+ {
+  "SifraKontrole": "KRIP-001",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "SC-13",
+  "Title": "KRIP-001 · NIST SP 800-53 Rev. 5 · SC-13"
+ },
+ {
+  "SifraKontrole": "KRIP-001",
+  "Okvir": "NIST CSF v2.0",
+  "Standard": "NIST CSF v2.0",
+  "Referenca": "PR.DS-01",
+  "Title": "KRIP-001 · NIST CSF v2.0 · PR.DS-01"
+ },
+ {
+  "SifraKontrole": "KRIP-001",
+  "Okvir": "NIST CSF v2.0",
+  "Standard": "NIST CSF v2.0",
+  "Referenca": "PR.DS-02",
+  "Title": "KRIP-001 · NIST CSF v2.0 · PR.DS-02"
+ },
+ {
+  "SifraKontrole": "KRIP-001",
+  "Okvir": "NIST CSF v2.0",
+  "Standard": "NIST CSF v2.0",
+  "Referenca": "PR.DS-10",
+  "Title": "KRIP-001 · NIST CSF v2.0 · PR.DS-10"
+ },
+ {
+  "SifraKontrole": "KRIP-001",
+  "Okvir": "NIST CSF v2.0",
+  "Standard": "NIST CSF v2.0",
+  "Referenca": "PR.DS-11",
+  "Title": "KRIP-001 · NIST CSF v2.0 · PR.DS-11"
+ },
+ {
+  "SifraKontrole": "KRIP-002",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.8.24",
+  "Title": "KRIP-002 · ISO/IEC 27001:2022 · A.8.24"
+ },
+ {
+  "SifraKontrole": "KRIP-002",
+  "Okvir": "ISO/IEC 27002:2022",
+  "Standard": "ISO/IEC 27002:2022",
+  "Referenca": "8.24",
+  "Title": "KRIP-002 · ISO/IEC 27002:2022 · 8.24"
+ },
+ {
+  "SifraKontrole": "KRIP-002",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "SC-13",
+  "Title": "KRIP-002 · NIST SP 800-53 Rev. 5 · SC-13"
+ },
+ {
+  "SifraKontrole": "KRIP-002",
+  "Okvir": "NIST CSF v2.0",
+  "Standard": "NIST CSF v2.0",
+  "Referenca": "PR.DS-02",
+  "Title": "KRIP-002 · NIST CSF v2.0 · PR.DS-02"
+ },
+ {
+  "SifraKontrole": "KRIP-002",
+  "Okvir": "Ostalo",
+  "Standard": "CIS v8",
+  "Referenca": "3.10",
+  "Title": "KRIP-002 · CIS v8 · 3.10"
+ },
+ {
+  "SifraKontrole": "KRIP-003",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.8.24",
+  "Title": "KRIP-003 · ISO/IEC 27001:2022 · A.8.24"
+ },
+ {
+  "SifraKontrole": "KRIP-003",
+  "Okvir": "ISO/IEC 27002:2022",
+  "Standard": "ISO/IEC 27002:2022",
+  "Referenca": "8.24",
+  "Title": "KRIP-003 · ISO/IEC 27002:2022 · 8.24"
+ },
+ {
+  "SifraKontrole": "KRIP-003",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "SC-12",
+  "Title": "KRIP-003 · NIST SP 800-53 Rev. 5 · SC-12"
+ },
+ {
+  "SifraKontrole": "KRIP-004",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.8.24",
+  "Title": "KRIP-004 · ISO/IEC 27001:2022 · A.8.24"
+ },
+ {
+  "SifraKontrole": "KRIP-004",
+  "Okvir": "ISO/IEC 27002:2022",
+  "Standard": "ISO/IEC 27002:2022",
+  "Referenca": "8.24",
+  "Title": "KRIP-004 · ISO/IEC 27002:2022 · 8.24"
+ },
+ {
+  "SifraKontrole": "KRIP-004",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "SC-13",
+  "Title": "KRIP-004 · NIST SP 800-53 Rev. 5 · SC-13"
+ },
+ {
+  "SifraKontrole": "KRIP-004",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "SC-28",
+  "Title": "KRIP-004 · NIST SP 800-53 Rev. 5 · SC-28"
+ },
+ {
+  "SifraKontrole": "KRIP-004",
+  "Okvir": "NIST CSF v2.0",
+  "Standard": "NIST CSF v2.0",
+  "Referenca": "PR.DS-01",
+  "Title": "KRIP-004 · NIST CSF v2.0 · PR.DS-01"
+ },
+ {
+  "SifraKontrole": "KRIP-004",
+  "Okvir": "Ostalo",
+  "Standard": "CIS v8",
+  "Referenca": "3.11",
+  "Title": "KRIP-004 · CIS v8 · 3.11"
+ },
+ {
+  "SifraKontrole": "KRIP-005",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.8.24",
+  "Title": "KRIP-005 · ISO/IEC 27001:2022 · A.8.24"
+ },
+ {
+  "SifraKontrole": "KRIP-005",
+  "Okvir": "ISO/IEC 27002:2022",
+  "Standard": "ISO/IEC 27002:2022",
+  "Referenca": "8.24",
+  "Title": "KRIP-005 · ISO/IEC 27002:2022 · 8.24"
+ },
+ {
+  "SifraKontrole": "KRIP-005",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "SC-13",
+  "Title": "KRIP-005 · NIST SP 800-53 Rev. 5 · SC-13"
+ },
+ {
+  "SifraKontrole": "FIZ-001",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.7.1",
+  "Title": "FIZ-001 · ISO/IEC 27001:2022 · A.7.1"
+ },
+ {
+  "SifraKontrole": "FIZ-001",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.7.2",
+  "Title": "FIZ-001 · ISO/IEC 27001:2022 · A.7.2"
+ },
+ {
+  "SifraKontrole": "FIZ-001",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.7.4",
+  "Title": "FIZ-001 · ISO/IEC 27001:2022 · A.7.4"
+ },
+ {
+  "SifraKontrole": "FIZ-001",
+  "Okvir": "ISO/IEC 27002:2022",
+  "Standard": "ISO/IEC 27002:2022",
+  "Referenca": "7.1",
+  "Title": "FIZ-001 · ISO/IEC 27002:2022 · 7.1"
+ },
+ {
+  "SifraKontrole": "FIZ-001",
+  "Okvir": "ISO/IEC 27002:2022",
+  "Standard": "ISO/IEC 27002:2022",
+  "Referenca": "7.2",
+  "Title": "FIZ-001 · ISO/IEC 27002:2022 · 7.2"
+ },
+ {
+  "SifraKontrole": "FIZ-001",
+  "Okvir": "ISO/IEC 27002:2022",
+  "Standard": "ISO/IEC 27002:2022",
+  "Referenca": "7.4",
+  "Title": "FIZ-001 · ISO/IEC 27002:2022 · 7.4"
+ },
+ {
+  "SifraKontrole": "FIZ-001",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "PE-2",
+  "Title": "FIZ-001 · NIST SP 800-53 Rev. 5 · PE-2"
+ },
+ {
+  "SifraKontrole": "FIZ-001",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "PE-3",
+  "Title": "FIZ-001 · NIST SP 800-53 Rev. 5 · PE-3"
+ },
+ {
+  "SifraKontrole": "FIZ-001",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "PE-6",
+  "Title": "FIZ-001 · NIST SP 800-53 Rev. 5 · PE-6"
+ },
+ {
+  "SifraKontrole": "FIZ-002",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "6.1",
+  "Title": "FIZ-002 · ISO/IEC 27001:2022 · 6.1"
+ },
+ {
+  "SifraKontrole": "FIZ-002",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "7.5",
+  "Title": "FIZ-002 · ISO/IEC 27001:2022 · 7.5"
+ },
+ {
+  "SifraKontrole": "FIZ-002",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "9.1",
+  "Title": "FIZ-002 · ISO/IEC 27001:2022 · 9.1"
+ },
+ {
+  "SifraKontrole": "FIZ-002",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "9.2",
+  "Title": "FIZ-002 · ISO/IEC 27001:2022 · 9.2"
+ },
+ {
+  "SifraKontrole": "FIZ-002",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "PE-1",
+  "Title": "FIZ-002 · NIST SP 800-53 Rev. 5 · PE-1"
+ },
+ {
+  "SifraKontrole": "FIZ-002",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "PE-3",
+  "Title": "FIZ-002 · NIST SP 800-53 Rev. 5 · PE-3"
+ },
+ {
+  "SifraKontrole": "FIZ-002",
+  "Okvir": "Ostalo",
+  "Standard": "ISO 22301:2019",
+  "Referenca": "6.1, 7.5, 9.1, 9.2",
+  "Title": "FIZ-002 · ISO 22301:2019 · 6.1, 7.5, 9.1, 9.2"
+ },
+ {
+  "SifraKontrole": "FIZ-003",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "7.5",
+  "Title": "FIZ-003 · ISO/IEC 27001:2022 · 7.5"
+ },
+ {
+  "SifraKontrole": "FIZ-003",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.7.2",
+  "Title": "FIZ-003 · ISO/IEC 27001:2022 · A.7.2"
+ },
+ {
+  "SifraKontrole": "FIZ-003",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.7.4",
+  "Title": "FIZ-003 · ISO/IEC 27001:2022 · A.7.4"
+ },
+ {
+  "SifraKontrole": "FIZ-003",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.8.15",
+  "Title": "FIZ-003 · ISO/IEC 27001:2022 · A.8.15"
+ },
+ {
+  "SifraKontrole": "FIZ-003",
+  "Okvir": "ISO/IEC 27002:2022",
+  "Standard": "ISO/IEC 27002:2022",
+  "Referenca": "7.2",
+  "Title": "FIZ-003 · ISO/IEC 27002:2022 · 7.2"
+ },
+ {
+  "SifraKontrole": "FIZ-003",
+  "Okvir": "ISO/IEC 27002:2022",
+  "Standard": "ISO/IEC 27002:2022",
+  "Referenca": "7.4",
+  "Title": "FIZ-003 · ISO/IEC 27002:2022 · 7.4"
+ },
+ {
+  "SifraKontrole": "FIZ-003",
+  "Okvir": "ISO/IEC 27002:2022",
+  "Standard": "ISO/IEC 27002:2022",
+  "Referenca": "8.15",
+  "Title": "FIZ-003 · ISO/IEC 27002:2022 · 8.15"
+ },
+ {
+  "SifraKontrole": "FIZ-003",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "PE-3",
+  "Title": "FIZ-003 · NIST SP 800-53 Rev. 5 · PE-3"
+ },
+ {
+  "SifraKontrole": "FIZ-003",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "PE-6",
+  "Title": "FIZ-003 · NIST SP 800-53 Rev. 5 · PE-6"
+ },
+ {
+  "SifraKontrole": "FIZ-003",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "PE-8",
+  "Title": "FIZ-003 · NIST SP 800-53 Rev. 5 · PE-8"
+ },
+ {
+  "SifraKontrole": "FIZ-004",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.7.3",
+  "Title": "FIZ-004 · ISO/IEC 27001:2022 · A.7.3"
+ },
+ {
+  "SifraKontrole": "FIZ-004",
+  "Okvir": "ISO/IEC 27001:2022",
+  "Standard": "ISO/IEC 27001:2022",
+  "Referenca": "A.7.4",
+  "Title": "FIZ-004 · ISO/IEC 27001:2022 · A.7.4"
+ },
+ {
+  "SifraKontrole": "FIZ-004",
+  "Okvir": "ISO/IEC 27002:2022",
+  "Standard": "ISO/IEC 27002:2022",
+  "Referenca": "7.3",
+  "Title": "FIZ-004 · ISO/IEC 27002:2022 · 7.3"
+ },
+ {
+  "SifraKontrole": "FIZ-004",
+  "Okvir": "ISO/IEC 27002:2022",
+  "Standard": "ISO/IEC 27002:2022",
+  "Referenca": "7.4",
+  "Title": "FIZ-004 · ISO/IEC 27002:2022 · 7.4"
+ },
+ {
+  "SifraKontrole": "FIZ-004",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "PE-3",
+  "Title": "FIZ-004 · NIST SP 800-53 Rev. 5 · PE-3"
+ },
+ {
+  "SifraKontrole": "FIZ-004",
+  "Okvir": "NIST SP 800-53 Rev. 5",
+  "Standard": "NIST SP 800-53 Rev. 5",
+  "Referenca": "PE-6",
+  "Title": "FIZ-004 · NIST SP 800-53 Rev. 5 · PE-6"
+ },
+ {
+  "SifraKontrole": "FIZ-004",
+  "Okvir": "NIST CSF v2.0",
+  "Standard": "NIST CSF v2.0",
+  "Referenca": "DE.CM-02",
+  "Title": "FIZ-004 · NIST CSF v2.0 · DE.CM-02"
+ }
+]

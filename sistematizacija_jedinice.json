@@ -1,0 +1,1978 @@
+[
+  {
+    "sifra": "1",
+    "naziv": "KABINET MINISTRA",
+    "nadredena": "",
+    "razina": 1,
+    "glavna_uprava_sifra": "1",
+    "glavna_uprava": "KABINET MINISTRA"
+  },
+  {
+    "sifra": "2",
+    "naziv": "SAMOSTALNA SLUŽBA ZA UNUTARNJU REVIZIJU",
+    "nadredena": "",
+    "razina": 1,
+    "glavna_uprava_sifra": "2",
+    "glavna_uprava": "SAMOSTALNA SLUŽBA ZA UNUTARNJU REVIZIJU"
+  },
+  {
+    "sifra": "3",
+    "naziv": "SAMOSTALNI SEKTOR ZA NADZOR, ŽALBE I ZASTUPANJE",
+    "nadredena": "",
+    "razina": 1,
+    "glavna_uprava_sifra": "3",
+    "glavna_uprava": "SAMOSTALNI SEKTOR ZA NADZOR, ŽALBE I ZASTUPANJE"
+  },
+  {
+    "sifra": "3.1",
+    "naziv": "Služba za nadzor tijela jedinice lokalne i područne (regionalne) samouprave",
+    "nadredena": "3",
+    "razina": 2,
+    "glavna_uprava_sifra": "3",
+    "glavna_uprava": "SAMOSTALNI SEKTOR ZA NADZOR, ŽALBE I ZASTUPANJE"
+  },
+  {
+    "sifra": "3.2",
+    "naziv": "Služba za nadzor javnopravnih tijela i kontrolu postupaka obnove",
+    "nadredena": "3",
+    "razina": 2,
+    "glavna_uprava_sifra": "3",
+    "glavna_uprava": "SAMOSTALNI SEKTOR ZA NADZOR, ŽALBE I ZASTUPANJE"
+  },
+  {
+    "sifra": "3.3",
+    "naziv": "Služba za štete",
+    "nadredena": "3",
+    "razina": 2,
+    "glavna_uprava_sifra": "3",
+    "glavna_uprava": "SAMOSTALNI SEKTOR ZA NADZOR, ŽALBE I ZASTUPANJE"
+  },
+  {
+    "sifra": "3.4",
+    "naziv": "Služba za žalbe i zastupanje iz područja graditeljstva",
+    "nadredena": "3",
+    "razina": 2,
+    "glavna_uprava_sifra": "3",
+    "glavna_uprava": "SAMOSTALNI SEKTOR ZA NADZOR, ŽALBE I ZASTUPANJE"
+  },
+  {
+    "sifra": "3.5",
+    "naziv": "Služba za žalbe i zastupanje iz područja prostornoga uređenja",
+    "nadredena": "3",
+    "razina": 2,
+    "glavna_uprava_sifra": "3",
+    "glavna_uprava": "SAMOSTALNI SEKTOR ZA NADZOR, ŽALBE I ZASTUPANJE"
+  },
+  {
+    "sifra": "3.6",
+    "naziv": "Služba za žalbe i zastupanje iz područja ozakonjenja, komunalnog gospodarstva i stanovanja",
+    "nadredena": "3",
+    "razina": 2,
+    "glavna_uprava_sifra": "3",
+    "glavna_uprava": "SAMOSTALNI SEKTOR ZA NADZOR, ŽALBE I ZASTUPANJE"
+  },
+  {
+    "sifra": "4",
+    "naziv": "GLAVNO TAJNIŠTVO MINISTARSTVA",
+    "nadredena": "",
+    "razina": 1,
+    "glavna_uprava_sifra": "4",
+    "glavna_uprava": "GLAVNO TAJNIŠTVO MINISTARSTVA"
+  },
+  {
+    "sifra": "4.1",
+    "naziv": "Sektor za pravne poslove",
+    "nadredena": "4",
+    "razina": 2,
+    "glavna_uprava_sifra": "4",
+    "glavna_uprava": "GLAVNO TAJNIŠTVO MINISTARSTVA"
+  },
+  {
+    "sifra": "4.1.1",
+    "naziv": "Služba za opće pravne poslove",
+    "nadredena": "4.1",
+    "razina": 3,
+    "glavna_uprava_sifra": "4",
+    "glavna_uprava": "GLAVNO TAJNIŠTVO MINISTARSTVA"
+  },
+  {
+    "sifra": "4.1.2",
+    "naziv": "Služba za normativne poslove",
+    "nadredena": "4.1",
+    "razina": 3,
+    "glavna_uprava_sifra": "4",
+    "glavna_uprava": "GLAVNO TAJNIŠTVO MINISTARSTVA"
+  },
+  {
+    "sifra": "4.2",
+    "naziv": "Sektor za ljudske potencijale",
+    "nadredena": "4",
+    "razina": 2,
+    "glavna_uprava_sifra": "4",
+    "glavna_uprava": "GLAVNO TAJNIŠTVO MINISTARSTVA"
+  },
+  {
+    "sifra": "4.2.1",
+    "naziv": "Služba za službeničke odnose",
+    "nadredena": "4.2",
+    "razina": 3,
+    "glavna_uprava_sifra": "4",
+    "glavna_uprava": "GLAVNO TAJNIŠTVO MINISTARSTVA"
+  },
+  {
+    "sifra": "4.2.2",
+    "naziv": "Služba za razvoj ljudskih potencijala",
+    "nadredena": "4.2",
+    "razina": 3,
+    "glavna_uprava_sifra": "4",
+    "glavna_uprava": "GLAVNO TAJNIŠTVO MINISTARSTVA"
+  },
+  {
+    "sifra": "4.3",
+    "naziv": "Sektor za opće poslove i uredsko poslovanje",
+    "nadredena": "4",
+    "razina": 2,
+    "glavna_uprava_sifra": "4",
+    "glavna_uprava": "GLAVNO TAJNIŠTVO MINISTARSTVA"
+  },
+  {
+    "sifra": "4.3.1",
+    "naziv": "Služba za opće i tehničke poslove",
+    "nadredena": "4.3",
+    "razina": 3,
+    "glavna_uprava_sifra": "4",
+    "glavna_uprava": "GLAVNO TAJNIŠTVO MINISTARSTVA"
+  },
+  {
+    "sifra": "4.3.1.1",
+    "naziv": "Odjel za vozni park",
+    "nadredena": "4.3.1",
+    "razina": 4,
+    "glavna_uprava_sifra": "4",
+    "glavna_uprava": "GLAVNO TAJNIŠTVO MINISTARSTVA"
+  },
+  {
+    "sifra": "4.3.1.2",
+    "naziv": "Odjel za opće poslove i održavanje nekretnina",
+    "nadredena": "4.3.1",
+    "razina": 4,
+    "glavna_uprava_sifra": "4",
+    "glavna_uprava": "GLAVNO TAJNIŠTVO MINISTARSTVA"
+  },
+  {
+    "sifra": "4.3.2",
+    "naziv": "Služba za uredsko poslovanje",
+    "nadredena": "4.3",
+    "razina": 3,
+    "glavna_uprava_sifra": "4",
+    "glavna_uprava": "GLAVNO TAJNIŠTVO MINISTARSTVA"
+  },
+  {
+    "sifra": "4.3.2.1",
+    "naziv": "Odjel pisarnice",
+    "nadredena": "4.3.2",
+    "razina": 4,
+    "glavna_uprava_sifra": "4",
+    "glavna_uprava": "GLAVNO TAJNIŠTVO MINISTARSTVA"
+  },
+  {
+    "sifra": "4.3.2.2",
+    "naziv": "Odjel pismohrane",
+    "nadredena": "4.3.2",
+    "razina": 4,
+    "glavna_uprava_sifra": "4",
+    "glavna_uprava": "GLAVNO TAJNIŠTVO MINISTARSTVA"
+  },
+  {
+    "sifra": "4.4",
+    "naziv": "Sektor za informatiku i telekomunikacije",
+    "nadredena": "4",
+    "razina": 2,
+    "glavna_uprava_sifra": "4",
+    "glavna_uprava": "GLAVNO TAJNIŠTVO MINISTARSTVA"
+  },
+  {
+    "sifra": "4.4.1",
+    "naziv": "Služba za aplikativnu podršku",
+    "nadredena": "4.4",
+    "razina": 3,
+    "glavna_uprava_sifra": "4",
+    "glavna_uprava": "GLAVNO TAJNIŠTVO MINISTARSTVA"
+  },
+  {
+    "sifra": "4.4.2",
+    "naziv": "Služba za IKT infrastrukturu i podršku korisnicima",
+    "nadredena": "4.4",
+    "razina": 3,
+    "glavna_uprava_sifra": "4",
+    "glavna_uprava": "GLAVNO TAJNIŠTVO MINISTARSTVA"
+  },
+  {
+    "sifra": "4.5",
+    "naziv": "Sektor za odnose s javnošću, informiranje i protokol",
+    "nadredena": "4",
+    "razina": 2,
+    "glavna_uprava_sifra": "4",
+    "glavna_uprava": "GLAVNO TAJNIŠTVO MINISTARSTVA"
+  },
+  {
+    "sifra": "4.5.1",
+    "naziv": "Služba za odnose s javnošću i informiranje",
+    "nadredena": "4.5",
+    "razina": 3,
+    "glavna_uprava_sifra": "4",
+    "glavna_uprava": "GLAVNO TAJNIŠTVO MINISTARSTVA"
+  },
+  {
+    "sifra": "4.5.1.1",
+    "naziv": "Odjel za odnose s medijima i internetsko informiranje",
+    "nadredena": "4.5.1",
+    "razina": 4,
+    "glavna_uprava_sifra": "4",
+    "glavna_uprava": "GLAVNO TAJNIŠTVO MINISTARSTVA"
+  },
+  {
+    "sifra": "4.5.1.2",
+    "naziv": "Odjel za pitanja građana",
+    "nadredena": "4.5.1",
+    "razina": 4,
+    "glavna_uprava_sifra": "4",
+    "glavna_uprava": "GLAVNO TAJNIŠTVO MINISTARSTVA"
+  },
+  {
+    "sifra": "4.5.2",
+    "naziv": "Služba za protokol",
+    "nadredena": "4.5",
+    "razina": 3,
+    "glavna_uprava_sifra": "4",
+    "glavna_uprava": "GLAVNO TAJNIŠTVO MINISTARSTVA"
+  },
+  {
+    "sifra": "5",
+    "naziv": "UPRAVA ZA FINANCIJE, JAVNU NABAVU I IMOVINU ODUZETU U KAZNENIM POSTUPCIMA",
+    "nadredena": "",
+    "razina": 1,
+    "glavna_uprava_sifra": "5",
+    "glavna_uprava": "UPRAVA ZA FINANCIJE, JAVNU NABAVU I IMOVINU ODUZETU U KAZNENIM POSTUPCIMA"
+  },
+  {
+    "sifra": "5.1",
+    "naziv": "Sektor za financije i proračun",
+    "nadredena": "5",
+    "razina": 2,
+    "glavna_uprava_sifra": "5",
+    "glavna_uprava": "UPRAVA ZA FINANCIJE, JAVNU NABAVU I IMOVINU ODUZETU U KAZNENIM POSTUPCIMA"
+  },
+  {
+    "sifra": "5.1.1",
+    "naziv": "Služba za pripremu i izvršenje proračuna",
+    "nadredena": "5.1",
+    "razina": 3,
+    "glavna_uprava_sifra": "5",
+    "glavna_uprava": "UPRAVA ZA FINANCIJE, JAVNU NABAVU I IMOVINU ODUZETU U KAZNENIM POSTUPCIMA"
+  },
+  {
+    "sifra": "5.1.1.1",
+    "naziv": "Odjel za praćenje proračunskih prihoda i naplatu potraživanja",
+    "nadredena": "5.1.1",
+    "razina": 4,
+    "glavna_uprava_sifra": "5",
+    "glavna_uprava": "UPRAVA ZA FINANCIJE, JAVNU NABAVU I IMOVINU ODUZETU U KAZNENIM POSTUPCIMA"
+  },
+  {
+    "sifra": "5.1.1.2",
+    "naziv": "Odjel za planiranje i analizu proračuna",
+    "nadredena": "5.1.1",
+    "razina": 4,
+    "glavna_uprava_sifra": "5",
+    "glavna_uprava": "UPRAVA ZA FINANCIJE, JAVNU NABAVU I IMOVINU ODUZETU U KAZNENIM POSTUPCIMA"
+  },
+  {
+    "sifra": "5.1.1.3",
+    "naziv": "Odjel za izvršavanje proračuna i izvještavanje",
+    "nadredena": "5.1.1",
+    "razina": 4,
+    "glavna_uprava_sifra": "5",
+    "glavna_uprava": "UPRAVA ZA FINANCIJE, JAVNU NABAVU I IMOVINU ODUZETU U KAZNENIM POSTUPCIMA"
+  },
+  {
+    "sifra": "5.1.2",
+    "naziv": "Služba za isplate sudionika u građevinarstvu",
+    "nadredena": "5.1",
+    "razina": 3,
+    "glavna_uprava_sifra": "5",
+    "glavna_uprava": "UPRAVA ZA FINANCIJE, JAVNU NABAVU I IMOVINU ODUZETU U KAZNENIM POSTUPCIMA"
+  },
+  {
+    "sifra": "5.1.2.1",
+    "naziv": "Odjel za plaćanja prema ugovorima u građevinarstvu",
+    "nadredena": "5.1.2",
+    "razina": 4,
+    "glavna_uprava_sifra": "5",
+    "glavna_uprava": "UPRAVA ZA FINANCIJE, JAVNU NABAVU I IMOVINU ODUZETU U KAZNENIM POSTUPCIMA"
+  },
+  {
+    "sifra": "5.1.2.2",
+    "naziv": "Odjel za isplate novčanih pomoći",
+    "nadredena": "5.1.2",
+    "razina": 4,
+    "glavna_uprava_sifra": "5",
+    "glavna_uprava": "UPRAVA ZA FINANCIJE, JAVNU NABAVU I IMOVINU ODUZETU U KAZNENIM POSTUPCIMA"
+  },
+  {
+    "sifra": "5.1.3",
+    "naziv": "Služba za financijsko upravljanje i kontrole",
+    "nadredena": "5.1",
+    "razina": 3,
+    "glavna_uprava_sifra": "5",
+    "glavna_uprava": "UPRAVA ZA FINANCIJE, JAVNU NABAVU I IMOVINU ODUZETU U KAZNENIM POSTUPCIMA"
+  },
+  {
+    "sifra": "5.2",
+    "naziv": "Sektor za računovodstvene poslove",
+    "nadredena": "5",
+    "razina": 2,
+    "glavna_uprava_sifra": "5",
+    "glavna_uprava": "UPRAVA ZA FINANCIJE, JAVNU NABAVU I IMOVINU ODUZETU U KAZNENIM POSTUPCIMA"
+  },
+  {
+    "sifra": "5.2.1",
+    "naziv": "Služba za knjigovodstveno i financijsko izvještavanje i obračun plaće",
+    "nadredena": "5.2",
+    "razina": 3,
+    "glavna_uprava_sifra": "5",
+    "glavna_uprava": "UPRAVA ZA FINANCIJE, JAVNU NABAVU I IMOVINU ODUZETU U KAZNENIM POSTUPCIMA"
+  },
+  {
+    "sifra": "5.2.2",
+    "naziv": "Služba za likvidaturu i plaćanje računa",
+    "nadredena": "5.2",
+    "razina": 3,
+    "glavna_uprava_sifra": "5",
+    "glavna_uprava": "UPRAVA ZA FINANCIJE, JAVNU NABAVU I IMOVINU ODUZETU U KAZNENIM POSTUPCIMA"
+  },
+  {
+    "sifra": "5.2.2.1",
+    "naziv": "Odjel za formalnu i suštinsku kontrolu računa",
+    "nadredena": "5.2.2",
+    "razina": 4,
+    "glavna_uprava_sifra": "5",
+    "glavna_uprava": "UPRAVA ZA FINANCIJE, JAVNU NABAVU I IMOVINU ODUZETU U KAZNENIM POSTUPCIMA"
+  },
+  {
+    "sifra": "5.2.2.2",
+    "naziv": "Odjel za likvidaturu i salda konti",
+    "nadredena": "5.2.2",
+    "razina": 4,
+    "glavna_uprava_sifra": "5",
+    "glavna_uprava": "UPRAVA ZA FINANCIJE, JAVNU NABAVU I IMOVINU ODUZETU U KAZNENIM POSTUPCIMA"
+  },
+  {
+    "sifra": "5.3",
+    "naziv": "Sektor za imovinu oduzetu u kaznenim postupcma",
+    "nadredena": "5",
+    "razina": 2,
+    "glavna_uprava_sifra": "5",
+    "glavna_uprava": "UPRAVA ZA FINANCIJE, JAVNU NABAVU I IMOVINU ODUZETU U KAZNENIM POSTUPCIMA"
+  },
+  {
+    "sifra": "5.3.1",
+    "naziv": "Služba za evidenciju i izvještavanje",
+    "nadredena": "5.3",
+    "razina": 3,
+    "glavna_uprava_sifra": "5",
+    "glavna_uprava": "UPRAVA ZA FINANCIJE, JAVNU NABAVU I IMOVINU ODUZETU U KAZNENIM POSTUPCIMA"
+  },
+  {
+    "sifra": "5.3.2",
+    "naziv": "Služba za raspolaganje oduzetom imovinom",
+    "nadredena": "5.3",
+    "razina": 3,
+    "glavna_uprava_sifra": "5",
+    "glavna_uprava": "UPRAVA ZA FINANCIJE, JAVNU NABAVU I IMOVINU ODUZETU U KAZNENIM POSTUPCIMA"
+  },
+  {
+    "sifra": "5.4",
+    "naziv": "Sektor za javnu nabavu",
+    "nadredena": "5",
+    "razina": 2,
+    "glavna_uprava_sifra": "5",
+    "glavna_uprava": "UPRAVA ZA FINANCIJE, JAVNU NABAVU I IMOVINU ODUZETU U KAZNENIM POSTUPCIMA"
+  },
+  {
+    "sifra": "5.4.1",
+    "naziv": "Služba za planiranje i pripremu postupaka javne nabave",
+    "nadredena": "5.4",
+    "razina": 3,
+    "glavna_uprava_sifra": "5",
+    "glavna_uprava": "UPRAVA ZA FINANCIJE, JAVNU NABAVU I IMOVINU ODUZETU U KAZNENIM POSTUPCIMA"
+  },
+  {
+    "sifra": "5.4.2",
+    "naziv": "Služba za provedbu postupaka javne nabave",
+    "nadredena": "5.4",
+    "razina": 3,
+    "glavna_uprava_sifra": "5",
+    "glavna_uprava": "UPRAVA ZA FINANCIJE, JAVNU NABAVU I IMOVINU ODUZETU U KAZNENIM POSTUPCIMA"
+  },
+  {
+    "sifra": "5.5",
+    "naziv": "Sektor za provedbu postupaka nabave u obnovi",
+    "nadredena": "5",
+    "razina": 2,
+    "glavna_uprava_sifra": "5",
+    "glavna_uprava": "UPRAVA ZA FINANCIJE, JAVNU NABAVU I IMOVINU ODUZETU U KAZNENIM POSTUPCIMA"
+  },
+  {
+    "sifra": "5.5.1",
+    "naziv": "Služba za pripremu dokumentacije za javnu nabavu u obnovi",
+    "nadredena": "5.5",
+    "razina": 3,
+    "glavna_uprava_sifra": "5",
+    "glavna_uprava": "UPRAVA ZA FINANCIJE, JAVNU NABAVU I IMOVINU ODUZETU U KAZNENIM POSTUPCIMA"
+  },
+  {
+    "sifra": "5.5.2",
+    "naziv": "Služba za provođenje javne nabave u obnovi",
+    "nadredena": "5.5",
+    "razina": 3,
+    "glavna_uprava_sifra": "5",
+    "glavna_uprava": "UPRAVA ZA FINANCIJE, JAVNU NABAVU I IMOVINU ODUZETU U KAZNENIM POSTUPCIMA"
+  },
+  {
+    "sifra": "5.5.3",
+    "naziv": "Služba za ugovaranje u postupcima obnove",
+    "nadredena": "5.5",
+    "razina": 3,
+    "glavna_uprava_sifra": "5",
+    "glavna_uprava": "UPRAVA ZA FINANCIJE, JAVNU NABAVU I IMOVINU ODUZETU U KAZNENIM POSTUPCIMA"
+  },
+  {
+    "sifra": "6",
+    "naziv": "UPRAVA ZA PROSTORNO UREĐENJE",
+    "nadredena": "",
+    "razina": 1,
+    "glavna_uprava_sifra": "6",
+    "glavna_uprava": "UPRAVA ZA PROSTORNO UREĐENJE"
+  },
+  {
+    "sifra": "6.1",
+    "naziv": "Sektor za prostorno uređenje",
+    "nadredena": "6",
+    "razina": 2,
+    "glavna_uprava_sifra": "6",
+    "glavna_uprava": "UPRAVA ZA PROSTORNO UREĐENJE"
+  },
+  {
+    "sifra": "6.1.1",
+    "naziv": "Služba za prostorne planove državne razine i dokumente prostornoga uređenja",
+    "nadredena": "6.1",
+    "razina": 3,
+    "glavna_uprava_sifra": "6",
+    "glavna_uprava": "UPRAVA ZA PROSTORNO UREĐENJE"
+  },
+  {
+    "sifra": "6.1.2",
+    "naziv": "Služba za prostorne planove regionalne i lokalne razine",
+    "nadredena": "6.1",
+    "razina": 3,
+    "glavna_uprava_sifra": "6",
+    "glavna_uprava": "UPRAVA ZA PROSTORNO UREĐENJE"
+  },
+  {
+    "sifra": "6.1.3",
+    "naziv": "Služba za digitalizaciju prostornih planova, primjenu i obnovu seizmičkih podataka",
+    "nadredena": "6.1",
+    "razina": 3,
+    "glavna_uprava_sifra": "6",
+    "glavna_uprava": "UPRAVA ZA PROSTORNO UREĐENJE"
+  },
+  {
+    "sifra": "6.2",
+    "naziv": "Sektor lokacijskih dozvola i strateških projekata",
+    "nadredena": "6",
+    "razina": 2,
+    "glavna_uprava_sifra": "6",
+    "glavna_uprava": "UPRAVA ZA PROSTORNO UREĐENJE"
+  },
+  {
+    "sifra": "6.2.1",
+    "naziv": "Služba lokacijskih dozvola",
+    "nadredena": "6.2",
+    "razina": 3,
+    "glavna_uprava_sifra": "6",
+    "glavna_uprava": "UPRAVA ZA PROSTORNO UREĐENJE"
+  },
+  {
+    "sifra": "6.2.2",
+    "naziv": "Služba strateških projekata",
+    "nadredena": "6.2",
+    "razina": 3,
+    "glavna_uprava_sifra": "6",
+    "glavna_uprava": "UPRAVA ZA PROSTORNO UREĐENJE"
+  },
+  {
+    "sifra": "6.3",
+    "naziv": "Sektor za investicije i digitalizaciju investicijskih procesa",
+    "nadredena": "6",
+    "razina": 2,
+    "glavna_uprava_sifra": "6",
+    "glavna_uprava": "UPRAVA ZA PROSTORNO UREĐENJE"
+  },
+  {
+    "sifra": "6.3.1",
+    "naziv": "Služba za investicije",
+    "nadredena": "6.3",
+    "razina": 3,
+    "glavna_uprava_sifra": "6",
+    "glavna_uprava": "UPRAVA ZA PROSTORNO UREĐENJE"
+  },
+  {
+    "sifra": "6.3.2",
+    "naziv": "Služba za digitalizaciju investicijskih procesa",
+    "nadredena": "6.3",
+    "razina": 3,
+    "glavna_uprava_sifra": "6",
+    "glavna_uprava": "UPRAVA ZA PROSTORNO UREĐENJE"
+  },
+  {
+    "sifra": "7",
+    "naziv": "UPRAVA ZA GRADITELJSTVO",
+    "nadredena": "",
+    "razina": 1,
+    "glavna_uprava_sifra": "7",
+    "glavna_uprava": "UPRAVA ZA GRADITELJSTVO"
+  },
+  {
+    "sifra": "7.1",
+    "naziv": "Sektor građevinskih i uporabnih dozvola",
+    "nadredena": "7",
+    "razina": 2,
+    "glavna_uprava_sifra": "7",
+    "glavna_uprava": "UPRAVA ZA GRADITELJSTVO"
+  },
+  {
+    "sifra": "7.1.1",
+    "naziv": "Služba za izdavanje građevinskih dozvola",
+    "nadredena": "7.1",
+    "razina": 3,
+    "glavna_uprava_sifra": "7",
+    "glavna_uprava": "UPRAVA ZA GRADITELJSTVO"
+  },
+  {
+    "sifra": "7.1.1.1",
+    "naziv": "Odjel za građevine državnog značaja",
+    "nadredena": "7.1.1",
+    "razina": 4,
+    "glavna_uprava_sifra": "7",
+    "glavna_uprava": "UPRAVA ZA GRADITELJSTVO"
+  },
+  {
+    "sifra": "7.1.1.2",
+    "naziv": "Odjel za strateške i posebne projekte",
+    "nadredena": "7.1.1",
+    "razina": 4,
+    "glavna_uprava_sifra": "7",
+    "glavna_uprava": "UPRAVA ZA GRADITELJSTVO"
+  },
+  {
+    "sifra": "7.1.2",
+    "naziv": "Služba za obnovu i nacionalne kritične infrastrukture",
+    "nadredena": "7.1",
+    "razina": 3,
+    "glavna_uprava_sifra": "7",
+    "glavna_uprava": "UPRAVA ZA GRADITELJSTVO"
+  },
+  {
+    "sifra": "7.1.3",
+    "naziv": "Služba za tipske projekte i ostale akte",
+    "nadredena": "7.1",
+    "razina": 3,
+    "glavna_uprava_sifra": "7",
+    "glavna_uprava": "UPRAVA ZA GRADITELJSTVO"
+  },
+  {
+    "sifra": "7.1.4",
+    "naziv": "Služba za izdavanje uporabnih dozvola",
+    "nadredena": "7.1",
+    "razina": 3,
+    "glavna_uprava_sifra": "7",
+    "glavna_uprava": "UPRAVA ZA GRADITELJSTVO"
+  },
+  {
+    "sifra": "7.2",
+    "naziv": "Sektor za graditeljstvo",
+    "nadredena": "7",
+    "razina": 2,
+    "glavna_uprava_sifra": "7",
+    "glavna_uprava": "UPRAVA ZA GRADITELJSTVO"
+  },
+  {
+    "sifra": "7.2.1",
+    "naziv": "Služba za građevno-tehničku regulativu",
+    "nadredena": "7.2",
+    "razina": 3,
+    "glavna_uprava_sifra": "7",
+    "glavna_uprava": "UPRAVA ZA GRADITELJSTVO"
+  },
+  {
+    "sifra": "7.2.2",
+    "naziv": "Služba za građevne proizvode",
+    "nadredena": "7.2",
+    "razina": 3,
+    "glavna_uprava_sifra": "7",
+    "glavna_uprava": "UPRAVA ZA GRADITELJSTVO"
+  },
+  {
+    "sifra": "8",
+    "naziv": "ZAVOD ZA PROSTORNI RAZVOJ",
+    "nadredena": "",
+    "razina": 1,
+    "glavna_uprava_sifra": "8",
+    "glavna_uprava": "ZAVOD ZA PROSTORNI RAZVOJ"
+  },
+  {
+    "sifra": "8.1",
+    "naziv": "Sektor za dokumente prostornoga uređenja državne razine",
+    "nadredena": "8",
+    "razina": 2,
+    "glavna_uprava_sifra": "8",
+    "glavna_uprava": "ZAVOD ZA PROSTORNI RAZVOJ"
+  },
+  {
+    "sifra": "8.1.1",
+    "naziv": "Služba za Strategiju prostornoga razvoja Republike Hrvatske i druge dokumente prostornoga uređenja državne razine",
+    "nadredena": "8.1",
+    "razina": 3,
+    "glavna_uprava_sifra": "8",
+    "glavna_uprava": "ZAVOD ZA PROSTORNI RAZVOJ"
+  },
+  {
+    "sifra": "8.1.2",
+    "naziv": "Služba za prostorne planove zaštićenih područja posebnih obilježja državne razine",
+    "nadredena": "8.1",
+    "razina": 3,
+    "glavna_uprava_sifra": "8",
+    "glavna_uprava": "ZAVOD ZA PROSTORNI RAZVOJ"
+  },
+  {
+    "sifra": "8.1.3",
+    "naziv": "Služba za urbanističke planove uređenja državnog značaja",
+    "nadredena": "8.1",
+    "razina": 3,
+    "glavna_uprava_sifra": "8",
+    "glavna_uprava": "ZAVOD ZA PROSTORNI RAZVOJ"
+  },
+  {
+    "sifra": "8.2",
+    "naziv": "Sektor za prostorna istraživanja, održivi prostorni razvoj i praćenje stanja u prostoru",
+    "nadredena": "8",
+    "razina": 2,
+    "glavna_uprava_sifra": "8",
+    "glavna_uprava": "ZAVOD ZA PROSTORNI RAZVOJ"
+  },
+  {
+    "sifra": "8.2.1",
+    "naziv": "Služba za održivi prostorni razvoj i međunarodnu suradnju",
+    "nadredena": "8.2",
+    "razina": 3,
+    "glavna_uprava_sifra": "8",
+    "glavna_uprava": "ZAVOD ZA PROSTORNI RAZVOJ"
+  },
+  {
+    "sifra": "8.2.2",
+    "naziv": "Služba za prostorna istraživanja, praćenje stanja u prostoru i izvješćivanje",
+    "nadredena": "8.2",
+    "razina": 3,
+    "glavna_uprava_sifra": "8",
+    "glavna_uprava": "ZAVOD ZA PROSTORNI RAZVOJ"
+  },
+  {
+    "sifra": "8.3",
+    "naziv": "Sektor za prostorne podatke, kartografiku i geoinformatičku podršku",
+    "nadredena": "8",
+    "razina": 2,
+    "glavna_uprava_sifra": "8",
+    "glavna_uprava": "ZAVOD ZA PROSTORNI RAZVOJ"
+  },
+  {
+    "sifra": "8.3.1",
+    "naziv": "Služba za prostorne podatke",
+    "nadredena": "8.3",
+    "razina": 3,
+    "glavna_uprava_sifra": "8",
+    "glavna_uprava": "ZAVOD ZA PROSTORNI RAZVOJ"
+  },
+  {
+    "sifra": "8.3.2",
+    "naziv": "Služba za kartografiku i geoinformatičku podršku",
+    "nadredena": "8.3",
+    "razina": 3,
+    "glavna_uprava_sifra": "8",
+    "glavna_uprava": "ZAVOD ZA PROSTORNI RAZVOJ"
+  },
+  {
+    "sifra": "9",
+    "naziv": "UPRAVA ZA ENERGETSKU UČINKOVITOST U ZGRADARSTVU, PROJEKTE I PROGRAME EUROPSKE UNIJE",
+    "nadredena": "",
+    "razina": 1,
+    "glavna_uprava_sifra": "9",
+    "glavna_uprava": "UPRAVA ZA ENERGETSKU UČINKOVITOST U ZGRADARSTVU, PROJEKTE I PROGRAME EUROPSKE UNIJE"
+  },
+  {
+    "sifra": "9.1",
+    "naziv": "Sektor za energetsku učinkovitost u zgradarstvu",
+    "nadredena": "9",
+    "razina": 2,
+    "glavna_uprava_sifra": "9",
+    "glavna_uprava": "UPRAVA ZA ENERGETSKU UČINKOVITOST U ZGRADARSTVU, PROJEKTE I PROGRAME EUROPSKE UNIJE"
+  },
+  {
+    "sifra": "9.1.1",
+    "naziv": "Služba za strateške dokumente i programe energetske obnove zgrada",
+    "nadredena": "9.1",
+    "razina": 3,
+    "glavna_uprava_sifra": "9",
+    "glavna_uprava": "UPRAVA ZA ENERGETSKU UČINKOVITOST U ZGRADARSTVU, PROJEKTE I PROGRAME EUROPSKE UNIJE"
+  },
+  {
+    "sifra": "9.1.1.1",
+    "naziv": "Odjel za pripremu i praćenje programa energetske obnove zgrada",
+    "nadredena": "9.1.1",
+    "razina": 4,
+    "glavna_uprava_sifra": "9",
+    "glavna_uprava": "UPRAVA ZA ENERGETSKU UČINKOVITOST U ZGRADARSTVU, PROJEKTE I PROGRAME EUROPSKE UNIJE"
+  },
+  {
+    "sifra": "9.1.1.2",
+    "naziv": "Odjel za izradu strateških dokumenata i projekte",
+    "nadredena": "9.1.1",
+    "razina": 4,
+    "glavna_uprava_sifra": "9",
+    "glavna_uprava": "UPRAVA ZA ENERGETSKU UČINKOVITOST U ZGRADARSTVU, PROJEKTE I PROGRAME EUROPSKE UNIJE"
+  },
+  {
+    "sifra": "9.1.2",
+    "naziv": "Služba za informacijski sustav i regulativu",
+    "nadredena": "9.1",
+    "razina": 3,
+    "glavna_uprava_sifra": "9",
+    "glavna_uprava": "UPRAVA ZA ENERGETSKU UČINKOVITOST U ZGRADARSTVU, PROJEKTE I PROGRAME EUROPSKE UNIJE"
+  },
+  {
+    "sifra": "9.1.2.1",
+    "naziv": "Odjel za IEC, baze i registre",
+    "nadredena": "9.1.2",
+    "razina": 4,
+    "glavna_uprava_sifra": "9",
+    "glavna_uprava": "UPRAVA ZA ENERGETSKU UČINKOVITOST U ZGRADARSTVU, PROJEKTE I PROGRAME EUROPSKE UNIJE"
+  },
+  {
+    "sifra": "9.1.2.2",
+    "naziv": "Odjel za regulativu i usklađenje s EU",
+    "nadredena": "9.1.2",
+    "razina": 4,
+    "glavna_uprava_sifra": "9",
+    "glavna_uprava": "UPRAVA ZA ENERGETSKU UČINKOVITOST U ZGRADARSTVU, PROJEKTE I PROGRAME EUROPSKE UNIJE"
+  },
+  {
+    "sifra": "9.2",
+    "naziv": "Sektor za zelenu urbanu infrastrukturu i kružno gospodarenje prostorom i zgradama",
+    "nadredena": "9",
+    "razina": 2,
+    "glavna_uprava_sifra": "9",
+    "glavna_uprava": "UPRAVA ZA ENERGETSKU UČINKOVITOST U ZGRADARSTVU, PROJEKTE I PROGRAME EUROPSKE UNIJE"
+  },
+  {
+    "sifra": "9.2.1",
+    "naziv": "Služba za programiranje, zelenu urbanu infrastruktru i kružno gospodarenje prostorom i zgradama",
+    "nadredena": "9.2",
+    "razina": 3,
+    "glavna_uprava_sifra": "9",
+    "glavna_uprava": "UPRAVA ZA ENERGETSKU UČINKOVITOST U ZGRADARSTVU, PROJEKTE I PROGRAME EUROPSKE UNIJE"
+  },
+  {
+    "sifra": "9.2.1.1",
+    "naziv": "Odjel za zelenu urbanu infrastrukturu, kružno gospodarenje prostorom i zgradama i horizontalne aktivnosti",
+    "nadredena": "9.2.1",
+    "razina": 4,
+    "glavna_uprava_sifra": "9",
+    "glavna_uprava": "UPRAVA ZA ENERGETSKU UČINKOVITOST U ZGRADARSTVU, PROJEKTE I PROGRAME EUROPSKE UNIJE"
+  },
+  {
+    "sifra": "9.2.1.2",
+    "naziv": "Odjel za programiranje i praćenje",
+    "nadredena": "9.2.1",
+    "razina": 4,
+    "glavna_uprava_sifra": "9",
+    "glavna_uprava": "UPRAVA ZA ENERGETSKU UČINKOVITOST U ZGRADARSTVU, PROJEKTE I PROGRAME EUROPSKE UNIJE"
+  },
+  {
+    "sifra": "9.2.2",
+    "naziv": "Služba za provođenje poziva i provedbu programa teritorijalne suradnje, komunikaciju i vidljivost",
+    "nadredena": "9.2",
+    "razina": 3,
+    "glavna_uprava_sifra": "9",
+    "glavna_uprava": "UPRAVA ZA ENERGETSKU UČINKOVITOST U ZGRADARSTVU, PROJEKTE I PROGRAME EUROPSKE UNIJE"
+  },
+  {
+    "sifra": "9.2.2.1",
+    "naziv": "Odjel za pripremu poziva, ugovaranje i provedbu programa teritorijalne suradnje",
+    "nadredena": "9.2.2",
+    "razina": 4,
+    "glavna_uprava_sifra": "9",
+    "glavna_uprava": "UPRAVA ZA ENERGETSKU UČINKOVITOST U ZGRADARSTVU, PROJEKTE I PROGRAME EUROPSKE UNIJE"
+  },
+  {
+    "sifra": "9.2.2.2",
+    "naziv": "Odjel za provođenje projekata, komunikaciju i vidljivost",
+    "nadredena": "9.2.2",
+    "razina": 4,
+    "glavna_uprava_sifra": "9",
+    "glavna_uprava": "UPRAVA ZA ENERGETSKU UČINKOVITOST U ZGRADARSTVU, PROJEKTE I PROGRAME EUROPSKE UNIJE"
+  },
+  {
+    "sifra": "9.3",
+    "naziv": "Sektor za projekte Europske unije energetske obnove javnih i višestambenih zgrada",
+    "nadredena": "9",
+    "razina": 2,
+    "glavna_uprava_sifra": "9",
+    "glavna_uprava": "UPRAVA ZA ENERGETSKU UČINKOVITOST U ZGRADARSTVU, PROJEKTE I PROGRAME EUROPSKE UNIJE"
+  },
+  {
+    "sifra": "9.3.1",
+    "naziv": "Služba za projekte Europske unije energetske obnove javnih zgrada",
+    "nadredena": "9.3",
+    "razina": 3,
+    "glavna_uprava_sifra": "9",
+    "glavna_uprava": "UPRAVA ZA ENERGETSKU UČINKOVITOST U ZGRADARSTVU, PROJEKTE I PROGRAME EUROPSKE UNIJE"
+  },
+  {
+    "sifra": "9.3.1.1",
+    "naziv": "Odjel za pripremu poziva i ugovaranje projekata Europske unije energetske obnove javnih zgrada",
+    "nadredena": "9.3.1",
+    "razina": 4,
+    "glavna_uprava_sifra": "9",
+    "glavna_uprava": "UPRAVA ZA ENERGETSKU UČINKOVITOST U ZGRADARSTVU, PROJEKTE I PROGRAME EUROPSKE UNIJE"
+  },
+  {
+    "sifra": "9.3.1.2",
+    "naziv": "Odjel za provedbu projekata Europske unije energetske obnove javnih zgrada",
+    "nadredena": "9.3.1",
+    "razina": 4,
+    "glavna_uprava_sifra": "9",
+    "glavna_uprava": "UPRAVA ZA ENERGETSKU UČINKOVITOST U ZGRADARSTVU, PROJEKTE I PROGRAME EUROPSKE UNIJE"
+  },
+  {
+    "sifra": "9.3.2",
+    "naziv": "Služba za projekte Europske unije energetske obnove višestambenih zgrada",
+    "nadredena": "9.3",
+    "razina": 3,
+    "glavna_uprava_sifra": "9",
+    "glavna_uprava": "UPRAVA ZA ENERGETSKU UČINKOVITOST U ZGRADARSTVU, PROJEKTE I PROGRAME EUROPSKE UNIJE"
+  },
+  {
+    "sifra": "9.3.2.1",
+    "naziv": "Odjel za pripremu poziva i ugovaranje projekata Europske unije energetske obnove višestambenih zgrada",
+    "nadredena": "9.3.2",
+    "razina": 4,
+    "glavna_uprava_sifra": "9",
+    "glavna_uprava": "UPRAVA ZA ENERGETSKU UČINKOVITOST U ZGRADARSTVU, PROJEKTE I PROGRAME EUROPSKE UNIJE"
+  },
+  {
+    "sifra": "9.3.2.2",
+    "naziv": "Odjel za provedbu projekata Europske unije energetske obnove višestambenih zgrada",
+    "nadredena": "9.3.2",
+    "razina": 4,
+    "glavna_uprava_sifra": "9",
+    "glavna_uprava": "UPRAVA ZA ENERGETSKU UČINKOVITOST U ZGRADARSTVU, PROJEKTE I PROGRAME EUROPSKE UNIJE"
+  },
+  {
+    "sifra": "9.3.3",
+    "naziv": "Služba za prognoziranje, praćenje i horizontalne aktivnosti",
+    "nadredena": "9.3",
+    "razina": 3,
+    "glavna_uprava_sifra": "9",
+    "glavna_uprava": "UPRAVA ZA ENERGETSKU UČINKOVITOST U ZGRADARSTVU, PROJEKTE I PROGRAME EUROPSKE UNIJE"
+  },
+  {
+    "sifra": "9.4",
+    "naziv": "Sektor za koordinaciju Nacionalnog plana oporavka i otpornosti i programa Europske unije",
+    "nadredena": "9",
+    "razina": 2,
+    "glavna_uprava_sifra": "9",
+    "glavna_uprava": "UPRAVA ZA ENERGETSKU UČINKOVITOST U ZGRADARSTVU, PROJEKTE I PROGRAME EUROPSKE UNIJE"
+  },
+  {
+    "sifra": "9.4.1",
+    "naziv": "Služba za upravljanje i praćenje provedbe programa Europske unije",
+    "nadredena": "9.4",
+    "razina": 3,
+    "glavna_uprava_sifra": "9",
+    "glavna_uprava": "UPRAVA ZA ENERGETSKU UČINKOVITOST U ZGRADARSTVU, PROJEKTE I PROGRAME EUROPSKE UNIJE"
+  },
+  {
+    "sifra": "9.4.2",
+    "naziv": "Služba za koordinaciju provedbe aktivnosti i vidljivost Nacionalnog plana oporavka i otpornosti",
+    "nadredena": "9.4",
+    "razina": 3,
+    "glavna_uprava_sifra": "9",
+    "glavna_uprava": "UPRAVA ZA ENERGETSKU UČINKOVITOST U ZGRADARSTVU, PROJEKTE I PROGRAME EUROPSKE UNIJE"
+  },
+  {
+    "sifra": "9.4.2.1",
+    "naziv": "Odjel za koordinaciju i izvještavanje",
+    "nadredena": "9.4.2",
+    "razina": 4,
+    "glavna_uprava_sifra": "9",
+    "glavna_uprava": "UPRAVA ZA ENERGETSKU UČINKOVITOST U ZGRADARSTVU, PROJEKTE I PROGRAME EUROPSKE UNIJE"
+  },
+  {
+    "sifra": "9.4.2.2",
+    "naziv": "Odjel za informiranje, komunikaciju i vidljivost Nacionalnog plana oporavka i otpornosti",
+    "nadredena": "9.4.2",
+    "razina": 4,
+    "glavna_uprava_sifra": "9",
+    "glavna_uprava": "UPRAVA ZA ENERGETSKU UČINKOVITOST U ZGRADARSTVU, PROJEKTE I PROGRAME EUROPSKE UNIJE"
+  },
+  {
+    "sifra": "9.4.3",
+    "naziv": "Služba za rješavanje prigovora i upravljanje nepravilnostima Nacionalnog plana oporavka i otpornosti",
+    "nadredena": "9.4",
+    "razina": 3,
+    "glavna_uprava_sifra": "9",
+    "glavna_uprava": "UPRAVA ZA ENERGETSKU UČINKOVITOST U ZGRADARSTVU, PROJEKTE I PROGRAME EUROPSKE UNIJE"
+  },
+  {
+    "sifra": "9.4.4",
+    "naziv": "Služba za zastupanje i pravne poslove programa Europske unije",
+    "nadredena": "9.4",
+    "razina": 3,
+    "glavna_uprava_sifra": "9",
+    "glavna_uprava": "UPRAVA ZA ENERGETSKU UČINKOVITOST U ZGRADARSTVU, PROJEKTE I PROGRAME EUROPSKE UNIJE"
+  },
+  {
+    "sifra": "10",
+    "naziv": "UPRAVA ZA RAZVOJ INFORMACIJSKIH SUSTAVA I DIGITALIZACIJU",
+    "nadredena": "",
+    "razina": 1,
+    "glavna_uprava_sifra": "10",
+    "glavna_uprava": "UPRAVA ZA RAZVOJ INFORMACIJSKIH SUSTAVA I DIGITALIZACIJU"
+  },
+  {
+    "sifra": "10.1",
+    "naziv": "Sektor za razvoj informacijskog sustava prostornoga uređenja i državne imovine",
+    "nadredena": "10",
+    "razina": 2,
+    "glavna_uprava_sifra": "10",
+    "glavna_uprava": "UPRAVA ZA RAZVOJ INFORMACIJSKIH SUSTAVA I DIGITALIZACIJU"
+  },
+  {
+    "sifra": "10.1.1",
+    "naziv": "Služba za razvoj aplikacija",
+    "nadredena": "10.1",
+    "razina": 3,
+    "glavna_uprava_sifra": "10",
+    "glavna_uprava": "UPRAVA ZA RAZVOJ INFORMACIJSKIH SUSTAVA I DIGITALIZACIJU"
+  },
+  {
+    "sifra": "10.1.2",
+    "naziv": "Služba za registre i digitalnu arhivu",
+    "nadredena": "10.1",
+    "razina": 3,
+    "glavna_uprava_sifra": "10",
+    "glavna_uprava": "UPRAVA ZA RAZVOJ INFORMACIJSKIH SUSTAVA I DIGITALIZACIJU"
+  },
+  {
+    "sifra": "10.1.3",
+    "naziv": "Služba za praćenje rada, edukaciju korisnika sustava i analitiku",
+    "nadredena": "10.1",
+    "razina": 3,
+    "glavna_uprava_sifra": "10",
+    "glavna_uprava": "UPRAVA ZA RAZVOJ INFORMACIJSKIH SUSTAVA I DIGITALIZACIJU"
+  },
+  {
+    "sifra": "10.1.4",
+    "naziv": "Služba za praćenje stanja u prostoru i upravljanje sustavom digitalnih režima",
+    "nadredena": "10.1",
+    "razina": 3,
+    "glavna_uprava_sifra": "10",
+    "glavna_uprava": "UPRAVA ZA RAZVOJ INFORMACIJSKIH SUSTAVA I DIGITALIZACIJU"
+  },
+  {
+    "sifra": "10.2",
+    "naziv": "Sektor za EU projekte digitalizacije",
+    "nadredena": "10",
+    "razina": 2,
+    "glavna_uprava_sifra": "10",
+    "glavna_uprava": "UPRAVA ZA RAZVOJ INFORMACIJSKIH SUSTAVA I DIGITALIZACIJU"
+  },
+  {
+    "sifra": "10.2.1",
+    "naziv": "Služba za pripremu EU projekata digitalizacije",
+    "nadredena": "10.2",
+    "razina": 3,
+    "glavna_uprava_sifra": "10",
+    "glavna_uprava": "UPRAVA ZA RAZVOJ INFORMACIJSKIH SUSTAVA I DIGITALIZACIJU"
+  },
+  {
+    "sifra": "10.2.2",
+    "naziv": "Služba za provedbu i ugovaranje EU projekata digitalizacije",
+    "nadredena": "10.2",
+    "razina": 3,
+    "glavna_uprava_sifra": "10",
+    "glavna_uprava": "UPRAVA ZA RAZVOJ INFORMACIJSKIH SUSTAVA I DIGITALIZACIJU"
+  },
+  {
+    "sifra": "10.2.3",
+    "naziv": "Služba za praćenje provedbe EU projekata digitalizacije i izvještavanje",
+    "nadredena": "10.2",
+    "razina": 3,
+    "glavna_uprava_sifra": "10",
+    "glavna_uprava": "UPRAVA ZA RAZVOJ INFORMACIJSKIH SUSTAVA I DIGITALIZACIJU"
+  },
+  {
+    "sifra": "11",
+    "naziv": "UPRAVA ZA PRAVNE POSLOVE U OBNOVI",
+    "nadredena": "",
+    "razina": 1,
+    "glavna_uprava_sifra": "11",
+    "glavna_uprava": "UPRAVA ZA PRAVNE POSLOVE U OBNOVI"
+  },
+  {
+    "sifra": "11.1",
+    "naziv": "Sektor za obnovu i gradnju zgrada",
+    "nadredena": "11",
+    "razina": 2,
+    "glavna_uprava_sifra": "11",
+    "glavna_uprava": "UPRAVA ZA PRAVNE POSLOVE U OBNOVI"
+  },
+  {
+    "sifra": "11.1.1",
+    "naziv": "Služba za organiziranu obnovu",
+    "nadredena": "11.1",
+    "razina": 3,
+    "glavna_uprava_sifra": "11",
+    "glavna_uprava": "UPRAVA ZA PRAVNE POSLOVE U OBNOVI"
+  },
+  {
+    "sifra": "11.1.1.1",
+    "naziv": "Odjel za organiziranu obnovu obiteljskih kuća",
+    "nadredena": "11.1.1",
+    "razina": 4,
+    "glavna_uprava_sifra": "11",
+    "glavna_uprava": "UPRAVA ZA PRAVNE POSLOVE U OBNOVI"
+  },
+  {
+    "sifra": "11.1.1.2",
+    "naziv": "Odjel za organiziranu obnovu višestambenih i stambeno-poslovnih zgrada",
+    "nadredena": "11.1.1",
+    "razina": 4,
+    "glavna_uprava_sifra": "11",
+    "glavna_uprava": "UPRAVA ZA PRAVNE POSLOVE U OBNOVI"
+  },
+  {
+    "sifra": "11.1.1.3",
+    "naziv": "Odjel za organiziranu obnovu poslovnih zgrada",
+    "nadredena": "11.1.1",
+    "razina": 4,
+    "glavna_uprava_sifra": "11",
+    "glavna_uprava": "UPRAVA ZA PRAVNE POSLOVE U OBNOVI"
+  },
+  {
+    "sifra": "11.1.2",
+    "naziv": "Služba za novčanu pomoć umjesto gradnje zamjenske obiteljske kuće za kupnju kuće ili stana",
+    "nadredena": "11.1",
+    "razina": 3,
+    "glavna_uprava_sifra": "11",
+    "glavna_uprava": "UPRAVA ZA PRAVNE POSLOVE U OBNOVI"
+  },
+  {
+    "sifra": "11.1.3",
+    "naziv": "Služba za uklanjanje zgrada i gradnju zamjenskih obiteljskih kuća",
+    "nadredena": "11.1",
+    "razina": 3,
+    "glavna_uprava_sifra": "11",
+    "glavna_uprava": "UPRAVA ZA PRAVNE POSLOVE U OBNOVI"
+  },
+  {
+    "sifra": "11.1.3.1",
+    "naziv": "Odjel za organizirano uklanjanje i dodjelu novčane pomoći za uklanjanje",
+    "nadredena": "11.1.3",
+    "razina": 4,
+    "glavna_uprava_sifra": "11",
+    "glavna_uprava": "UPRAVA ZA PRAVNE POSLOVE U OBNOVI"
+  },
+  {
+    "sifra": "11.1.3.2",
+    "naziv": "Odjel za dodjelu novčane pomoći za uklanjanje i gradnju zamjenske obiteljske kuće",
+    "nadredena": "11.1.3",
+    "razina": 4,
+    "glavna_uprava_sifra": "11",
+    "glavna_uprava": "UPRAVA ZA PRAVNE POSLOVE U OBNOVI"
+  },
+  {
+    "sifra": "11.1.3.3",
+    "naziv": "Odjel za gradnju zamjenske obiteljske kuće",
+    "nadredena": "11.1.3",
+    "razina": 4,
+    "glavna_uprava_sifra": "11",
+    "glavna_uprava": "UPRAVA ZA PRAVNE POSLOVE U OBNOVI"
+  },
+  {
+    "sifra": "11.1.4",
+    "naziv": "Služba za koordinaciju operativnih aktivnosti",
+    "nadredena": "11.1",
+    "razina": 3,
+    "glavna_uprava_sifra": "11",
+    "glavna_uprava": "UPRAVA ZA PRAVNE POSLOVE U OBNOVI"
+  },
+  {
+    "sifra": "11.2",
+    "naziv": "Sektor za obnovu i dodjelu novčane pomoći zgrada oštećenih potresom",
+    "nadredena": "11",
+    "razina": 2,
+    "glavna_uprava_sifra": "11",
+    "glavna_uprava": "UPRAVA ZA PRAVNE POSLOVE U OBNOVI"
+  },
+  {
+    "sifra": "11.2.1",
+    "naziv": "Služba za dodjelu novčane pomoći za obnovu zgrada",
+    "nadredena": "11.2",
+    "razina": 3,
+    "glavna_uprava_sifra": "11",
+    "glavna_uprava": "UPRAVA ZA PRAVNE POSLOVE U OBNOVI"
+  },
+  {
+    "sifra": "11.2.1.1",
+    "naziv": "Odjel za dodjelu novčane pomoći za obnovu obiteljskih kuća",
+    "nadredena": "11.2.1",
+    "razina": 4,
+    "glavna_uprava_sifra": "11",
+    "glavna_uprava": "UPRAVA ZA PRAVNE POSLOVE U OBNOVI"
+  },
+  {
+    "sifra": "11.2.1.2",
+    "naziv": "Odjel za dodojelu novčane pomoći za obnovu višestambenih, stambeno-poslovnih i poslovnih zgrada",
+    "nadredena": "11.2.1",
+    "razina": 4,
+    "glavna_uprava_sifra": "11",
+    "glavna_uprava": "UPRAVA ZA PRAVNE POSLOVE U OBNOVI"
+  },
+  {
+    "sifra": "11.2.1.3",
+    "naziv": "Odjel za dodjelu novčane pomoći za projektnu dokumentaciju i druge novčane pomoći",
+    "nadredena": "11.2.1",
+    "razina": 4,
+    "glavna_uprava_sifra": "11",
+    "glavna_uprava": "UPRAVA ZA PRAVNE POSLOVE U OBNOVI"
+  },
+  {
+    "sifra": "11.2.2",
+    "naziv": "Služba za gradnju potresom uništenih zgrada na području katastrofe",
+    "nadredena": "11.2",
+    "razina": 3,
+    "glavna_uprava_sifra": "11",
+    "glavna_uprava": "UPRAVA ZA PRAVNE POSLOVE U OBNOVI"
+  },
+  {
+    "sifra": "11.2.3",
+    "naziv": "Služba za zastupanje i državne potpore",
+    "nadredena": "11.2",
+    "razina": 3,
+    "glavna_uprava_sifra": "11",
+    "glavna_uprava": "UPRAVA ZA PRAVNE POSLOVE U OBNOVI"
+  },
+  {
+    "sifra": "11.2.3.1",
+    "naziv": "Odjel za zastupanje",
+    "nadredena": "11.2.3",
+    "razina": 4,
+    "glavna_uprava_sifra": "11",
+    "glavna_uprava": "UPRAVA ZA PRAVNE POSLOVE U OBNOVI"
+  },
+  {
+    "sifra": "11.2.3.2",
+    "naziv": "Odjel za državne potpore",
+    "nadredena": "11.2.3",
+    "razina": 4,
+    "glavna_uprava_sifra": "11",
+    "glavna_uprava": "UPRAVA ZA PRAVNE POSLOVE U OBNOVI"
+  },
+  {
+    "sifra": "11.3",
+    "naziv": "Sektor za stambeno zbrinjavanje u obnovi",
+    "nadredena": "11",
+    "razina": 2,
+    "glavna_uprava_sifra": "11",
+    "glavna_uprava": "UPRAVA ZA PRAVNE POSLOVE U OBNOVI"
+  },
+  {
+    "sifra": "11.3.1",
+    "naziv": "Služba za trajno stambeno zbrinjavanje i zamjenu prava vlasništva umjesto obnove",
+    "nadredena": "11.3",
+    "razina": 3,
+    "glavna_uprava_sifra": "11",
+    "glavna_uprava": "UPRAVA ZA PRAVNE POSLOVE U OBNOVI"
+  },
+  {
+    "sifra": "11.3.1.1",
+    "naziv": "Odjel za trajno stambeno zbrinjavanje",
+    "nadredena": "11.3.1",
+    "razina": 4,
+    "glavna_uprava_sifra": "11",
+    "glavna_uprava": "UPRAVA ZA PRAVNE POSLOVE U OBNOVI"
+  },
+  {
+    "sifra": "11.3.1.2",
+    "naziv": "Odjel za zamjenu prava vlasništva umjesto obnove",
+    "nadredena": "11.3.1",
+    "razina": 4,
+    "glavna_uprava_sifra": "11",
+    "glavna_uprava": "UPRAVA ZA PRAVNE POSLOVE U OBNOVI"
+  },
+  {
+    "sifra": "11.3.2",
+    "naziv": "Služba za privremeno stambeno zbrinjavanje",
+    "nadredena": "11.3",
+    "razina": 3,
+    "glavna_uprava_sifra": "11",
+    "glavna_uprava": "UPRAVA ZA PRAVNE POSLOVE U OBNOVI"
+  },
+  {
+    "sifra": "12",
+    "naziv": "UPRAVA ZA PROVEDBU OBNOVE",
+    "nadredena": "",
+    "razina": 1,
+    "glavna_uprava_sifra": "12",
+    "glavna_uprava": "UPRAVA ZA PROVEDBU OBNOVE"
+  },
+  {
+    "sifra": "12.1",
+    "naziv": "Sektor za pripremu i organizaciju obnove",
+    "nadredena": "12",
+    "razina": 2,
+    "glavna_uprava_sifra": "12",
+    "glavna_uprava": "UPRAVA ZA PROVEDBU OBNOVE"
+  },
+  {
+    "sifra": "12.1.3",
+    "naziv": "Služba za pravne poslove u obnovi",
+    "nadredena": "12.1",
+    "razina": 3,
+    "glavna_uprava_sifra": "12",
+    "glavna_uprava": "UPRAVA ZA PROVEDBU OBNOVE"
+  },
+  {
+    "sifra": "12.2",
+    "naziv": "Sektor za kontrolu i praćenje izgradnje zgrada",
+    "nadredena": "12",
+    "razina": 2,
+    "glavna_uprava_sifra": "12",
+    "glavna_uprava": "UPRAVA ZA PROVEDBU OBNOVE"
+  },
+  {
+    "sifra": "12.2.1",
+    "naziv": "Služba za kontrolu i praćenje izgradnje obiteljskih kuća",
+    "nadredena": "12.2",
+    "razina": 3,
+    "glavna_uprava_sifra": "12",
+    "glavna_uprava": "UPRAVA ZA PROVEDBU OBNOVE"
+  },
+  {
+    "sifra": "12.2.1.1",
+    "naziv": "Odjel za kontrolu i praćenje izgradnje obiteljskih kuća",
+    "nadredena": "12.2.1",
+    "razina": 4,
+    "glavna_uprava_sifra": "12",
+    "glavna_uprava": "UPRAVA ZA PROVEDBU OBNOVE"
+  },
+  {
+    "sifra": "12.2.2",
+    "naziv": "Služba za kontrolu i praćenje izgradnje višestambenih i stambeno-poslovnih zgrada",
+    "nadredena": "12.2",
+    "razina": 3,
+    "glavna_uprava_sifra": "12",
+    "glavna_uprava": "UPRAVA ZA PROVEDBU OBNOVE"
+  },
+  {
+    "sifra": "12.3",
+    "naziv": "Sektor za kontrolu i praćenje obnove konstrukcije zgrada",
+    "nadredena": "12",
+    "razina": 2,
+    "glavna_uprava_sifra": "12",
+    "glavna_uprava": "UPRAVA ZA PROVEDBU OBNOVE"
+  },
+  {
+    "sifra": "12.3.1",
+    "naziv": "Služba za kontrolu i praćenje obnove konstrukcije obiteljskih kuća",
+    "nadredena": "12.3",
+    "razina": 3,
+    "glavna_uprava_sifra": "12",
+    "glavna_uprava": "UPRAVA ZA PROVEDBU OBNOVE"
+  },
+  {
+    "sifra": "12.3.1.1",
+    "naziv": "Odjel za kontrolu i praćenje organizirane obnove konstrukcije obiteljskih kuća",
+    "nadredena": "12.3.1",
+    "razina": 4,
+    "glavna_uprava_sifra": "12",
+    "glavna_uprava": "UPRAVA ZA PROVEDBU OBNOVE"
+  },
+  {
+    "sifra": "12.3.1.2",
+    "naziv": "Odjel za dodjelu novčane pomoći za obnovu konstrukcije obiteljskih kuća",
+    "nadredena": "12.3.1",
+    "razina": 4,
+    "glavna_uprava_sifra": "12",
+    "glavna_uprava": "UPRAVA ZA PROVEDBU OBNOVE"
+  },
+  {
+    "sifra": "12.3.2",
+    "naziv": "Služba za kontrolu i praćenje obnove konstrukcije višestambenih, stambeno-poslovnih i poslovnih zgrada",
+    "nadredena": "12.3",
+    "razina": 3,
+    "glavna_uprava_sifra": "12",
+    "glavna_uprava": "UPRAVA ZA PROVEDBU OBNOVE"
+  },
+  {
+    "sifra": "12.3.2.1",
+    "naziv": "Odjel za kontrolu i praćenje organizirane obnove konstrukcije višestambenih, stambeno-poslovnih i poslovnih zgrada",
+    "nadredena": "12.3.2",
+    "razina": 4,
+    "glavna_uprava_sifra": "12",
+    "glavna_uprava": "UPRAVA ZA PROVEDBU OBNOVE"
+  },
+  {
+    "sifra": "12.3.2.2",
+    "naziv": "Odjel za dodjelu novčane pomoći za obnovu konstrukcije višestambenih, stambeno-poslovnih i poslovnih zgrada",
+    "nadredena": "12.3.2",
+    "razina": 4,
+    "glavna_uprava_sifra": "12",
+    "glavna_uprava": "UPRAVA ZA PROVEDBU OBNOVE"
+  },
+  {
+    "sifra": "12.4",
+    "naziv": "Sektor za kontrolu i praćenje nekonstrukcijske obnove zgrada",
+    "nadredena": "12",
+    "razina": 2,
+    "glavna_uprava_sifra": "12",
+    "glavna_uprava": "UPRAVA ZA PROVEDBU OBNOVE"
+  },
+  {
+    "sifra": "12.4.1",
+    "naziv": "Služba za kontrolu i praćenje organizirane nekonstrukcijske obnove višestambenih, stambeno-poslovnih i poslovnih zgrada",
+    "nadredena": "12.4",
+    "razina": 3,
+    "glavna_uprava_sifra": "12",
+    "glavna_uprava": "UPRAVA ZA PROVEDBU OBNOVE"
+  },
+  {
+    "sifra": "12.4.1.1",
+    "naziv": "Odjel za kontrolu i praćenje usluga u postupcima organizirane nekonstrukcijske obnove višestambenih, stambeno-poslovnih i poslovnih zgrada",
+    "nadredena": "12.4.1",
+    "razina": 4,
+    "glavna_uprava_sifra": "12",
+    "glavna_uprava": "UPRAVA ZA PROVEDBU OBNOVE"
+  },
+  {
+    "sifra": "12.4.1.2",
+    "naziv": "Odjel za kontrolu i praćenje radova u postupcima organizirane nekonstrukcijske obnove višestambenih, stambeno-poslovnih i poslovnih zgrada",
+    "nadredena": "12.4.1",
+    "razina": 4,
+    "glavna_uprava_sifra": "12",
+    "glavna_uprava": "UPRAVA ZA PROVEDBU OBNOVE"
+  },
+  {
+    "sifra": "12.4.2",
+    "naziv": "Služba za kontrolu i praćenje organizirane nekonstrukcijske obnove obiteljskih kuća",
+    "nadredena": "12.4",
+    "razina": 3,
+    "glavna_uprava_sifra": "12",
+    "glavna_uprava": "UPRAVA ZA PROVEDBU OBNOVE"
+  },
+  {
+    "sifra": "12.4.3",
+    "naziv": "Služba za novčanu pomoć za nekonstrukcijsku obnovu",
+    "nadredena": "12.4",
+    "razina": 3,
+    "glavna_uprava_sifra": "12",
+    "glavna_uprava": "UPRAVA ZA PROVEDBU OBNOVE"
+  },
+  {
+    "sifra": "12.4.3.1",
+    "naziv": "Odjel za dodjelu novčane pomoći za nekonstrukcijsku obnovu obiteljskih kuća",
+    "nadredena": "12.4.3",
+    "razina": 4,
+    "glavna_uprava_sifra": "12",
+    "glavna_uprava": "UPRAVA ZA PROVEDBU OBNOVE"
+  },
+  {
+    "sifra": "12.4.3.2",
+    "naziv": "Odjel za dodjelu novčane pomoći za nekonstrukcijsku obnovu višestambenih, stambeno-poslovnih i poslovnih zgrada",
+    "nadredena": "12.4.3",
+    "razina": 4,
+    "glavna_uprava_sifra": "12",
+    "glavna_uprava": "UPRAVA ZA PROVEDBU OBNOVE"
+  },
+  {
+    "sifra": "12.5",
+    "naziv": "Sektor za podršku i privremeni smještaj",
+    "nadredena": "12",
+    "razina": 2,
+    "glavna_uprava_sifra": "12",
+    "glavna_uprava": "UPRAVA ZA PROVEDBU OBNOVE"
+  },
+  {
+    "sifra": "12.5.1",
+    "naziv": "Služba za podršku potresom pogođenih područja",
+    "nadredena": "12.5",
+    "razina": 3,
+    "glavna_uprava_sifra": "12",
+    "glavna_uprava": "UPRAVA ZA PROVEDBU OBNOVE"
+  },
+  {
+    "sifra": "12.5.2",
+    "naziv": "Služba za koordinaciju aktivnosti privremenoga smještaja",
+    "nadredena": "12.5",
+    "razina": 3,
+    "glavna_uprava_sifra": "12",
+    "glavna_uprava": "UPRAVA ZA PROVEDBU OBNOVE"
+  },
+  {
+    "sifra": "12.5.2.1",
+    "naziv": "Odjel za stambene jedinice",
+    "nadredena": "12.5.2",
+    "razina": 4,
+    "glavna_uprava_sifra": "12",
+    "glavna_uprava": "UPRAVA ZA PROVEDBU OBNOVE"
+  },
+  {
+    "sifra": "12.5.2.2",
+    "naziv": "Odjel za mobilne jedinice",
+    "nadredena": "12.5.2",
+    "razina": 4,
+    "glavna_uprava_sifra": "12",
+    "glavna_uprava": "UPRAVA ZA PROVEDBU OBNOVE"
+  },
+  {
+    "sifra": "12.6",
+    "naziv": "Sektor za razvoj infromacijskog sustava i izvještavanje o provedbi obnove",
+    "nadredena": "12",
+    "razina": 2,
+    "glavna_uprava_sifra": "12",
+    "glavna_uprava": "UPRAVA ZA PROVEDBU OBNOVE"
+  },
+  {
+    "sifra": "12.6.1",
+    "naziv": "Služba za razvoj mrežne aplikacije",
+    "nadredena": "12.6",
+    "razina": 3,
+    "glavna_uprava_sifra": "12",
+    "glavna_uprava": "UPRAVA ZA PROVEDBU OBNOVE"
+  },
+  {
+    "sifra": "12.6.2",
+    "naziv": "Služba za izvještavanje o provedbi obnove",
+    "nadredena": "12.6",
+    "razina": 3,
+    "glavna_uprava_sifra": "12",
+    "glavna_uprava": "UPRAVA ZA PROVEDBU OBNOVE"
+  },
+  {
+    "sifra": "13",
+    "naziv": "UPRAVA ZA STAMBENO ZBRINJAVANJE",
+    "nadredena": "",
+    "razina": 1,
+    "glavna_uprava_sifra": "13",
+    "glavna_uprava": "UPRAVA ZA STAMBENO ZBRINJAVANJE"
+  },
+  {
+    "sifra": "13.1",
+    "naziv": "Sektor za upravljanje nekretninama i provedbu programa stambenog zbrinjavanja",
+    "nadredena": "13",
+    "razina": 2,
+    "glavna_uprava_sifra": "13",
+    "glavna_uprava": "UPRAVA ZA STAMBENO ZBRINJAVANJE"
+  },
+  {
+    "sifra": "13.1.1",
+    "naziv": "Služba za upravljanje nekretninama",
+    "nadredena": "13.1",
+    "razina": 3,
+    "glavna_uprava_sifra": "13",
+    "glavna_uprava": "UPRAVA ZA STAMBENO ZBRINJAVANJE"
+  },
+  {
+    "sifra": "13.1.2",
+    "naziv": "Služba za najam i praćenje prihoda državnog proračuna",
+    "nadredena": "13.1",
+    "razina": 3,
+    "glavna_uprava_sifra": "13",
+    "glavna_uprava": "UPRAVA ZA STAMBENO ZBRINJAVANJE"
+  },
+  {
+    "sifra": "13.1.3",
+    "naziv": "Služba za provedbu programa za stambeno zbrinjavanje",
+    "nadredena": "13.1",
+    "razina": 3,
+    "glavna_uprava_sifra": "13",
+    "glavna_uprava": "UPRAVA ZA STAMBENO ZBRINJAVANJE"
+  },
+  {
+    "sifra": "13.1.4",
+    "naziv": "Služba za obnovu i izgradnju stambenih jedinica",
+    "nadredena": "13.1",
+    "razina": 3,
+    "glavna_uprava_sifra": "13",
+    "glavna_uprava": "UPRAVA ZA STAMBENO ZBRINJAVANJE"
+  },
+  {
+    "sifra": "13.1.4.1",
+    "naziv": "Odjel za obnovu",
+    "nadredena": "13.1.4",
+    "razina": 4,
+    "glavna_uprava_sifra": "13",
+    "glavna_uprava": "UPRAVA ZA STAMBENO ZBRINJAVANJE"
+  },
+  {
+    "sifra": "13.1.4.2",
+    "naziv": "Odjel za izgradnju",
+    "nadredena": "13.1.4",
+    "razina": 4,
+    "glavna_uprava_sifra": "13",
+    "glavna_uprava": "UPRAVA ZA STAMBENO ZBRINJAVANJE"
+  },
+  {
+    "sifra": "13.2",
+    "naziv": "Sektor za imovinsko-pravne poslove stambenog zbrinjavanja",
+    "nadredena": "13",
+    "razina": 2,
+    "glavna_uprava_sifra": "13",
+    "glavna_uprava": "UPRAVA ZA STAMBENO ZBRINJAVANJE"
+  },
+  {
+    "sifra": "13.2.1",
+    "naziv": "Služba za raskide upravnih ugovora i neupravna postupanja",
+    "nadredena": "13.2",
+    "razina": 3,
+    "glavna_uprava_sifra": "13",
+    "glavna_uprava": "UPRAVA ZA STAMBENO ZBRINJAVANJE"
+  },
+  {
+    "sifra": "13.2.2",
+    "naziv": "Služba za imovinsko-pravne poslove",
+    "nadredena": "13.2",
+    "razina": 3,
+    "glavna_uprava_sifra": "13",
+    "glavna_uprava": "UPRAVA ZA STAMBENO ZBRINJAVANJE"
+  },
+  {
+    "sifra": "13.2.2.1",
+    "naziv": "Odjel za vlasničko-pravno uređenje",
+    "nadredena": "13.2.2",
+    "razina": 4,
+    "glavna_uprava_sifra": "13",
+    "glavna_uprava": "UPRAVA ZA STAMBENO ZBRINJAVANJE"
+  },
+  {
+    "sifra": "13.2.2.2",
+    "naziv": "Odjel za prodaju i darovanje",
+    "nadredena": "13.2.2",
+    "razina": 4,
+    "glavna_uprava_sifra": "13",
+    "glavna_uprava": "UPRAVA ZA STAMBENO ZBRINJAVANJE"
+  },
+  {
+    "sifra": "13.3",
+    "naziv": "Sektor za provedbu međunarodnih programa",
+    "nadredena": "13",
+    "razina": 2,
+    "glavna_uprava_sifra": "13",
+    "glavna_uprava": "UPRAVA ZA STAMBENO ZBRINJAVANJE"
+  },
+  {
+    "sifra": "13.3.1",
+    "naziv": "Služba za međunarodne programe",
+    "nadredena": "13.3",
+    "razina": 3,
+    "glavna_uprava_sifra": "13",
+    "glavna_uprava": "UPRAVA ZA STAMBENO ZBRINJAVANJE"
+  },
+  {
+    "sifra": "13.3.1.1",
+    "naziv": "Odjel za pripremu i provedbu projekata za financiranje iz fondova Europske unije",
+    "nadredena": "13.3.1",
+    "razina": 4,
+    "glavna_uprava_sifra": "13",
+    "glavna_uprava": "UPRAVA ZA STAMBENO ZBRINJAVANJE"
+  },
+  {
+    "sifra": "13.3.1.2",
+    "naziv": "Odjel za smještaj osoba s odobrenom međunarodnom zaštitom",
+    "nadredena": "13.3.1",
+    "razina": 4,
+    "glavna_uprava_sifra": "13",
+    "glavna_uprava": "UPRAVA ZA STAMBENO ZBRINJAVANJE"
+  },
+  {
+    "sifra": "13.3.2",
+    "naziv": "Služba za projekte i programe suzbijanja energetskog siromaštva",
+    "nadredena": "13.3",
+    "razina": 3,
+    "glavna_uprava_sifra": "13",
+    "glavna_uprava": "UPRAVA ZA STAMBENO ZBRINJAVANJE"
+  },
+  {
+    "sifra": "13.3.2.1",
+    "naziv": "Odjel za pripremu projekata i programa",
+    "nadredena": "13.3.2",
+    "razina": 4,
+    "glavna_uprava_sifra": "13",
+    "glavna_uprava": "UPRAVA ZA STAMBENO ZBRINJAVANJE"
+  },
+  {
+    "sifra": "13.3.2.2",
+    "naziv": "Odjel za provedbu projekata i programa",
+    "nadredena": "13.3.2",
+    "razina": 4,
+    "glavna_uprava_sifra": "13",
+    "glavna_uprava": "UPRAVA ZA STAMBENO ZBRINJAVANJE"
+  },
+  {
+    "sifra": "13.4",
+    "naziv": "PODRUČNA SLUŽBA PETRINJA",
+    "nadredena": "13",
+    "razina": 2,
+    "glavna_uprava_sifra": "13",
+    "glavna_uprava": "UPRAVA ZA STAMBENO ZBRINJAVANJE"
+  },
+  {
+    "sifra": "13.5",
+    "naziv": "PODRUČNA SLUŽBA VUKOVAR",
+    "nadredena": "13",
+    "razina": 2,
+    "glavna_uprava_sifra": "13",
+    "glavna_uprava": "UPRAVA ZA STAMBENO ZBRINJAVANJE"
+  },
+  {
+    "sifra": "13.5.1",
+    "naziv": "Odjel I",
+    "nadredena": "13.5",
+    "razina": 3,
+    "glavna_uprava_sifra": "13",
+    "glavna_uprava": "UPRAVA ZA STAMBENO ZBRINJAVANJE"
+  },
+  {
+    "sifra": "13.5.2",
+    "naziv": "Odjel II",
+    "nadredena": "13.5",
+    "razina": 3,
+    "glavna_uprava_sifra": "13",
+    "glavna_uprava": "UPRAVA ZA STAMBENO ZBRINJAVANJE"
+  },
+  {
+    "sifra": "13.5.3",
+    "naziv": "Ispostava Osijek",
+    "nadredena": "13.5",
+    "razina": 3,
+    "glavna_uprava_sifra": "13",
+    "glavna_uprava": "UPRAVA ZA STAMBENO ZBRINJAVANJE"
+  },
+  {
+    "sifra": "13.5.4",
+    "naziv": "Ispostava Slavonski Brod",
+    "nadredena": "13.5",
+    "razina": 3,
+    "glavna_uprava_sifra": "13",
+    "glavna_uprava": "UPRAVA ZA STAMBENO ZBRINJAVANJE"
+  },
+  {
+    "sifra": "13.6",
+    "naziv": "PODRUČNA SLUŽBA GOSPIĆ",
+    "nadredena": "13",
+    "razina": 2,
+    "glavna_uprava_sifra": "13",
+    "glavna_uprava": "UPRAVA ZA STAMBENO ZBRINJAVANJE"
+  },
+  {
+    "sifra": "13.7",
+    "naziv": "PODRUČNA SLUŽBA KNIN",
+    "nadredena": "13",
+    "razina": 2,
+    "glavna_uprava_sifra": "13",
+    "glavna_uprava": "UPRAVA ZA STAMBENO ZBRINJAVANJE"
+  },
+  {
+    "sifra": "13.8",
+    "naziv": "PODRUČNA SLUŽBA ZADAR",
+    "nadredena": "13",
+    "razina": 2,
+    "glavna_uprava_sifra": "13",
+    "glavna_uprava": "UPRAVA ZA STAMBENO ZBRINJAVANJE"
+  },
+  {
+    "sifra": "13.9",
+    "naziv": "PODRUČNA SLUŽBA KARLOVAC",
+    "nadredena": "13",
+    "razina": 2,
+    "glavna_uprava_sifra": "13",
+    "glavna_uprava": "UPRAVA ZA STAMBENO ZBRINJAVANJE"
+  },
+  {
+    "sifra": "13.9.1",
+    "naziv": "Ispostava Zagreb",
+    "nadredena": "13.9",
+    "razina": 3,
+    "glavna_uprava_sifra": "13",
+    "glavna_uprava": "UPRAVA ZA STAMBENO ZBRINJAVANJE"
+  },
+  {
+    "sifra": "14",
+    "naziv": "UPRAVA ZA PROVEDBU STAMBENE POLITIKE, KVALITETU STANOVANJA I KOMUNALNO GOSPODARSTVO",
+    "nadredena": "",
+    "razina": 1,
+    "glavna_uprava_sifra": "14",
+    "glavna_uprava": "UPRAVA ZA PROVEDBU STAMBENE POLITIKE, KVALITETU STANOVANJA I KOMUNALNO GOSPODARSTVO"
+  },
+  {
+    "sifra": "14.1",
+    "naziv": "Sektor za provedbu stambene politike",
+    "nadredena": "14",
+    "razina": 2,
+    "glavna_uprava_sifra": "14",
+    "glavna_uprava": "UPRAVA ZA PROVEDBU STAMBENE POLITIKE, KVALITETU STANOVANJA I KOMUNALNO GOSPODARSTVO"
+  },
+  {
+    "sifra": "14.1.1",
+    "naziv": "Služba za provedbu programa i mjera stambene politike",
+    "nadredena": "14.1",
+    "razina": 3,
+    "glavna_uprava_sifra": "14",
+    "glavna_uprava": "UPRAVA ZA PROVEDBU STAMBENE POLITIKE, KVALITETU STANOVANJA I KOMUNALNO GOSPODARSTVO"
+  },
+  {
+    "sifra": "14.1.2",
+    "naziv": "Služba za praćenje provedbe i revalorizaciju mjera stambene politike",
+    "nadredena": "14.1",
+    "razina": 3,
+    "glavna_uprava_sifra": "14",
+    "glavna_uprava": "UPRAVA ZA PROVEDBU STAMBENE POLITIKE, KVALITETU STANOVANJA I KOMUNALNO GOSPODARSTVO"
+  },
+  {
+    "sifra": "14.2",
+    "naziv": "Sektor za kvalitetu stanovanja, procjenu vrijedlosti nekretnina i komunalno gospodarstvo",
+    "nadredena": "14",
+    "razina": 2,
+    "glavna_uprava_sifra": "14",
+    "glavna_uprava": "UPRAVA ZA PROVEDBU STAMBENE POLITIKE, KVALITETU STANOVANJA I KOMUNALNO GOSPODARSTVO"
+  },
+  {
+    "sifra": "14.2.1",
+    "naziv": "Služba za kvalitetu stanovanja i međuvlasničke odnose u stambenim zgradama",
+    "nadredena": "14.2",
+    "razina": 3,
+    "glavna_uprava_sifra": "14",
+    "glavna_uprava": "UPRAVA ZA PROVEDBU STAMBENE POLITIKE, KVALITETU STANOVANJA I KOMUNALNO GOSPODARSTVO"
+  },
+  {
+    "sifra": "14.2.2",
+    "naziv": "Služba za procjenu vrijednosti nekretnina",
+    "nadredena": "14.2",
+    "razina": 3,
+    "glavna_uprava_sifra": "14",
+    "glavna_uprava": "UPRAVA ZA PROVEDBU STAMBENE POLITIKE, KVALITETU STANOVANJA I KOMUNALNO GOSPODARSTVO"
+  },
+  {
+    "sifra": "14.2.2.1",
+    "naziv": "Odjel za analizu procjena vrijednosti nekretnina",
+    "nadredena": "14.2.2",
+    "razina": 4,
+    "glavna_uprava_sifra": "14",
+    "glavna_uprava": "UPRAVA ZA PROVEDBU STAMBENE POLITIKE, KVALITETU STANOVANJA I KOMUNALNO GOSPODARSTVO"
+  },
+  {
+    "sifra": "14.2.2.2",
+    "naziv": "Odjel za regulativu procjena vrijednosti nekretnina",
+    "nadredena": "14.2.2",
+    "razina": 4,
+    "glavna_uprava_sifra": "14",
+    "glavna_uprava": "UPRAVA ZA PROVEDBU STAMBENE POLITIKE, KVALITETU STANOVANJA I KOMUNALNO GOSPODARSTVO"
+  },
+  {
+    "sifra": "14.2.3",
+    "naziv": "Služba za komunalno gospodarstvo",
+    "nadredena": "14.2",
+    "razina": 3,
+    "glavna_uprava_sifra": "14",
+    "glavna_uprava": "UPRAVA ZA PROVEDBU STAMBENE POLITIKE, KVALITETU STANOVANJA I KOMUNALNO GOSPODARSTVO"
+  },
+  {
+    "sifra": "14.3",
+    "naziv": "Sektor za zaštićene najmoprimce",
+    "nadredena": "14",
+    "razina": 2,
+    "glavna_uprava_sifra": "14",
+    "glavna_uprava": "UPRAVA ZA PROVEDBU STAMBENE POLITIKE, KVALITETU STANOVANJA I KOMUNALNO GOSPODARSTVO"
+  },
+  {
+    "sifra": "14.3.1",
+    "naziv": "Služba za uređenje statusa zaštićenih najmoprimaca u stanovima u privatnom vlasništvu",
+    "nadredena": "14.3",
+    "razina": 3,
+    "glavna_uprava_sifra": "14",
+    "glavna_uprava": "UPRAVA ZA PROVEDBU STAMBENE POLITIKE, KVALITETU STANOVANJA I KOMUNALNO GOSPODARSTVO"
+  },
+  {
+    "sifra": "14.3.2",
+    "naziv": "Služba za uređenje statusa zaštićenih najmoprimaca u stanovima u javnom vlasništvu",
+    "nadredena": "14.3",
+    "razina": 3,
+    "glavna_uprava_sifra": "14",
+    "glavna_uprava": "UPRAVA ZA PROVEDBU STAMBENE POLITIKE, KVALITETU STANOVANJA I KOMUNALNO GOSPODARSTVO"
+  },
+  {
+    "sifra": "15",
+    "naziv": "UPRAVA ZA UPRAVLJANJE I RASPOLAGANJE NEKRETNINAMA",
+    "nadredena": "",
+    "razina": 1,
+    "glavna_uprava_sifra": "15",
+    "glavna_uprava": "UPRAVA ZA UPRAVLJANJE I RASPOLAGANJE NEKRETNINAMA"
+  },
+  {
+    "sifra": "15.1",
+    "naziv": "Sektor za Interni registar nekretnina, zemljišta, poslovne prostore i stanove",
+    "nadredena": "15",
+    "razina": 2,
+    "glavna_uprava_sifra": "15",
+    "glavna_uprava": "UPRAVA ZA UPRAVLJANJE I RASPOLAGANJE NEKRETNINAMA"
+  },
+  {
+    "sifra": "15.1.1",
+    "naziv": "Služba za vođenje Internog registra nekretnina i evidenciju nekretnina",
+    "nadredena": "15.1",
+    "razina": 3,
+    "glavna_uprava_sifra": "15",
+    "glavna_uprava": "UPRAVA ZA UPRAVLJANJE I RASPOLAGANJE NEKRETNINAMA"
+  },
+  {
+    "sifra": "15.1.1.1",
+    "naziv": "Područni odjel Rijeka",
+    "nadredena": "15.1.1",
+    "razina": 4,
+    "glavna_uprava_sifra": "15",
+    "glavna_uprava": "UPRAVA ZA UPRAVLJANJE I RASPOLAGANJE NEKRETNINAMA"
+  },
+  {
+    "sifra": "15.1.1.2",
+    "naziv": "Područni odjel Split",
+    "nadredena": "15.1.1",
+    "razina": 4,
+    "glavna_uprava_sifra": "15",
+    "glavna_uprava": "UPRAVA ZA UPRAVLJANJE I RASPOLAGANJE NEKRETNINAMA"
+  },
+  {
+    "sifra": "15.1.1.3",
+    "naziv": "Područni odjel Osijek",
+    "nadredena": "15.1.1",
+    "razina": 4,
+    "glavna_uprava_sifra": "15",
+    "glavna_uprava": "UPRAVA ZA UPRAVLJANJE I RASPOLAGANJE NEKRETNINAMA"
+  },
+  {
+    "sifra": "15.1.2",
+    "naziv": "Služba za zemljišta i planinarske objekte",
+    "nadredena": "15.1",
+    "razina": 3,
+    "glavna_uprava_sifra": "15",
+    "glavna_uprava": "UPRAVA ZA UPRAVLJANJE I RASPOLAGANJE NEKRETNINAMA"
+  },
+  {
+    "sifra": "15.1.3",
+    "naziv": "Služba za poslovne prostore, stanove i nekretnine pod posebnim načinom upravljanja",
+    "nadredena": "15.1",
+    "razina": 3,
+    "glavna_uprava_sifra": "15",
+    "glavna_uprava": "UPRAVA ZA UPRAVLJANJE I RASPOLAGANJE NEKRETNINAMA"
+  },
+  {
+    "sifra": "15.2",
+    "naziv": "Sektor za neprocijenjeno građevinsko zemljište, investicijske projekte, jedinice lokalne i područne (regionalne) samouprave, tehničke poslove i imovinsko-pravne poslove",
+    "nadredena": "15",
+    "razina": 2,
+    "glavna_uprava_sifra": "15",
+    "glavna_uprava": "UPRAVA ZA UPRAVLJANJE I RASPOLAGANJE NEKRETNINAMA"
+  },
+  {
+    "sifra": "15.2.1",
+    "naziv": "Služba za neprocijenjeno građevinsko zemljište",
+    "nadredena": "15.2",
+    "razina": 3,
+    "glavna_uprava_sifra": "15",
+    "glavna_uprava": "UPRAVA ZA UPRAVLJANJE I RASPOLAGANJE NEKRETNINAMA"
+  },
+  {
+    "sifra": "15.2.2",
+    "naziv": "Služba za investicijske projekte",
+    "nadredena": "15.2",
+    "razina": 3,
+    "glavna_uprava_sifra": "15",
+    "glavna_uprava": "UPRAVA ZA UPRAVLJANJE I RASPOLAGANJE NEKRETNINAMA"
+  },
+  {
+    "sifra": "15.2.3",
+    "naziv": "Služba za jedinice lokalne i područne (regionalne) samouprave",
+    "nadredena": "15.2",
+    "razina": 3,
+    "glavna_uprava_sifra": "15",
+    "glavna_uprava": "UPRAVA ZA UPRAVLJANJE I RASPOLAGANJE NEKRETNINAMA"
+  },
+  {
+    "sifra": "15.2.4",
+    "naziv": "Služba za tehničke poslove",
+    "nadredena": "15.2",
+    "razina": 3,
+    "glavna_uprava_sifra": "15",
+    "glavna_uprava": "UPRAVA ZA UPRAVLJANJE I RASPOLAGANJE NEKRETNINAMA"
+  },
+  {
+    "sifra": "15.2.5",
+    "naziv": "Služba za imovinsko-pravne poslove",
+    "nadredena": "15.2",
+    "razina": 3,
+    "glavna_uprava_sifra": "15",
+    "glavna_uprava": "UPRAVA ZA UPRAVLJANJE I RASPOLAGANJE NEKRETNINAMA"
+  },
+  {
+    "sifra": "15.3",
+    "naziv": "Sektor za strateško planiranje, EU projekte, regulativu i izvještavanje",
+    "nadredena": "15",
+    "razina": 2,
+    "glavna_uprava_sifra": "15",
+    "glavna_uprava": "UPRAVA ZA UPRAVLJANJE I RASPOLAGANJE NEKRETNINAMA"
+  },
+  {
+    "sifra": "15.3.1",
+    "naziv": "Služba za strateško planiranje i EU projekte",
+    "nadredena": "15.3",
+    "razina": 3,
+    "glavna_uprava_sifra": "15",
+    "glavna_uprava": "UPRAVA ZA UPRAVLJANJE I RASPOLAGANJE NEKRETNINAMA"
+  },
+  {
+    "sifra": "15.3.2",
+    "naziv": "Služba za koordinaciju i regulativu",
+    "nadredena": "15.3",
+    "razina": 3,
+    "glavna_uprava_sifra": "15",
+    "glavna_uprava": "UPRAVA ZA UPRAVLJANJE I RASPOLAGANJE NEKRETNINAMA"
+  },
+  {
+    "sifra": "15.3.3",
+    "naziv": "Služba za analizu i izvještavanje",
+    "nadredena": "15.3",
+    "razina": 3,
+    "glavna_uprava_sifra": "15",
+    "glavna_uprava": "UPRAVA ZA UPRAVLJANJE I RASPOLAGANJE NEKRETNINAMA"
+  }
+]
